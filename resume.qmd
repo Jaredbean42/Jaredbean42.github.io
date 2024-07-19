@@ -1,40 +1,57 @@
 ---
-layout: cv
-title: Jared Bean
+title: "Jared Bean Resume"
+author: "Jared Bean"
+date: "2024"
+output: html_document
 ---
-Economist, Statatician, Beast.
 
-
-<a href="https://www.linkedin.com/in/jared-bean-7b2683253/">Jared Bean's LinkedIn Profile</a>
-
-
-## Currently
-
-Studying at BYU ID
-
-### Specialized in
-
-Statistics, Economics, Data Science, Accounting
-
-
-### Research interests
-
-Education, Judo, and Bjj
-
+# Jared Bean
+[Email: jbean42@byui.edu](mailto:jbean42@byui.edu) | 986.231.8940 | [LinkedIn](https://www.linkedin.com/in/jared-e-bean)
 
 ## Education
+**Bachelor of Science in Economics**  
+Brigham Young University–Idaho, Rexburg, ID  
+2021 - 2025  
+- Societies: Economics Society, Data Science Society  
+- Scholarships: Moral & Ethical Leadership - Ira & Mary Lou Fulton, BYU Idaho Grant  
+- GPA: 3.6  
+- Emphasis: Data Science, Accounting  
 
-Highschool
-Some Collage
+## Experience
 
+**Research Assistant**  
+Brigham Young University–Idaho, Rexburg, ID  
+January 2023 – June 2024  
+- Used R Studios to draw conclusions from data with regression models and graphs.
+- Created tables in LaTeX to inform teachers of important statistical teaching information.
 
-## Occupation
-Getting good grades in school
+**Tutor**  
+Brigham Young University–Idaho, Rexburg, ID  
+September 2023 – June 2024  
+- Increased 20+ students’ comprehension by teaching Micro and Macro Economic fundamentals.
+- Enhanced students’ ability to study by teaching study skills and habits.
 
+**Bookkeeper**  
+Richard L. Joliet CPA, Prescott, AZ  
+July 2022 – September 2022  
+- Accelerated speed by 15% for client financial statement completion.
+- Outlined easy-to-read summaries of expenses and revenue with QuickBooks and Excel.
+- Organized financial statements and tax returns for clients.
 
+**Patient Manager**  
+Statewide Home Health Staffing, Prescott, AZ  
+February 2021 – April 2021  
+- Streamlined communication between patients and the company.
+- Arranged and provided training for employee onboarding materials and equipment.
 
+**Full Time Volunteer**  
+The Church of Jesus Christ of Latter-Day Saints, San Jose, California & Chile Concepción  
+March 2019 – February 2021  
+- Taught classes of 25+ students English with a pass rate of over 90%.
+- Attained fluency in Spanish to communicate concepts and ideas with classes.
+- Learned to connect with people from various cultural backgrounds.
 
-
-<!-- ### Footer
-
-Last updated: May 2024 -->
+## Skills
+- **Data Analytical skills:** OLS Regressions, Logit Regressions, Econometrics, Statistics, LaTeX.
+- **Coding languages:** Python, R-Studio, VBA, Excel.
+- **Other:** Google Workspace, Microsoft Office Suite, fluent in Spanish.

@@ -44,9 +44,9 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Jared Bean",
+    "title": "Jared Bean Resume",
     "section": "",
-    "text": "Economist, Statatician, Beast.\nJared Bean’s LinkedIn Profile"
+    "text": "Email: jbean42@byui.edu | 986.231.8940 | LinkedIn\n\n\nBachelor of Science in Economics\nBrigham Young University–Idaho, Rexburg, ID\n2021 - 2025\n- Societies: Economics Society, Data Science Society\n- Scholarships: Moral & Ethical Leadership - Ira & Mary Lou Fulton, BYU Idaho Grant\n- GPA: 3.6\n- Emphasis: Data Science, Accounting\n\n\n\nResearch Assistant\nBrigham Young University–Idaho, Rexburg, ID\nJanuary 2023 – June 2024\n- Used R Studios to draw conclusions from data with regression models and graphs. - Created tables in LaTeX to inform teachers of important statistical teaching information.\nTutor\nBrigham Young University–Idaho, Rexburg, ID\nSeptember 2023 – June 2024\n- Increased 20+ students’ comprehension by teaching Micro and Macro Economic fundamentals. - Enhanced students’ ability to study by teaching study skills and habits.\nBookkeeper\nRichard L. Joliet CPA, Prescott, AZ\nJuly 2022 – September 2022\n- Accelerated speed by 15% for client financial statement completion. - Outlined easy-to-read summaries of expenses and revenue with QuickBooks and Excel. - Organized financial statements and tax returns for clients.\nPatient Manager\nStatewide Home Health Staffing, Prescott, AZ\nFebruary 2021 – April 2021\n- Streamlined communication between patients and the company. - Arranged and provided training for employee onboarding materials and equipment.\nFull Time Volunteer\nThe Church of Jesus Christ of Latter-Day Saints, San Jose, California & Chile Concepción\nMarch 2019 – February 2021\n- Taught classes of 25+ students English with a pass rate of over 90%. - Attained fluency in Spanish to communicate concepts and ideas with classes. - Learned to connect with people from various cultural backgrounds.\n\n\n\n\nData Analytical skills: OLS Regressions, Logit Regressions, Econometrics, Statistics, LaTeX.\nCoding languages: Python, R-Studio, VBA, Excel.\nOther: Google Workspace, Microsoft Office Suite, fluent in Spanish."
   },
   {
     "objectID": "resume.html#currently",
@@ -58,9 +58,9 @@
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "Jared Bean",
-    "section": "Education",
-    "text": "Education\nHighschool Some Collage"
+    "title": "Jared Bean Resume",
+    "section": "",
+    "text": "Bachelor of Science in Economics\nBrigham Young University–Idaho, Rexburg, ID\n2021 - 2025\n- Societies: Economics Society, Data Science Society\n- Scholarships: Moral & Ethical Leadership - Ira & Mary Lou Fulton, BYU Idaho Grant\n- GPA: 3.6\n- Emphasis: Data Science, Accounting"
   },
   {
     "objectID": "resume.html#occupation",
@@ -470,5 +470,19 @@
       "Story Telling",
       "Project 5"
     ]
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Jared Bean Resume",
+    "section": "",
+    "text": "Research Assistant\nBrigham Young University–Idaho, Rexburg, ID\nJanuary 2023 – June 2024\n- Used R Studios to draw conclusions from data with regression models and graphs. - Created tables in LaTeX to inform teachers of important statistical teaching information.\nTutor\nBrigham Young University–Idaho, Rexburg, ID\nSeptember 2023 – June 2024\n- Increased 20+ students’ comprehension by teaching Micro and Macro Economic fundamentals. - Enhanced students’ ability to study by teaching study skills and habits.\nBookkeeper\nRichard L. Joliet CPA, Prescott, AZ\nJuly 2022 – September 2022\n- Accelerated speed by 15% for client financial statement completion. - Outlined easy-to-read summaries of expenses and revenue with QuickBooks and Excel. - Organized financial statements and tax returns for clients.\nPatient Manager\nStatewide Home Health Staffing, Prescott, AZ\nFebruary 2021 – April 2021\n- Streamlined communication between patients and the company. - Arranged and provided training for employee onboarding materials and equipment.\nFull Time Volunteer\nThe Church of Jesus Christ of Latter-Day Saints, San Jose, California & Chile Concepción\nMarch 2019 – February 2021\n- Taught classes of 25+ students English with a pass rate of over 90%. - Attained fluency in Spanish to communicate concepts and ideas with classes. - Learned to connect with people from various cultural backgrounds."
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Jared Bean Resume",
+    "section": "",
+    "text": "Data Analytical skills: OLS Regressions, Logit Regressions, Econometrics, Statistics, LaTeX.\nCoding languages: Python, R-Studio, VBA, Excel.\nOther: Google Workspace, Microsoft Office Suite, fluent in Spanish."
   }
 ]
