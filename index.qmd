@@ -1,8 +1,9 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "About Me"
 ---
+
+![Caption](C:/Users/Jared/OneDrive/Desktop/Msic/Pictures/catherinejaredfaves-6.jpg)
+
 
 # Title 1 Header
 ## Title 2 Header

@@ -385,16 +385,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "about me",
+    "title": "About Me",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "Caption"
   },
   {
     "objectID": "index.html#title-2-header",
     "href": "index.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
+    "title": "About Me",
+    "section": "Title 2 Header",
+    "text": "Title 2 Header\nMarkDown Basics"
   },
   {
     "objectID": "Machine_Learning/project2.html",
