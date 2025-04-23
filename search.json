@@ -1,5 +1,177 @@
 [
   {
+    "objectID": "Story_Telling/project1.html",
+    "href": "Story_Telling/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project2.html",
+    "href": "Story_Telling/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project4.html",
+    "href": "Story_Telling/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project3.html",
+    "href": "Machine_Learning/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project5.html",
+    "href": "Machine_Learning/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "full_stack.html",
+    "href": "full_stack.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Full Stack"
+    ]
+  },
+  {
+    "objectID": "full_stack.html#title-2-header",
+    "href": "full_stack.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Full Stack"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project3.html",
+    "href": "Full_Stack/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project5.html",
+    "href": "Full_Stack/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "competition.html",
+    "href": "competition.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Competition"
+    ]
+  },
+  {
+    "objectID": "competition.html#title-2-header",
+    "href": "competition.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Competition"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project3.html",
+    "href": "Cleansing_Projects/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project5.html",
+    "href": "Cleansing_Projects/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Competition/project1.html",
+    "href": "Competition/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Competition/project2.html",
+    "href": "Competition/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Competition/project4.html",
+    "href": "Competition/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 4"
+    ]
+  },
+  {
     "objectID": "exploration.html",
     "href": "exploration.html",
     "title": "about me",
@@ -27,53 +199,18 @@
     "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "Cleansing_Exploration/project3.html",
-    "href": "Cleansing_Exploration/project3.html",
+    "objectID": "Cleansing_Exploration/project2.html",
+    "href": "Cleansing_Exploration/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "full_stack.html",
-    "href": "full_stack.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Full Stack"
-    ]
-  },
-  {
-    "objectID": "full_stack.html#title-2-header",
-    "href": "full_stack.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Full Stack"
-    ]
-  },
-  {
-    "objectID": "Competition/project1.html",
-    "href": "Competition/project1.html",
+    "objectID": "Cleansing_Exploration/project4.html",
+    "href": "Cleansing_Exploration/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Competition/project3.html",
-    "href": "Competition/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 3"
-    ]
+    "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
     "objectID": "story_telling.html",
@@ -96,94 +233,23 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About Me",
+    "objectID": "cleansing.html",
+    "href": "cleansing.html",
+    "title": "about me",
     "section": "",
-    "text": "Caption"
-  },
-  {
-    "objectID": "index.html#title-2-header",
-    "href": "index.html#title-2-header",
-    "title": "About Me",
-    "section": "Title 2 Header",
-    "text": "Title 2 Header\nMarkDown Basics"
-  },
-  {
-    "objectID": "Full_Stack/project1.html",
-    "href": "Full_Stack/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "MarkDown Basics",
     "crumbs": [
-      "Full Stack",
-      "Project 1"
+      "Data Cleansing"
     ]
   },
   {
-    "objectID": "Full_Stack/project3.html",
-    "href": "Full_Stack/project3.html",
-    "title": "Client Report - [Insert Project Title]",
+    "objectID": "cleansing.html#title-2-header",
+    "href": "cleansing.html#title-2-header",
+    "title": "about me",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "MarkDown Basics",
     "crumbs": [
-      "Full Stack",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project2.html",
-    "href": "Story_Telling/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project4.html",
-    "href": "Story_Telling/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project5.html",
-    "href": "Story_Telling/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project1.html",
-    "href": "Cleansing_Projects/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project3.html",
-    "href": "Cleansing_Projects/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 3"
+      "Data Cleansing"
     ]
   },
   {
@@ -235,89 +301,102 @@
     "text": "Data Analytical skills: OLS Regressions, Logit Regressions, Econometrics, Statistics, LaTeX.\nCoding languages: Python, R-Studio, VBA, Excel.\nOther: Google Workspace, Microsoft Office Suite, fluent in Spanish."
   },
   {
-    "objectID": "Machine_Learning/project1.html",
-    "href": "Machine_Learning/project1.html",
+    "objectID": "Cleansing_Exploration/project5.html",
+    "href": "Cleansing_Exploration/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project3.html",
+    "href": "Cleansing_Exploration/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Caption"
+  },
+  {
+    "objectID": "index.html#title-2-header",
+    "href": "index.html#title-2-header",
+    "title": "About Me",
+    "section": "Title 2 Header",
+    "text": "Title 2 Header\nMarkDown Basics"
+  },
+  {
+    "objectID": "notebooks/Exploration_01.html",
+    "href": "notebooks/Exploration_01.html",
+    "title": "Data Exploration 01",
+    "section": "",
+    "text": "A consumer watchdog group wants to see if Netflix has more movies for adults or children.\nUsing a dataset containing metadata for all of the movies Netflix had available on their platform in 2019, we’ll use the MPAA movie rating system to determine if they are correct."
+  },
+  {
+    "objectID": "notebooks/Exploration_01.html#mpaa-movie-ratings",
+    "href": "notebooks/Exploration_01.html#mpaa-movie-ratings",
+    "title": "Data Exploration 01",
+    "section": "MPAA Movie Ratings:",
+    "text": "MPAA Movie Ratings:\n\nG: All ages admitted.\nPG: Some material may not be suitable for children.\nPG-13: Some material may be inappropriate for children under 13.\nR: Under 17 requires accompanying parent or adult guardian\nNC-17: No One 17 and Under Admitted\n\nMost people would consider G and PG as ratings suitable for children. However, not everyone would agree that a PG-13 movie is necssarily a children’s movie. It is up to you to decide how to handle this."
+  },
+  {
+    "objectID": "notebooks/Exploration_01.html#part-1-import-pandas",
+    "href": "notebooks/Exploration_01.html#part-1-import-pandas",
+    "title": "Data Exploration 01",
+    "section": "Part 1: Import Pandas",
+    "text": "Part 1: Import Pandas\nThe pandas library is a python library used for data analysis and manipulation. It will provide the core functionality for most of what you do in the data exploration and preprocessing stages of most machine learning projects.\nPlease see this Getting Started Guide for information on the conventional way to import Pandas into your project, as well as other helpful tips for common Pandas tasks.\n\n# Part 1: Enter the code below to import Pandas according to the\n# conventional method.\n\nimport pandas as pd"
+  },
+  {
+    "objectID": "notebooks/Exploration_01.html#part-2-load-the-data",
+    "href": "notebooks/Exploration_01.html#part-2-load-the-data",
+    "title": "Data Exploration 01",
+    "section": "Part 2: Load the data",
+    "text": "Part 2: Load the data\nThe dataset for this exploration is stored at the following url:\nhttps://raw.githubusercontent.com/byui-cse/cse450-course/master/data/netflix_titles.csv\nThere are lots of ways to load data into your workspace. The easiest way in this case is to ask Pandas to do it for you.\n\nInitial Data Analysis\nOnce you’ve loaded the data, it’s a good idea to poke around a little bit to find out what you’re dealing with.\nSome questions you might ask include:\n\nWhat does the data look like?\nWhat kind of data is in each column?\nDo any of the columns have missing values?\n\n\n# Part 2: Load the dataset into a Pandas dataframe.\n# example: titanic = pd.read_csv(\"data/titanic.csv\")\n\nmovie_db = pd.read_csv(\"https://raw.githubusercontent.com/byui-cse/cse450-course/master/data/netflix_titles.csv\")\n\n\n# Then, explore the data by seeing what the first few rows look like.\n# ecample: titanic.head(8)\n\nmovie_db.head(5)\n\n\n  \n    \n\n\n\n\n\n\nshow_id\ntype\ntitle\ndirector\ncast\ncountry\ndate_added\nrelease_year\nrating\nduration\nlisted_in\ndescription\n\n\n\n\n0\n81145628\nMovie\nNorm of the North: King Sized Adventure\nRichard Finn, Tim Maltby\nAlan Marriott, Andrew Toth, Brian Dobson, Cole...\nUnited States, India, South Korea, China\nSeptember 9, 2019\n2019\nTV-PG\n90 min\nChildren & Family Movies, Comedies\nBefore planning an awesome wedding for his gra...\n\n\n1\n80117401\nMovie\nJandino: Whatever it Takes\nNaN\nJandino Asporaat\nUnited Kingdom\nSeptember 9, 2016\n2016\nTV-MA\n94 min\nStand-Up Comedy\nJandino Asporaat riffs on the challenges of ra...\n\n\n2\n70234439\nTV Show\nTransformers Prime\nNaN\nPeter Cullen, Sumalee Montano, Frank Welker, J...\nUnited States\nSeptember 8, 2018\n2013\nTV-Y7-FV\n1 Season\nKids' TV\nWith the help of three human allies, the Autob...\n\n\n3\n80058654\nTV Show\nTransformers: Robots in Disguise\nNaN\nWill Friedle, Darren Criss, Constance Zimmer, ...\nUnited States\nSeptember 8, 2018\n2016\nTV-Y7\n1 Season\nKids' TV\nWhen a prison ship crash unleashes hundreds of...\n\n\n4\n80125979\nMovie\n#realityhigh\nFernando Lebrija\nNesta Cooper, Kate Walsh, John Michael Higgins...\nUnited States\nSeptember 8, 2017\n2017\nTV-14\n99 min\nComedies\nWhen nerdy high schooler Dani finally attracts...\n\n\n\n\n\n    \n\n  \n    \n\n  \n    \n  \n    \n\n  \n\n    \n  \n\n\n\n  \n\n\n    \n        \n    \n\n  \n\n\n\n  \n\n\n    \n  \n\n\n\n# Next, display a technical summary of the data to determine the data types of each column, and which columns have missing data.\n# example: titanic.dtypes, titanic.info()\n\n#movie_db.dtypes\nmovie_db.info\n\n\n    pandas.core.frame.DataFrame.infodef info(verbose: bool | None=None, buf: WriteBuffer[str] | None=None, max_cols: int | None=None, memory_usage: bool | str | None=None, show_counts: bool | None=None) -&gt; None/usr/local/lib/python3.11/dist-packages/pandas/core/frame.pyPrint a concise summary of a DataFrame.\n\nThis method prints information about a DataFrame including\nthe index dtype and columns, non-null values and memory usage.\n\nParameters\n----------\nverbose : bool, optional\n    Whether to print the full summary. By default, the setting in\n    ``pandas.options.display.max_info_columns`` is followed.\nbuf : writable buffer, defaults to sys.stdout\n    Where to send the output. By default, the output is printed to\n    sys.stdout. Pass a writable buffer if you need to further process\n    the output.\nmax_cols : int, optional\n    When to switch from the verbose to the truncated output. If the\n    DataFrame has more than `max_cols` columns, the truncated output\n    is used. By default, the setting in\n    ``pandas.options.display.max_info_columns`` is used.\nmemory_usage : bool, str, optional\n    Specifies whether total memory usage of the DataFrame\n    elements (including the index) should be displayed. By default,\n    this follows the ``pandas.options.display.memory_usage`` setting.\n\n    True always show memory usage. False never shows memory usage.\n    A value of 'deep' is equivalent to \"True with deep introspection\".\n    Memory usage is shown in human-readable units (base-2\n    representation). Without deep introspection a memory estimation is\n    made based in column dtype and number of rows assuming values\n    consume the same memory amount for corresponding dtypes. With deep\n    memory introspection, a real memory usage calculation is performed\n    at the cost of computational resources. See the\n    :ref:`Frequently Asked Questions &lt;df-memory-usage&gt;` for more\n    details.\nshow_counts : bool, optional\n    Whether to show the non-null counts. By default, this is shown\n    only if the DataFrame is smaller than\n    ``pandas.options.display.max_info_rows`` and\n    ``pandas.options.display.max_info_columns``. A value of True always\n    shows the counts, and False never shows the counts.\n\nReturns\n-------\nNone\n    This method prints a summary of a DataFrame and returns None.\n\nSee Also\n--------\nDataFrame.describe: Generate descriptive statistics of DataFrame\n    columns.\nDataFrame.memory_usage: Memory usage of DataFrame columns.\n\nExamples\n--------\n&gt;&gt;&gt; int_values = [1, 2, 3, 4, 5]\n&gt;&gt;&gt; text_values = ['alpha', 'beta', 'gamma', 'delta', 'epsilon']\n&gt;&gt;&gt; float_values = [0.0, 0.25, 0.5, 0.75, 1.0]\n&gt;&gt;&gt; df = pd.DataFrame({\"int_col\": int_values, \"text_col\": text_values,\n...                   \"float_col\": float_values})\n&gt;&gt;&gt; df\n    int_col text_col  float_col\n0        1    alpha       0.00\n1        2     beta       0.25\n2        3    gamma       0.50\n3        4    delta       0.75\n4        5  epsilon       1.00\n\nPrints information of all columns:\n\n&gt;&gt;&gt; df.info(verbose=True)\n&lt;class 'pandas.core.frame.DataFrame'&gt;\nRangeIndex: 5 entries, 0 to 4\nData columns (total 3 columns):\n #   Column     Non-Null Count  Dtype\n---  ------     --------------  -----\n 0   int_col    5 non-null      int64\n 1   text_col   5 non-null      object\n 2   float_col  5 non-null      float64\ndtypes: float64(1), int64(1), object(1)\nmemory usage: 248.0+ bytes\n\nPrints a summary of columns count and its dtypes but not per column\ninformation:\n\n&gt;&gt;&gt; df.info(verbose=False)\n&lt;class 'pandas.core.frame.DataFrame'&gt;\nRangeIndex: 5 entries, 0 to 4\nColumns: 3 entries, int_col to float_col\ndtypes: float64(1), int64(1), object(1)\nmemory usage: 248.0+ bytes\n\nPipe output of DataFrame.info to buffer instead of sys.stdout, get\nbuffer content and writes to a text file:\n\n&gt;&gt;&gt; import io\n&gt;&gt;&gt; buffer = io.StringIO()\n&gt;&gt;&gt; df.info(buf=buffer)\n&gt;&gt;&gt; s = buffer.getvalue()\n&gt;&gt;&gt; with open(\"df_info.txt\", \"w\",\n...           encoding=\"utf-8\") as f:  # doctest: +SKIP\n...     f.write(s)\n260\n\nThe `memory_usage` parameter allows deep introspection mode, specially\nuseful for big DataFrames and fine-tune memory optimization:\n\n&gt;&gt;&gt; random_strings_array = np.random.choice(['a', 'b', 'c'], 10 ** 6)\n&gt;&gt;&gt; df = pd.DataFrame({\n...     'column_1': np.random.choice(['a', 'b', 'c'], 10 ** 6),\n...     'column_2': np.random.choice(['a', 'b', 'c'], 10 ** 6),\n...     'column_3': np.random.choice(['a', 'b', 'c'], 10 ** 6)\n... })\n&gt;&gt;&gt; df.info()\n&lt;class 'pandas.core.frame.DataFrame'&gt;\nRangeIndex: 1000000 entries, 0 to 999999\nData columns (total 3 columns):\n #   Column    Non-Null Count    Dtype\n---  ------    --------------    -----\n 0   column_1  1000000 non-null  object\n 1   column_2  1000000 non-null  object\n 2   column_3  1000000 non-null  object\ndtypes: object(3)\nmemory usage: 22.9+ MB\n\n&gt;&gt;&gt; df.info(memory_usage='deep')\n&lt;class 'pandas.core.frame.DataFrame'&gt;\nRangeIndex: 1000000 entries, 0 to 999999\nData columns (total 3 columns):\n #   Column    Non-Null Count    Dtype\n---  ------    --------------    -----\n 0   column_1  1000000 non-null  object\n 1   column_2  1000000 non-null  object\n 2   column_3  1000000 non-null  object\ndtypes: object(3)\nmemory usage: 165.9 MB"
+  },
+  {
+    "objectID": "notebooks/Exploration_01.html#part-3-filter-the-data",
+    "href": "notebooks/Exploration_01.html#part-3-filter-the-data",
+    "title": "Data Exploration 01",
+    "section": "Part 3: Filter the Data",
+    "text": "Part 3: Filter the Data\nSince we’re just interested in movies, we’ll need to filter out anything that isn’t a movie for our analysis. The type feature contains this information.\nOnce we have the subset, we should see how many rows it contains. There are a variety of ways to get the length of a data frame.\n\n# Use pandas's filtering abilitites to select the subset of data\n# that represents movies, then calculate how many rows are in the filtered data.\n\n\nMPAA Ratings\nNow that we have only movies, let’s get a quick count of the values being used in the rating feature.\n\n# Determine the number of records for each value of the \"rating\" feature.\n# Remember to count the values in your subset only, not in the original dataframe.\n\n\n\nMore Filtering\nThere are apparently some “made for TV” movies in the list that don’t fit the MPAA rating scheme.\nLet’s filter some more to just see movies rated with the standard MPAA ratings of G, PG, PG-13, R, and NC-17.\n\n# Filter the list of movies to select a new subset containing only movies with\n# a standard MPAA rating. Calculate how many rows are in this new set, and\n# then see which ratings appear most often."
+  },
+  {
+    "objectID": "notebooks/Exploration_01.html#part-4-visualization",
+    "href": "notebooks/Exploration_01.html#part-4-visualization",
+    "title": "Data Exploration 01",
+    "section": "Part 4: Visualization",
+    "text": "Part 4: Visualization\nNow that we have explored and preprocessed our data, let’s create a visualization to summarize our findings.\n\nExploration vs Presentation\nBroadly speaking, there are two types of visualizations: * Barebones visualizations you might use to get a quick, visual understanding of the data while you’re trying to decide how it all fits together. * Presentation-quality visualizations that you would include in a report or presentation for management or other stakeholders.\n\n\nVisualization Tools\nThere are many different visualization tools availble. In the sections below, we’ll explore the three most common. Each of these libraries has strengths and weaknesses.\nIt is probably a good idea for you to become familiar with each one, and then become proficient at whichever one you like the best.\n\n\nAltair\nThe Altair visualization library provides a large variety of very easy to use statistical charting tools.\nAltair uses a declarative language to build up charts piece by piece.\nAssume we have a pandas dataframe called employees, with three columns: name, job, salary.\n# Make a box plot style categorical plot showing the distribution of salaries for each job:\nalt.Chart(employees).mark_boxplot().encode(\n    x='job',\n    y='salary'\n)\n\n# Make a box plot style categorical plot, and customize the results\nalt.Chart(employees).mark_boxplot().encode(\n    alt.X('job', title='Job title'),\n    alt.Y('salary', title='Annual salary in thousands of $USD')\n).properties(\n  title='Salaries by Job Title'\n)\nLike with Pandas, there is a conventional way to import Altair into your projects.\n\n# Import the Altair library the conventional way.\n\nLet’s create a barchart showing the count of each movie rating by using Altair’s aggregation capabilities.\nIn this example, we see the x axis being set to a feature called a, and the y axis set to the average() of a feature called b.\nIn our case, we want the x axis to be set to rating and the y axis to be the count() of rating.\n\n# Use Altair to create a bar chart comparing the count of each movie rating\n\n\n\nSeaborn\nWhile Altair uses a “declarative” syntax for building charts piece by piece, the Seaborn library provides a large variety of pre-made charts for common statistical needs.\nThese charts are divided into different categories. Each category has a high-level interface you can use for simplicity, and then a specific function for each chart that you can use if you need more control over how the chart looks.\nSeaborn uses matplotlib for its drawing, and the chart-specific functions each return a matplitlib axes object if you need additional customization.\nFor example, there are several different types of categorical plots in seaborn: bar plots, box plots, point plots, count plots, swarm plots, etc…\nEach of these plots can be accessed using the catplot function.\nAssume we have a pandas dataframe called employees, with three columns: name, job, salary.\n# Make a box plot style categorical plot showing the distribution of salaries for each job:\nsns.catplot(data=employees, x='job', y='salary', kind='box')\n\n# Make a swarm plot style categorical plot\nsns.catplot(data=employees, x='job', y='salary', kind='swarm')\nAlternatively, you can use the plot specific functions to give yourself more control over the output by using matplotlib functions:\n# Make a box plot style categorical plot, and customize the results\nimport matplotlib.pyplot as plt\n\nplt.figure(figsize=(12, 9))\nax = sns.boxplot(data=employees, x='job', y='salary')\nax.set_title(\"Salaries by Job Title\")\nax.set_ylabel(\"Annual salary in thousands of $USD\")\nax.set_xlabel(\"Job title\")\nLike with Pandas, there is a conventional way to import Seaborn into your projects.\nOptionally, you may wish to set some default chart aesthetics by setting the chart style.\n\n# Import the seaborn library the conventional way. Then optionally configure\n# the default chart style.\n\nSince the rating column uses categorical data, we need to use Seaborn’s categorical visualizations.\nIn particular, we want a “count plot” that will display a count of movie ratings.\n\n# Use seaborn to create a count plot comparing the count of each movie rating\n\n\n\nPandas built-in plotting\nIn addition to libraries like Altair and Seaborn, Pandas has some built in charting functionality.\nWhile not as sophisticated as some of the other options, it is often good enough for quick visualizations.\nJust like with seaborn’s plotting functions, the pandas plotting functions return matplotlib axes objects, which can be further customized.\nAssume we have a pandas dataframe called employees, with three columns: name, job, salary.\n# Make a box plot style categorical plot showing the distribution of salaries for each job:\nemployees[ ['job','salary'] ].plot.box()\n\n# Make a box plot style categorical plot, and customize the results\nimport matplotlib.pyplot as plt\n\nplt.figure(figsize=(12, 9))\nax = employees[ ['job','salary'] ].plot().box()\nax.set_title(\"Salaries by Job Title\")\nax.set_ylabel(\"Annual salary in thousands of $USD\")\nax.set_xlabel(\"Job title\")\n\n# Use pandas' built in plotting functions to create a count plot comparing the count of each movie rating\n# This will be a little trickier than the other libraries, but one hint is that the pandas value_counts() function\n# actually returns a dataframe."
+  },
+  {
+    "objectID": "notebooks/Exploration_01.html#above-and-beyond",
+    "href": "notebooks/Exploration_01.html#above-and-beyond",
+    "title": "Data Exploration 01",
+    "section": "🌟 Above and Beyond 🌟",
+    "text": "🌟 Above and Beyond 🌟\nAfter reviewing your findings, the watchdog group would like some additional questions answered:\n\nHow are things affected if you include the “made for TV movies” that have been assigned TV ratings in your analysis, but still exclude unrated movies?\nThey would also like to see a separate report that includes only TV shows.\nFor an upcoming community meeting, the group would like to present a simple chart showing “For Kids” and “For Adults” categories. The easiest way to accomplish this would be to create a new column in your data frame that maps each rating to the appropriate “For Kids” or “For Adults” label, then create a new visualization based on that column."
+  },
+  {
+    "objectID": "Competition/project5.html",
+    "href": "Competition/project5.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Machine Learning",
-      "Project 1"
+      "Competition",
+      "Project 5"
     ]
   },
   {
-    "objectID": "Machine_Learning/project3.html",
-    "href": "Machine_Learning/project3.html",
+    "objectID": "Competition/project3.html",
+    "href": "Competition/project3.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Machine Learning",
+      "Competition",
       "Project 3"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project5.html",
-    "href": "Machine_Learning/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project4.html",
-    "href": "Machine_Learning/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project2.html",
-    "href": "Machine_Learning/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "cleansing.html",
-    "href": "cleansing.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "cleansing.html#title-2-header",
-    "href": "cleansing.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project5.html",
-    "href": "Cleansing_Projects/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 5"
     ]
   },
   {
@@ -343,36 +422,14 @@
     ]
   },
   {
-    "objectID": "Story_Telling/project3.html",
-    "href": "Story_Telling/project3.html",
+    "objectID": "Cleansing_Projects/project1.html",
+    "href": "Cleansing_Projects/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Story Telling",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project1.html",
-    "href": "Story_Telling/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
+      "Data Cleansing",
       "Project 1"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project5.html",
-    "href": "Full_Stack/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 5"
     ]
   },
   {
@@ -398,77 +455,69 @@
     ]
   },
   {
-    "objectID": "competition.html",
-    "href": "competition.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Competition"
-    ]
-  },
-  {
-    "objectID": "competition.html#title-2-header",
-    "href": "competition.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Competition"
-    ]
-  },
-  {
-    "objectID": "Competition/project5.html",
-    "href": "Competition/project5.html",
+    "objectID": "Full_Stack/project1.html",
+    "href": "Full_Stack/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Competition",
-      "Project 5"
+      "Full Stack",
+      "Project 1"
     ]
   },
   {
-    "objectID": "Competition/project4.html",
-    "href": "Competition/project4.html",
+    "objectID": "Machine_Learning/project4.html",
+    "href": "Machine_Learning/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Competition",
+      "Machine Learning",
       "Project 4"
     ]
   },
   {
-    "objectID": "Competition/project2.html",
-    "href": "Competition/project2.html",
+    "objectID": "Machine_Learning/project2.html",
+    "href": "Machine_Learning/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Competition",
+      "Machine Learning",
       "Project 2"
     ]
   },
   {
-    "objectID": "Cleansing_Exploration/project5.html",
-    "href": "Cleansing_Exploration/project5.html",
+    "objectID": "Machine_Learning/project1.html",
+    "href": "Machine_Learning/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 1"
+    ]
   },
   {
-    "objectID": "Cleansing_Exploration/project4.html",
-    "href": "Cleansing_Exploration/project4.html",
+    "objectID": "Story_Telling/project5.html",
+    "href": "Story_Telling/project5.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 5"
+    ]
   },
   {
-    "objectID": "Cleansing_Exploration/project2.html",
-    "href": "Cleansing_Exploration/project2.html",
+    "objectID": "Story_Telling/project3.html",
+    "href": "Story_Telling/project3.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 3"
+    ]
   }
 ]
