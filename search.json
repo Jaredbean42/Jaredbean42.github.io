@@ -221,32 +221,105 @@
     "text": "🌟 Above and Beyond 🌟\nAfter reviewing your findings, the watchdog group would like some additional questions answered:\n\nHow are things affected if you include the “made for TV movies” that have been assigned TV ratings in your analysis, but still exclude unrated movies?\nThey would also like to see a separate report that includes only TV shows.\nFor an upcoming community meeting, the group would like to present a simple chart showing “For Kids” and “For Adults” categories. The easiest way to accomplish this would be to create a new column in your data frame that maps each rating to the appropriate “For Kids” or “For Adults” label, then create a new visualization based on that column."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About Me",
+    "objectID": "exploration.html",
+    "href": "exploration.html",
+    "title": "about me",
     "section": "",
-    "text": "Caption"
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Exploration"
+    ]
   },
   {
-    "objectID": "index.html#title-2-header",
-    "href": "index.html#title-2-header",
-    "title": "About Me",
-    "section": "Title 2 Header",
-    "text": "Title 2 Header\nMarkDown Basics"
+    "objectID": "exploration.html#title-2-header",
+    "href": "exploration.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Exploration"
+    ]
   },
   {
-    "objectID": "Cleansing_Exploration/project3.html",
-    "href": "Cleansing_Exploration/project3.html",
+    "objectID": "Cleansing_Exploration/project1.html",
+    "href": "Cleansing_Exploration/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "Cleansing_Exploration/project5.html",
-    "href": "Cleansing_Exploration/project5.html",
+    "objectID": "Cleansing_Exploration/project2.html",
+    "href": "Cleansing_Exploration/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project4.html",
+    "href": "Cleansing_Exploration/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "story_telling.html",
+    "href": "story_telling.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#title-2-header",
+    "href": "story_telling.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "cleansing.html",
+    "href": "cleansing.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Cleansing"
+    ]
+  },
+  {
+    "objectID": "cleansing.html#title-2-header",
+    "href": "cleansing.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Cleansing"
+    ]
+  },
+  {
+    "objectID": "ml.html",
+    "href": "ml.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "ml.html#title-2-header",
+    "href": "ml.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Machine Learning"
+    ]
   },
   {
     "objectID": "resume.html",
@@ -277,105 +350,81 @@
     "text": "Data Analytical skills: OLS Regressions, Logit Regressions, Econometrics, Statistics, LaTeX.\nCoding languages: Python, R-Studio, VBA, Excel.\nOther: Google Workspace, Microsoft Office Suite, fluent in Spanish."
   },
   {
-    "objectID": "ml.html",
-    "href": "ml.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Machine Learning"
-    ]
-  },
-  {
-    "objectID": "ml.html#title-2-header",
-    "href": "ml.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Machine Learning"
-    ]
-  },
-  {
-    "objectID": "cleansing.html",
-    "href": "cleansing.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "cleansing.html#title-2-header",
-    "href": "cleansing.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "story_telling.html",
-    "href": "story_telling.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Story Telling"
-    ]
-  },
-  {
-    "objectID": "story_telling.html#title-2-header",
-    "href": "story_telling.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Story Telling"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Exploration/project4.html",
-    "href": "Cleansing_Exploration/project4.html",
+    "objectID": "Cleansing_Exploration/project5.html",
+    "href": "Cleansing_Exploration/project5.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "Cleansing_Exploration/project2.html",
-    "href": "Cleansing_Exploration/project2.html",
+    "objectID": "Cleansing_Exploration/project3.html",
+    "href": "Cleansing_Exploration/project3.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "Cleansing_Exploration/project1.html",
-    "href": "Cleansing_Exploration/project1.html",
-    "title": "Client Report - [Insert Project Title]",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
+    "text": "Caption"
   },
   {
-    "objectID": "exploration.html",
-    "href": "exploration.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Exploration"
-    ]
+    "objectID": "index.html#title-2-header",
+    "href": "index.html#title-2-header",
+    "title": "About Me",
+    "section": "Title 2 Header",
+    "text": "Title 2 Header\nMarkDown Basics"
   },
   {
-    "objectID": "exploration.html#title-2-header",
-    "href": "exploration.html#title-2-header",
-    "title": "about me",
+    "objectID": "notebooks/Exploration_04.html",
+    "href": "notebooks/Exploration_04.html",
+    "title": "Data Exploration 04",
     "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Exploration"
-    ]
+    "text": "You’re working with a team of botanists to develop a flower classification system.\nYour assignment is to build a k-Nearest Neighbors model to classify flowers based on their petal and sepal sizes.\nimport pandas as pd\ndf = pd.read_csv(\"https://raw.githubusercontent.com/byui-cse/cse450-course/master/data/iris.csv\")"
+  },
+  {
+    "objectID": "notebooks/Exploration_04.html#part-a-import-and-explore-the-data",
+    "href": "notebooks/Exploration_04.html#part-a-import-and-explore-the-data",
+    "title": "Data Exploration 04",
+    "section": "Part A: Import and Explore the data",
+    "text": "Part A: Import and Explore the data\nThe dataset for this exploration is stored at the following url:\nhttps://raw.githubusercontent.com/byui-cse/cse450-course/master/data/iris.csv\n\nInitial Data Analysis\nOnce you’ve loaded the data, it’s a good idea to poke around a little bit to find out what you’re dealing with.\nSome questions you might ask include:\n\nWhat does the data look like?\nWhat kind of data is in each column?\nDo any of the columns have missing values?\n\n\n#What does the data look like?\n\ndf.head(5)\n\n\n    \n\n\n\n\n\n\nsepal_length\nsepal_width\npetal_length\npetal_width\nspecies\n\n\n\n\n0\n5.1\n3.5\n1.4\n0.2\nIris-setosa\n\n\n1\n4.9\n3.0\n1.4\n0.2\nIris-setosa\n\n\n2\n4.7\n3.2\n1.3\n0.2\nIris-setosa\n\n\n3\n4.6\n3.1\n1.5\n0.2\nIris-setosa\n\n\n4\n5.0\n3.6\n1.4\n0.2\nIris-setosa\n\n\n\n\n\n    \n\n  \n    \n\n  \n    \n  \n    \n\n  \n\n    \n  \n\n\n    \n      \n\n\n    \n        \n    \n\n      \n\n\n\n      \n    \n\n    \n  \n\n\n\n#What kind of data is in each column?\ndf.info()\n\n&lt;class 'pandas.core.frame.DataFrame'&gt;\nRangeIndex: 150 entries, 0 to 149\nData columns (total 5 columns):\n #   Column        Non-Null Count  Dtype  \n---  ------        --------------  -----  \n 0   sepal_length  150 non-null    float64\n 1   sepal_width   150 non-null    float64\n 2   petal_length  150 non-null    float64\n 3   petal_width   150 non-null    float64\n 4   species       150 non-null    object \ndtypes: float64(4), object(1)\nmemory usage: 6.0+ KB\n\n\n\n#Do any of the columns have missing values?\ndf.isna().sum()\n\n\n\n\n\n\n\n\n0\n\n\n\n\nsepal_length\n0\n\n\nsepal_width\n0\n\n\npetal_length\n0\n\n\npetal_width\n0\n\n\nspecies\n0\n\n\n\n\ndtype: int64"
+  },
+  {
+    "objectID": "notebooks/Exploration_04.html#part-b-visualize-the-data",
+    "href": "notebooks/Exploration_04.html#part-b-visualize-the-data",
+    "title": "Data Exploration 04",
+    "section": "Part B: Visualize the Data",
+    "text": "Part B: Visualize the Data\nUse your preferred visualization library to create a scatterplot showing petal length vs petal width. You should plot each flower species as a different color on the scatter plot.\n\nfrom plotnine import ggplot, aes, geom_point, facet_wrap, xlab, ylab\n\nggplot(df, aes(x=\"petal_length\", y=\"petal_width\", color = \"species\")) + \\\n    geom_point() + \\\n    xlab(\"Petal Length\") + \\\n    ylab(\"Petal width\")"
+  },
+  {
+    "objectID": "notebooks/Exploration_04.html#part-c-prepare-the-data-for-machine-learning",
+    "href": "notebooks/Exploration_04.html#part-c-prepare-the-data-for-machine-learning",
+    "title": "Data Exploration 04",
+    "section": "Part C: Prepare the Data for Machine Learning",
+    "text": "Part C: Prepare the Data for Machine Learning\nData preparation (sometimes called “data wrangling” or “data munging”) is where you’ll usually spend the bulk of your time when working on machine learning problems. Only rarely is data already in the optimal form for a given algorithm.\nOften we have to deal with missing values, normalize the data, and perform both simple and complex feature engineering to get the data into the form we need.\nOnce the data is in the correct form, we can then randomize the data and split it into training and test datasets (and sometimes an additional validation dataset).\n\nMachine Learning Steps\nAlmost universally, regardless of which algorithm or type of task we’re performing, building and evaluating a machine learning model with sklearn follows these steps:\n\nPerform any data preprocessing needed.\nPartition the data into features and targets.\nSplit the data into training and test sets (and sometimes a third validation set).\nCreate a configure whichever sklearn model object we’re using.\nTrain the model using its “fit” method.\nTest the model using its “predict” method.\nUse a model evaluation metric to see how well the model performs.\n\nIf the model isn’t performing well, we will repeat one or more of the above steps (sometimes all of them).\nOnce the model is performing adequately, we’ll deploy it for use as part of some larger system.\nFor now, let’s assume that this dataset is in the form we need, and we’ll skip to step 2, partitioning the data.\n\n\nStep 2. Partition the Data into Features and Targets\nFirst, we’ll create a dataframe called “X” containing the features of the data we want to use to make our predictions. In this case, that will be the sepal_length, sepal_width, petal_length, and petal_width features.\n(The name “X” isn’t special, but uppercase X is the conventional name for our feature dataset, because that’s what statisticians use to refer to a matrix of independent variables)\n\n# Create a new dataframe called X that contians the features we're going\n# to use to make predictions\n\nX = pd.DataFrame(df, columns=[\"sepal_length\", \"sepal_width\", \"petal_length\", \"petal_width\"])\n\nNext we’ll create a dataframe called “y” containing the target variable, or the set of values we want to predict. In this case, that will be species.\n(Once again, the name “y” isn’t special, but lowercase y is the conventional name for a list of targets, because that’s what statisticians use to refer to a vector of dependent variables)\n\n# Create a new dataframe called y that contians the target we're\n# trying to predict\n\ny = pd.DataFrame(df, columns=[\"species\"])\n\n\n\nStep 3. Split the data into training and test sets.\nNow that we have our data divided into features (X) and target values (y), we’ll split each of these into a training set and a test set.\nWe’ll use the training sets to “train” our model how to make predictions.\nWe’ll then use our test sets to test how well our model has learned from the training data.\nWhile we could use a bunch of python code to do this step, the sklearn library has lots of built-in functions to handle common data manipulations related to machine learning.\nFor this step, we’ll use the train_test_split() function.\n\n# Import and use the train_test_split() function to split the X and y\n# dataframes into training and test sets.\n# The training data should contain 80% of the samples and\n# the test data should contain 20% of the samples.\n\nfrom sklearn.model_selection import train_test_split\n\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)\n\n\n#random_state is just like a seed\n\nAfter creating the training and test splits, output the head() of each one and notice how they row numbers have been randomized.\nAlso notice that X_train and y_train’s row numbers match up, as do X_test and y_test’s row numbers.\n\nX_train.head(3)\n\n\n    \n\n\n\n\n\n\nsepal_length\nsepal_width\npetal_length\npetal_width\n\n\n\n\n22\n4.6\n3.6\n1.0\n0.2\n\n\n15\n5.7\n4.4\n1.5\n0.4\n\n\n65\n6.7\n3.1\n4.4\n1.4\n\n\n\n\n\n    \n\n  \n    \n\n  \n    \n  \n    \n\n  \n\n    \n  \n\n\n    \n      \n\n\n    \n        \n    \n\n      \n\n\n\n      \n    \n\n    \n  \n\n\n\ny_train.head(3)\n\n\n    \n\n\n\n\n\n\nspecies\n\n\n\n\n22\nIris-setosa\n\n\n15\nIris-setosa\n\n\n65\nIris-versicolor"
+  },
+  {
+    "objectID": "notebooks/Exploration_04.html#part-d-create-and-train-a-model",
+    "href": "notebooks/Exploration_04.html#part-d-create-and-train-a-model",
+    "title": "Data Exploration 04",
+    "section": "Part D: Create and Train a Model",
+    "text": "Part D: Create and Train a Model\nWe’re going to create a model based on the k-Nearest Neighbors algorithm.\nSince this is a classification task, (we’re trying to classify which species a given flower belongs to), we’ll use sklearn’s KNeighborsClassifer.\n\nStep 4. Create and configure the model\nWe start by importing the information about the model we want to create. In python, this information is called a class.\nThe KNeighborsClassifier class contains all of the information python needs to create a kNN Classifier.\nOnce we’ve imported the class, we’ll create an instance of the class using this syntax:\nwhatever = ClassName( parameter_one = value, parameter_two = something_else, etc...)\nIn our case, the class name is KNeighborsClassifer. It doesn’t matter what we call the variable that holds the instance, but one popular convention is to call classifier instances clf, so that’s what you’ll see in the sklearn documentation.\nThe only parameter we want to configure is the n_neighbors parameter, which controls the value of k in the kNN algorithm.\n\n# Import the KNeighborsClassifier class from sklearn\n# Note that it's in the neighbors submodule. See the example code in the\n# documentation for details on how to import it\nfrom sklearn.neighbors import KNeighborsClassifier\n\n\n# Create an instance of the model, configuring it to use the 3 nearest neighbors\n# store the instance in a variable\nclf = KNeighborsClassifier(n_neighbors=3)\n\n\n\nStep 5: Train the model\nNext we’ll train the model. We do this by providing it with the training data we split off from the dataset in step 3.\nThe model “learns” how to associate the feature values (X) with the targets (y). The exact process it uses to learn how to do this depends on which algorithm we’re using.\nSometimes, this is called “fitting the data to the model”, so in sklearn, we perform this step using the fit() method.\n\n# Call the \"fit\" method of the classifier instance we created in step 4.\n# Pass it the X_train and y_train data so that it can learn to make predictions\n\nclf.fit(X,y)\n\n/usr/local/lib/python3.11/dist-packages/sklearn/neighbors/_classification.py:239: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().\n\n\nKNeighborsClassifier(n_neighbors=3)In a Jupyter environment, please rerun this cell to show the HTML representation or trust the notebook. On GitHub, the HTML representation is unable to render, please try loading this page with nbviewer.org.KNeighborsClassifier?Documentation for KNeighborsClassifieriFittedKNeighborsClassifier(n_neighbors=3)"
+  },
+  {
+    "objectID": "notebooks/Exploration_04.html#part-e-make-predictions-and-evaluate-the-model",
+    "href": "notebooks/Exploration_04.html#part-e-make-predictions-and-evaluate-the-model",
+    "title": "Data Exploration 04",
+    "section": "Part E: Make Predictions and Evaluate the Model",
+    "text": "Part E: Make Predictions and Evaluate the Model\nNow that the model has been created and trained, we can use it to make predictions. Since this is a classification model, when we give it a set of features, it tells us what the most likely target value is.\nIn this case, we tell the model “here are the values for petal width, petal length, sepal width, and sepal length for a particular flower” The model then tells us which species is the most likely for that flower.\nWhen testing how well our model works, we’ll use the test data we split off earlier. It contains the measurements for several flowers, along with their species.\n\nStep 6: Make Predictions on Test Data\nWe’ll give the measurements of each flower to the model and have it predict their species. We’ll then compare those predictions to the known values to determine how accurate our model is.\nSince this is a classification model, there are two different methods we can use to make predictions:\n\npredict(), which returns the most likely prediction for each sample.\npredict_proba() which returns a list of probabilities for each sample. The probabilities tell us how confident the model is that the corresponding sample belongs to a particular class.\n\n\n# Use the predict() method to get a list of predictions for the samples in our\n# test data. Then output those predictions\ny_pred = clf.predict(X_test)\n#y_pred\n\n\n#the porbabilities behind each prediction\nprob_pred = clf.predict_proba(X_test)\n#prob_pred\n\n\n# Just a quick comparison with y_test to see if they match up\n\nActual: species, Predicted: Iris-versicolor\n\n\n\n\nStep 7: Evaluate the Model\nThere are several metrics we can use to determine how well our model is performing.\nMost of them are in the sklearn.metrics library.\nMost of the sklearn metric function work using the same pattern. We import the function, then give it a list of the true values for our test data, and a list of the values the model predicted for our test data. The metric then outputs the value. How we interpret that value will depend on the exact problem we’re solving, the qualities of our data, and the particular metric we’re using.\n\nAccuracy\nSince this is a multiclass classification problem (“multiclass” means we have more than two options we’re choosing from), we can get a quick estimate from the accuracy_score() function, which tells us the percent of correct predictions made by the model.\n\n# Import the accuracy_score function and use it to determine\n# how accurate the models predictions were for our test data\nfrom sklearn.metrics import accuracy_score\n\naccuracy_score(y_test, y_pred)\n\n1.0\n\n\n\n\nConfusion Matrix\nWhile the accuracy score tells us a little about the model’s performance, it doesn’t tell us much.\nFor example, we know how often the model was correct, but we don’t know when it was wrong or why.\nWe can get this information from the confusion_matrix function.\n\n# Import the confusion_matrix function and use it to generate a confusion\n# matrix of our model results.\nfrom sklearn.metrics import confusion_matrix\ncm = confusion_matrix(y_test, y_pred)\nprint(cm)\n\n[[10  0  0]\n [ 0  9  0]\n [ 0  0 11]]\n\n\n\n\nConfusion Matrix Plot\nIt’s easier to see the results of the confusion matrix if we plot the results. One way to do this is with Seaborn’s heatmap function.\nThis function works a little bit differently than the others. It takes as parameters your model instance, and then options for making the chart display the way you want, and outputs a confusion matrix showing how well the model did in predicting the target values.\nYou’ll notice that in many cases (including this one), the numbers in the confusion matrix will be the same as the results you see from the confusion_matrix() function above, but the plot makes it easier to interpret the results.\nWhen using the confusion matrix, you may find that the default color mapping is difficult to read. The “Blues” mapping is a popular choice.\n\n# Create a Seaborn heatmap\nimport seaborn as sns\nimport matplotlib.pyplot as plt\n\n\nplt.figure(figsize=(6, 4))\nsns.heatmap(cm, annot=True, fmt='d', cmap='Blues')\nplt.title('Confusion Matrix Heatmap')\nplt.xlabel('Predicted Label')\nplt.ylabel('Actual Label')\nplt.show()"
+  },
+  {
+    "objectID": "notebooks/Exploration_04.html#above-and-beyond",
+    "href": "notebooks/Exploration_04.html#above-and-beyond",
+    "title": "Data Exploration 04",
+    "section": "🌟 Above and Beyond 🌟",
+    "text": "🌟 Above and Beyond 🌟\nOnce you’ve complted the basics, try to complete one or more of the following tasks:\n\nSee if you can get better results from your model through some data preprocessing, such as normalization.\nOften, using too many features can give poor results. Can you get better performance using a subset of the features instead of all four?\nAre there other ways you could visualize your model results?"
   },
   {
     "objectID": "notebooks/Exploration_03.html",
