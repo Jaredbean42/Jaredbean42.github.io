@@ -1,60 +1,5 @@
 [
   {
-    "objectID": "Story_Telling/project1.html",
-    "href": "Story_Telling/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project2.html",
-    "href": "Story_Telling/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project4.html",
-    "href": "Story_Telling/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project3.html",
-    "href": "Machine_Learning/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project5.html",
-    "href": "Machine_Learning/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 5"
-    ]
-  },
-  {
     "objectID": "full_stack.html",
     "href": "full_stack.html",
     "title": "about me",
@@ -75,150 +20,18 @@
     ]
   },
   {
-    "objectID": "Full_Stack/project3.html",
-    "href": "Full_Stack/project3.html",
+    "objectID": "Cleansing_Exploration/project4.html",
+    "href": "Cleansing_Exploration/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 3"
-    ]
+    "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "Full_Stack/project5.html",
-    "href": "Full_Stack/project5.html",
+    "objectID": "Cleansing_Exploration/project2.html",
+    "href": "Cleansing_Exploration/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "competition.html",
-    "href": "competition.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Competition"
-    ]
-  },
-  {
-    "objectID": "competition.html#title-2-header",
-    "href": "competition.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Competition"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project3.html",
-    "href": "Cleansing_Projects/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project5.html",
-    "href": "Cleansing_Projects/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Competition/project1.html",
-    "href": "Competition/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Competition/project2.html",
-    "href": "Competition/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Competition/project4.html",
-    "href": "Competition/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "notebooks/Exploration_01.html",
-    "href": "notebooks/Exploration_01.html",
-    "title": "Data Exploration 01",
-    "section": "",
-    "text": "A consumer watchdog group wants to see if Netflix has more movies for adults or children.\nUsing a dataset containing metadata for all of the movies Netflix had available on their platform in 2019, we’ll use the MPAA movie rating system to determine if they are correct."
-  },
-  {
-    "objectID": "notebooks/Exploration_01.html#mpaa-movie-ratings",
-    "href": "notebooks/Exploration_01.html#mpaa-movie-ratings",
-    "title": "Data Exploration 01",
-    "section": "MPAA Movie Ratings:",
-    "text": "MPAA Movie Ratings:\n\nG: All ages admitted.\nPG: Some material may not be suitable for children.\nPG-13: Some material may be inappropriate for children under 13.\nR: Under 17 requires accompanying parent or adult guardian\nNC-17: No One 17 and Under Admitted\n\nMost people would consider G and PG as ratings suitable for children. However, not everyone would agree that a PG-13 movie is necssarily a children’s movie. It is up to you to decide how to handle this."
-  },
-  {
-    "objectID": "notebooks/Exploration_01.html#part-1-import-pandas",
-    "href": "notebooks/Exploration_01.html#part-1-import-pandas",
-    "title": "Data Exploration 01",
-    "section": "Part 1: Import Pandas",
-    "text": "Part 1: Import Pandas\nThe pandas library is a python library used for data analysis and manipulation. It will provide the core functionality for most of what you do in the data exploration and preprocessing stages of most machine learning projects.\nPlease see this Getting Started Guide for information on the conventional way to import Pandas into your project, as well as other helpful tips for common Pandas tasks.\n\n# Part 1: Enter the code below to import Pandas according to the\n# conventional method.\n\nimport pandas as pd"
-  },
-  {
-    "objectID": "notebooks/Exploration_01.html#part-2-load-the-data",
-    "href": "notebooks/Exploration_01.html#part-2-load-the-data",
-    "title": "Data Exploration 01",
-    "section": "Part 2: Load the data",
-    "text": "Part 2: Load the data\nThe dataset for this exploration is stored at the following url:\nhttps://raw.githubusercontent.com/byui-cse/cse450-course/master/data/netflix_titles.csv\nThere are lots of ways to load data into your workspace. The easiest way in this case is to ask Pandas to do it for you.\n\nInitial Data Analysis\nOnce you’ve loaded the data, it’s a good idea to poke around a little bit to find out what you’re dealing with.\nSome questions you might ask include:\n\nWhat does the data look like?\nWhat kind of data is in each column?\nDo any of the columns have missing values?\n\n\n# Part 2: Load the dataset into a Pandas dataframe.\n# example: titanic = pd.read_csv(\"data/titanic.csv\")\n\nmovie_db = pd.read_csv(\"https://raw.githubusercontent.com/byui-cse/cse450-course/master/data/netflix_titles.csv\")\n\n\n# Then, explore the data by seeing what the first few rows look like.\n# ecample: titanic.head(8)\n\nmovie_db.head(5)\n\n\n    \n\n\n\n\n\n\nshow_id\ntype\ntitle\ndirector\ncast\ncountry\ndate_added\nrelease_year\nrating\nduration\nlisted_in\ndescription\n\n\n\n\n0\n81145628\nMovie\nNorm of the North: King Sized Adventure\nRichard Finn, Tim Maltby\nAlan Marriott, Andrew Toth, Brian Dobson, Cole...\nUnited States, India, South Korea, China\nSeptember 9, 2019\n2019\nTV-PG\n90 min\nChildren & Family Movies, Comedies\nBefore planning an awesome wedding for his gra...\n\n\n1\n80117401\nMovie\nJandino: Whatever it Takes\nNaN\nJandino Asporaat\nUnited Kingdom\nSeptember 9, 2016\n2016\nTV-MA\n94 min\nStand-Up Comedy\nJandino Asporaat riffs on the challenges of ra...\n\n\n2\n70234439\nTV Show\nTransformers Prime\nNaN\nPeter Cullen, Sumalee Montano, Frank Welker, J...\nUnited States\nSeptember 8, 2018\n2013\nTV-Y7-FV\n1 Season\nKids' TV\nWith the help of three human allies, the Autob...\n\n\n3\n80058654\nTV Show\nTransformers: Robots in Disguise\nNaN\nWill Friedle, Darren Criss, Constance Zimmer, ...\nUnited States\nSeptember 8, 2018\n2016\nTV-Y7\n1 Season\nKids' TV\nWhen a prison ship crash unleashes hundreds of...\n\n\n4\n80125979\nMovie\n#realityhigh\nFernando Lebrija\nNesta Cooper, Kate Walsh, John Michael Higgins...\nUnited States\nSeptember 8, 2017\n2017\nTV-14\n99 min\nComedies\nWhen nerdy high schooler Dani finally attracts...\n\n\n\n\n\n    \n\n  \n    \n\n  \n    \n  \n    \n\n  \n\n    \n  \n\n\n\n  \n\n\n    \n        \n    \n\n  \n\n\n\n  \n\n\n    \n  \n\n\n\n# Next, display a technical summary of the data to determine the data types of each column, and which columns have missing data.\n# example: titanic.dtypes, titanic.info()\n\n#movie_db.dtypes\nmovie_db.info\n\n\n    pandas.core.frame.DataFrame.infodef info(verbose: bool | None=None, buf: WriteBuffer[str] | None=None, max_cols: int | None=None, memory_usage: bool | str | None=None, show_counts: bool | None=None) -&gt; None/usr/local/lib/python3.11/dist-packages/pandas/core/frame.pyPrint a concise summary of a DataFrame.\n\nThis method prints information about a DataFrame including\nthe index dtype and columns, non-null values and memory usage.\n\nParameters\n----------\nverbose : bool, optional\n    Whether to print the full summary. By default, the setting in\n    ``pandas.options.display.max_info_columns`` is followed.\nbuf : writable buffer, defaults to sys.stdout\n    Where to send the output. By default, the output is printed to\n    sys.stdout. Pass a writable buffer if you need to further process\n    the output.\nmax_cols : int, optional\n    When to switch from the verbose to the truncated output. If the\n    DataFrame has more than `max_cols` columns, the truncated output\n    is used. By default, the setting in\n    ``pandas.options.display.max_info_columns`` is used.\nmemory_usage : bool, str, optional\n    Specifies whether total memory usage of the DataFrame\n    elements (including the index) should be displayed. By default,\n    this follows the ``pandas.options.display.memory_usage`` setting.\n\n    True always show memory usage. False never shows memory usage.\n    A value of 'deep' is equivalent to \"True with deep introspection\".\n    Memory usage is shown in human-readable units (base-2\n    representation). Without deep introspection a memory estimation is\n    made based in column dtype and number of rows assuming values\n    consume the same memory amount for corresponding dtypes. With deep\n    memory introspection, a real memory usage calculation is performed\n    at the cost of computational resources. See the\n    :ref:`Frequently Asked Questions &lt;df-memory-usage&gt;` for more\n    details.\nshow_counts : bool, optional\n    Whether to show the non-null counts. By default, this is shown\n    only if the DataFrame is smaller than\n    ``pandas.options.display.max_info_rows`` and\n    ``pandas.options.display.max_info_columns``. A value of True always\n    shows the counts, and False never shows the counts.\n\nReturns\n-------\nNone\n    This method prints a summary of a DataFrame and returns None.\n\nSee Also\n--------\nDataFrame.describe: Generate descriptive statistics of DataFrame\n    columns.\nDataFrame.memory_usage: Memory usage of DataFrame columns.\n\nExamples\n--------\n&gt;&gt;&gt; int_values = [1, 2, 3, 4, 5]\n&gt;&gt;&gt; text_values = ['alpha', 'beta', 'gamma', 'delta', 'epsilon']\n&gt;&gt;&gt; float_values = [0.0, 0.25, 0.5, 0.75, 1.0]\n&gt;&gt;&gt; df = pd.DataFrame({\"int_col\": int_values, \"text_col\": text_values,\n...                   \"float_col\": float_values})\n&gt;&gt;&gt; df\n    int_col text_col  float_col\n0        1    alpha       0.00\n1        2     beta       0.25\n2        3    gamma       0.50\n3        4    delta       0.75\n4        5  epsilon       1.00\n\nPrints information of all columns:\n\n&gt;&gt;&gt; df.info(verbose=True)\n&lt;class 'pandas.core.frame.DataFrame'&gt;\nRangeIndex: 5 entries, 0 to 4\nData columns (total 3 columns):\n #   Column     Non-Null Count  Dtype\n---  ------     --------------  -----\n 0   int_col    5 non-null      int64\n 1   text_col   5 non-null      object\n 2   float_col  5 non-null      float64\ndtypes: float64(1), int64(1), object(1)\nmemory usage: 248.0+ bytes\n\nPrints a summary of columns count and its dtypes but not per column\ninformation:\n\n&gt;&gt;&gt; df.info(verbose=False)\n&lt;class 'pandas.core.frame.DataFrame'&gt;\nRangeIndex: 5 entries, 0 to 4\nColumns: 3 entries, int_col to float_col\ndtypes: float64(1), int64(1), object(1)\nmemory usage: 248.0+ bytes\n\nPipe output of DataFrame.info to buffer instead of sys.stdout, get\nbuffer content and writes to a text file:\n\n&gt;&gt;&gt; import io\n&gt;&gt;&gt; buffer = io.StringIO()\n&gt;&gt;&gt; df.info(buf=buffer)\n&gt;&gt;&gt; s = buffer.getvalue()\n&gt;&gt;&gt; with open(\"df_info.txt\", \"w\",\n...           encoding=\"utf-8\") as f:  # doctest: +SKIP\n...     f.write(s)\n260\n\nThe `memory_usage` parameter allows deep introspection mode, specially\nuseful for big DataFrames and fine-tune memory optimization:\n\n&gt;&gt;&gt; random_strings_array = np.random.choice(['a', 'b', 'c'], 10 ** 6)\n&gt;&gt;&gt; df = pd.DataFrame({\n...     'column_1': np.random.choice(['a', 'b', 'c'], 10 ** 6),\n...     'column_2': np.random.choice(['a', 'b', 'c'], 10 ** 6),\n...     'column_3': np.random.choice(['a', 'b', 'c'], 10 ** 6)\n... })\n&gt;&gt;&gt; df.info()\n&lt;class 'pandas.core.frame.DataFrame'&gt;\nRangeIndex: 1000000 entries, 0 to 999999\nData columns (total 3 columns):\n #   Column    Non-Null Count    Dtype\n---  ------    --------------    -----\n 0   column_1  1000000 non-null  object\n 1   column_2  1000000 non-null  object\n 2   column_3  1000000 non-null  object\ndtypes: object(3)\nmemory usage: 22.9+ MB\n\n&gt;&gt;&gt; df.info(memory_usage='deep')\n&lt;class 'pandas.core.frame.DataFrame'&gt;\nRangeIndex: 1000000 entries, 0 to 999999\nData columns (total 3 columns):\n #   Column    Non-Null Count    Dtype\n---  ------    --------------    -----\n 0   column_1  1000000 non-null  object\n 1   column_2  1000000 non-null  object\n 2   column_3  1000000 non-null  object\ndtypes: object(3)\nmemory usage: 165.9 MB"
-  },
-  {
-    "objectID": "notebooks/Exploration_01.html#part-3-filter-the-data",
-    "href": "notebooks/Exploration_01.html#part-3-filter-the-data",
-    "title": "Data Exploration 01",
-    "section": "Part 3: Filter the Data",
-    "text": "Part 3: Filter the Data\nSince we’re just interested in movies, we’ll need to filter out anything that isn’t a movie for our analysis. The type feature contains this information.\nOnce we have the subset, we should see how many rows it contains. There are a variety of ways to get the length of a data frame.\n\n# Use pandas's filtering abilitites to select the subset of data\n# that represents movies, then calculate how many rows are in the filtered data.\n\n\nMPAA Ratings\nNow that we have only movies, let’s get a quick count of the values being used in the rating feature.\n\n# Determine the number of records for each value of the \"rating\" feature.\n# Remember to count the values in your subset only, not in the original dataframe.\n\n\n\nMore Filtering\nThere are apparently some “made for TV” movies in the list that don’t fit the MPAA rating scheme.\nLet’s filter some more to just see movies rated with the standard MPAA ratings of G, PG, PG-13, R, and NC-17.\n\n# Filter the list of movies to select a new subset containing only movies with\n# a standard MPAA rating. Calculate how many rows are in this new set, and\n# then see which ratings appear most often."
-  },
-  {
-    "objectID": "notebooks/Exploration_01.html#part-4-visualization",
-    "href": "notebooks/Exploration_01.html#part-4-visualization",
-    "title": "Data Exploration 01",
-    "section": "Part 4: Visualization",
-    "text": "Part 4: Visualization\nNow that we have explored and preprocessed our data, let’s create a visualization to summarize our findings.\n\nExploration vs Presentation\nBroadly speaking, there are two types of visualizations: * Barebones visualizations you might use to get a quick, visual understanding of the data while you’re trying to decide how it all fits together. * Presentation-quality visualizations that you would include in a report or presentation for management or other stakeholders.\n\n\nVisualization Tools\nThere are many different visualization tools availble. In the sections below, we’ll explore the three most common. Each of these libraries has strengths and weaknesses.\nIt is probably a good idea for you to become familiar with each one, and then become proficient at whichever one you like the best.\n\n\nAltair\nThe Altair visualization library provides a large variety of very easy to use statistical charting tools.\nAltair uses a declarative language to build up charts piece by piece.\nAssume we have a pandas dataframe called employees, with three columns: name, job, salary.\n# Make a box plot style categorical plot showing the distribution of salaries for each job:\nalt.Chart(employees).mark_boxplot().encode(\n    x='job',\n    y='salary'\n)\n\n# Make a box plot style categorical plot, and customize the results\nalt.Chart(employees).mark_boxplot().encode(\n    alt.X('job', title='Job title'),\n    alt.Y('salary', title='Annual salary in thousands of $USD')\n).properties(\n  title='Salaries by Job Title'\n)\nLike with Pandas, there is a conventional way to import Altair into your projects.\n\n# Import the Altair library the conventional way.\n\nLet’s create a barchart showing the count of each movie rating by using Altair’s aggregation capabilities.\nIn this example, we see the x axis being set to a feature called a, and the y axis set to the average() of a feature called b.\nIn our case, we want the x axis to be set to rating and the y axis to be the count() of rating.\n\n# Use Altair to create a bar chart comparing the count of each movie rating\n\n\n\nSeaborn\nWhile Altair uses a “declarative” syntax for building charts piece by piece, the Seaborn library provides a large variety of pre-made charts for common statistical needs.\nThese charts are divided into different categories. Each category has a high-level interface you can use for simplicity, and then a specific function for each chart that you can use if you need more control over how the chart looks.\nSeaborn uses matplotlib for its drawing, and the chart-specific functions each return a matplitlib axes object if you need additional customization.\nFor example, there are several different types of categorical plots in seaborn: bar plots, box plots, point plots, count plots, swarm plots, etc…\nEach of these plots can be accessed using the catplot function.\nAssume we have a pandas dataframe called employees, with three columns: name, job, salary.\n# Make a box plot style categorical plot showing the distribution of salaries for each job:\nsns.catplot(data=employees, x='job', y='salary', kind='box')\n\n# Make a swarm plot style categorical plot\nsns.catplot(data=employees, x='job', y='salary', kind='swarm')\nAlternatively, you can use the plot specific functions to give yourself more control over the output by using matplotlib functions:\n# Make a box plot style categorical plot, and customize the results\nimport matplotlib.pyplot as plt\n\nplt.figure(figsize=(12, 9))\nax = sns.boxplot(data=employees, x='job', y='salary')\nax.set_title(\"Salaries by Job Title\")\nax.set_ylabel(\"Annual salary in thousands of $USD\")\nax.set_xlabel(\"Job title\")\nLike with Pandas, there is a conventional way to import Seaborn into your projects.\nOptionally, you may wish to set some default chart aesthetics by setting the chart style.\n\n# Import the seaborn library the conventional way. Then optionally configure\n# the default chart style.\n\nSince the rating column uses categorical data, we need to use Seaborn’s categorical visualizations.\nIn particular, we want a “count plot” that will display a count of movie ratings.\n\n# Use seaborn to create a count plot comparing the count of each movie rating\n\n\n\nPandas built-in plotting\nIn addition to libraries like Altair and Seaborn, Pandas has some built in charting functionality.\nWhile not as sophisticated as some of the other options, it is often good enough for quick visualizations.\nJust like with seaborn’s plotting functions, the pandas plotting functions return matplotlib axes objects, which can be further customized.\nAssume we have a pandas dataframe called employees, with three columns: name, job, salary.\n# Make a box plot style categorical plot showing the distribution of salaries for each job:\nemployees[ ['job','salary'] ].plot.box()\n\n# Make a box plot style categorical plot, and customize the results\nimport matplotlib.pyplot as plt\n\nplt.figure(figsize=(12, 9))\nax = employees[ ['job','salary'] ].plot().box()\nax.set_title(\"Salaries by Job Title\")\nax.set_ylabel(\"Annual salary in thousands of $USD\")\nax.set_xlabel(\"Job title\")\n\n# Use pandas' built in plotting functions to create a count plot comparing the count of each movie rating\n# This will be a little trickier than the other libraries, but one hint is that the pandas value_counts() function\n# actually returns a dataframe."
-  },
-  {
-    "objectID": "notebooks/Exploration_01.html#above-and-beyond",
-    "href": "notebooks/Exploration_01.html#above-and-beyond",
-    "title": "Data Exploration 01",
-    "section": "🌟 Above and Beyond 🌟",
-    "text": "🌟 Above and Beyond 🌟\nAfter reviewing your findings, the watchdog group would like some additional questions answered:\n\nHow are things affected if you include the “made for TV movies” that have been assigned TV ratings in your analysis, but still exclude unrated movies?\nThey would also like to see a separate report that includes only TV shows.\nFor an upcoming community meeting, the group would like to present a simple chart showing “For Kids” and “For Adults” categories. The easiest way to accomplish this would be to create a new column in your data frame that maps each rating to the appropriate “For Kids” or “For Adults” label, then create a new visualization based on that column."
+    "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
     "objectID": "exploration.html",
@@ -241,190 +54,26 @@
     ]
   },
   {
-    "objectID": "Cleansing_Exploration/project1.html",
-    "href": "Cleansing_Exploration/project1.html",
+    "objectID": "Story_Telling/project4.html",
+    "href": "Story_Telling/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 4"
+    ]
   },
   {
-    "objectID": "Cleansing_Exploration/project2.html",
-    "href": "Cleansing_Exploration/project2.html",
+    "objectID": "Story_Telling/project2.html",
+    "href": "Story_Telling/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project4.html",
-    "href": "Cleansing_Exploration/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "story_telling.html",
-    "href": "story_telling.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Story Telling"
+      "Story Telling",
+      "Project 2"
     ]
-  },
-  {
-    "objectID": "story_telling.html#title-2-header",
-    "href": "story_telling.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Story Telling"
-    ]
-  },
-  {
-    "objectID": "cleansing.html",
-    "href": "cleansing.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "cleansing.html#title-2-header",
-    "href": "cleansing.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "ml.html",
-    "href": "ml.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Machine Learning"
-    ]
-  },
-  {
-    "objectID": "ml.html#title-2-header",
-    "href": "ml.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Machine Learning"
-    ]
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Jared Bean Resume",
-    "section": "",
-    "text": "Email: jbean42@byui.edu | 986.231.8940 | LinkedIn\n\n\nBachelor of Science in Economics\nBrigham Young University–Idaho, Rexburg, ID\n2021 - 2025\n- Societies: Economics Society, Data Science Society\n- Scholarships: Moral & Ethical Leadership - Ira & Mary Lou Fulton, BYU Idaho Grant\n- GPA: 3.6\n- Emphasis: Data Science, Accounting\n\n\n\nResearch Assistant\nBrigham Young University–Idaho, Rexburg, ID\nJanuary 2023 – June 2024\n- Used R Studios to draw conclusions from data with regression models and graphs. - Created tables in LaTeX to inform teachers of important statistical teaching information.\nTutor\nBrigham Young University–Idaho, Rexburg, ID\nSeptember 2023 – June 2024\n- Increased 20+ students’ comprehension by teaching Micro and Macro Economic fundamentals. - Enhanced students’ ability to study by teaching study skills and habits.\nBookkeeper\nRichard L. Joliet CPA, Prescott, AZ\nJuly 2022 – September 2022\n- Accelerated speed by 15% for client financial statement completion. - Outlined easy-to-read summaries of expenses and revenue with QuickBooks and Excel. - Organized financial statements and tax returns for clients.\nPatient Manager\nStatewide Home Health Staffing, Prescott, AZ\nFebruary 2021 – April 2021\n- Streamlined communication between patients and the company. - Arranged and provided training for employee onboarding materials and equipment.\nFull Time Volunteer\nThe Church of Jesus Christ of Latter-Day Saints, San Jose, California & Chile Concepción\nMarch 2019 – February 2021\n- Taught classes of 25+ students English with a pass rate of over 90%. - Attained fluency in Spanish to communicate concepts and ideas with classes. - Learned to connect with people from various cultural backgrounds.\n\n\n\n\nData Analytical skills: OLS Regressions, Logit Regressions, Econometrics, Statistics, LaTeX.\nCoding languages: Python, R-Studio, VBA, Excel.\nOther: Google Workspace, Microsoft Office Suite, fluent in Spanish."
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Jared Bean Resume",
-    "section": "",
-    "text": "Bachelor of Science in Economics\nBrigham Young University–Idaho, Rexburg, ID\n2021 - 2025\n- Societies: Economics Society, Data Science Society\n- Scholarships: Moral & Ethical Leadership - Ira & Mary Lou Fulton, BYU Idaho Grant\n- GPA: 3.6\n- Emphasis: Data Science, Accounting"
-  },
-  {
-    "objectID": "resume.html#experience",
-    "href": "resume.html#experience",
-    "title": "Jared Bean Resume",
-    "section": "",
-    "text": "Research Assistant\nBrigham Young University–Idaho, Rexburg, ID\nJanuary 2023 – June 2024\n- Used R Studios to draw conclusions from data with regression models and graphs. - Created tables in LaTeX to inform teachers of important statistical teaching information.\nTutor\nBrigham Young University–Idaho, Rexburg, ID\nSeptember 2023 – June 2024\n- Increased 20+ students’ comprehension by teaching Micro and Macro Economic fundamentals. - Enhanced students’ ability to study by teaching study skills and habits.\nBookkeeper\nRichard L. Joliet CPA, Prescott, AZ\nJuly 2022 – September 2022\n- Accelerated speed by 15% for client financial statement completion. - Outlined easy-to-read summaries of expenses and revenue with QuickBooks and Excel. - Organized financial statements and tax returns for clients.\nPatient Manager\nStatewide Home Health Staffing, Prescott, AZ\nFebruary 2021 – April 2021\n- Streamlined communication between patients and the company. - Arranged and provided training for employee onboarding materials and equipment.\nFull Time Volunteer\nThe Church of Jesus Christ of Latter-Day Saints, San Jose, California & Chile Concepción\nMarch 2019 – February 2021\n- Taught classes of 25+ students English with a pass rate of over 90%. - Attained fluency in Spanish to communicate concepts and ideas with classes. - Learned to connect with people from various cultural backgrounds."
-  },
-  {
-    "objectID": "resume.html#skills",
-    "href": "resume.html#skills",
-    "title": "Jared Bean Resume",
-    "section": "",
-    "text": "Data Analytical skills: OLS Regressions, Logit Regressions, Econometrics, Statistics, LaTeX.\nCoding languages: Python, R-Studio, VBA, Excel.\nOther: Google Workspace, Microsoft Office Suite, fluent in Spanish."
-  },
-  {
-    "objectID": "Cleansing_Exploration/project5.html",
-    "href": "Cleansing_Exploration/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project3.html",
-    "href": "Cleansing_Exploration/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Caption"
-  },
-  {
-    "objectID": "index.html#title-2-header",
-    "href": "index.html#title-2-header",
-    "title": "About Me",
-    "section": "Title 2 Header",
-    "text": "Title 2 Header\nMarkDown Basics"
-  },
-  {
-    "objectID": "notebooks/Exploration_04.html",
-    "href": "notebooks/Exploration_04.html",
-    "title": "Data Exploration 04",
-    "section": "",
-    "text": "You’re working with a team of botanists to develop a flower classification system.\nYour assignment is to build a k-Nearest Neighbors model to classify flowers based on their petal and sepal sizes.\nimport pandas as pd\ndf = pd.read_csv(\"https://raw.githubusercontent.com/byui-cse/cse450-course/master/data/iris.csv\")"
-  },
-  {
-    "objectID": "notebooks/Exploration_04.html#part-a-import-and-explore-the-data",
-    "href": "notebooks/Exploration_04.html#part-a-import-and-explore-the-data",
-    "title": "Data Exploration 04",
-    "section": "Part A: Import and Explore the data",
-    "text": "Part A: Import and Explore the data\nThe dataset for this exploration is stored at the following url:\nhttps://raw.githubusercontent.com/byui-cse/cse450-course/master/data/iris.csv\n\nInitial Data Analysis\nOnce you’ve loaded the data, it’s a good idea to poke around a little bit to find out what you’re dealing with.\nSome questions you might ask include:\n\nWhat does the data look like?\nWhat kind of data is in each column?\nDo any of the columns have missing values?\n\n\n#What does the data look like?\n\ndf.head(5)\n\n\n    \n\n\n\n\n\n\nsepal_length\nsepal_width\npetal_length\npetal_width\nspecies\n\n\n\n\n0\n5.1\n3.5\n1.4\n0.2\nIris-setosa\n\n\n1\n4.9\n3.0\n1.4\n0.2\nIris-setosa\n\n\n2\n4.7\n3.2\n1.3\n0.2\nIris-setosa\n\n\n3\n4.6\n3.1\n1.5\n0.2\nIris-setosa\n\n\n4\n5.0\n3.6\n1.4\n0.2\nIris-setosa\n\n\n\n\n\n    \n\n  \n    \n\n  \n    \n  \n    \n\n  \n\n    \n  \n\n\n    \n      \n\n\n    \n        \n    \n\n      \n\n\n\n      \n    \n\n    \n  \n\n\n\n#What kind of data is in each column?\ndf.info()\n\n&lt;class 'pandas.core.frame.DataFrame'&gt;\nRangeIndex: 150 entries, 0 to 149\nData columns (total 5 columns):\n #   Column        Non-Null Count  Dtype  \n---  ------        --------------  -----  \n 0   sepal_length  150 non-null    float64\n 1   sepal_width   150 non-null    float64\n 2   petal_length  150 non-null    float64\n 3   petal_width   150 non-null    float64\n 4   species       150 non-null    object \ndtypes: float64(4), object(1)\nmemory usage: 6.0+ KB\n\n\n\n#Do any of the columns have missing values?\ndf.isna().sum()\n\n\n\n\n\n\n\n\n0\n\n\n\n\nsepal_length\n0\n\n\nsepal_width\n0\n\n\npetal_length\n0\n\n\npetal_width\n0\n\n\nspecies\n0\n\n\n\n\ndtype: int64"
-  },
-  {
-    "objectID": "notebooks/Exploration_04.html#part-b-visualize-the-data",
-    "href": "notebooks/Exploration_04.html#part-b-visualize-the-data",
-    "title": "Data Exploration 04",
-    "section": "Part B: Visualize the Data",
-    "text": "Part B: Visualize the Data\nUse your preferred visualization library to create a scatterplot showing petal length vs petal width. You should plot each flower species as a different color on the scatter plot.\n\nfrom plotnine import ggplot, aes, geom_point, facet_wrap, xlab, ylab\n\nggplot(df, aes(x=\"petal_length\", y=\"petal_width\", color = \"species\")) + \\\n    geom_point() + \\\n    xlab(\"Petal Length\") + \\\n    ylab(\"Petal width\")"
-  },
-  {
-    "objectID": "notebooks/Exploration_04.html#part-c-prepare-the-data-for-machine-learning",
-    "href": "notebooks/Exploration_04.html#part-c-prepare-the-data-for-machine-learning",
-    "title": "Data Exploration 04",
-    "section": "Part C: Prepare the Data for Machine Learning",
-    "text": "Part C: Prepare the Data for Machine Learning\nData preparation (sometimes called “data wrangling” or “data munging”) is where you’ll usually spend the bulk of your time when working on machine learning problems. Only rarely is data already in the optimal form for a given algorithm.\nOften we have to deal with missing values, normalize the data, and perform both simple and complex feature engineering to get the data into the form we need.\nOnce the data is in the correct form, we can then randomize the data and split it into training and test datasets (and sometimes an additional validation dataset).\n\nMachine Learning Steps\nAlmost universally, regardless of which algorithm or type of task we’re performing, building and evaluating a machine learning model with sklearn follows these steps:\n\nPerform any data preprocessing needed.\nPartition the data into features and targets.\nSplit the data into training and test sets (and sometimes a third validation set).\nCreate a configure whichever sklearn model object we’re using.\nTrain the model using its “fit” method.\nTest the model using its “predict” method.\nUse a model evaluation metric to see how well the model performs.\n\nIf the model isn’t performing well, we will repeat one or more of the above steps (sometimes all of them).\nOnce the model is performing adequately, we’ll deploy it for use as part of some larger system.\nFor now, let’s assume that this dataset is in the form we need, and we’ll skip to step 2, partitioning the data.\n\n\nStep 2. Partition the Data into Features and Targets\nFirst, we’ll create a dataframe called “X” containing the features of the data we want to use to make our predictions. In this case, that will be the sepal_length, sepal_width, petal_length, and petal_width features.\n(The name “X” isn’t special, but uppercase X is the conventional name for our feature dataset, because that’s what statisticians use to refer to a matrix of independent variables)\n\n# Create a new dataframe called X that contians the features we're going\n# to use to make predictions\n\nX = pd.DataFrame(df, columns=[\"sepal_length\", \"sepal_width\", \"petal_length\", \"petal_width\"])\n\nNext we’ll create a dataframe called “y” containing the target variable, or the set of values we want to predict. In this case, that will be species.\n(Once again, the name “y” isn’t special, but lowercase y is the conventional name for a list of targets, because that’s what statisticians use to refer to a vector of dependent variables)\n\n# Create a new dataframe called y that contians the target we're\n# trying to predict\n\ny = pd.DataFrame(df, columns=[\"species\"])\n\n\n\nStep 3. Split the data into training and test sets.\nNow that we have our data divided into features (X) and target values (y), we’ll split each of these into a training set and a test set.\nWe’ll use the training sets to “train” our model how to make predictions.\nWe’ll then use our test sets to test how well our model has learned from the training data.\nWhile we could use a bunch of python code to do this step, the sklearn library has lots of built-in functions to handle common data manipulations related to machine learning.\nFor this step, we’ll use the train_test_split() function.\n\n# Import and use the train_test_split() function to split the X and y\n# dataframes into training and test sets.\n# The training data should contain 80% of the samples and\n# the test data should contain 20% of the samples.\n\nfrom sklearn.model_selection import train_test_split\n\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)\n\n\n#random_state is just like a seed\n\nAfter creating the training and test splits, output the head() of each one and notice how they row numbers have been randomized.\nAlso notice that X_train and y_train’s row numbers match up, as do X_test and y_test’s row numbers.\n\nX_train.head(3)\n\n\n    \n\n\n\n\n\n\nsepal_length\nsepal_width\npetal_length\npetal_width\n\n\n\n\n22\n4.6\n3.6\n1.0\n0.2\n\n\n15\n5.7\n4.4\n1.5\n0.4\n\n\n65\n6.7\n3.1\n4.4\n1.4\n\n\n\n\n\n    \n\n  \n    \n\n  \n    \n  \n    \n\n  \n\n    \n  \n\n\n    \n      \n\n\n    \n        \n    \n\n      \n\n\n\n      \n    \n\n    \n  \n\n\n\ny_train.head(3)\n\n\n    \n\n\n\n\n\n\nspecies\n\n\n\n\n22\nIris-setosa\n\n\n15\nIris-setosa\n\n\n65\nIris-versicolor"
-  },
-  {
-    "objectID": "notebooks/Exploration_04.html#part-d-create-and-train-a-model",
-    "href": "notebooks/Exploration_04.html#part-d-create-and-train-a-model",
-    "title": "Data Exploration 04",
-    "section": "Part D: Create and Train a Model",
-    "text": "Part D: Create and Train a Model\nWe’re going to create a model based on the k-Nearest Neighbors algorithm.\nSince this is a classification task, (we’re trying to classify which species a given flower belongs to), we’ll use sklearn’s KNeighborsClassifer.\n\nStep 4. Create and configure the model\nWe start by importing the information about the model we want to create. In python, this information is called a class.\nThe KNeighborsClassifier class contains all of the information python needs to create a kNN Classifier.\nOnce we’ve imported the class, we’ll create an instance of the class using this syntax:\nwhatever = ClassName( parameter_one = value, parameter_two = something_else, etc...)\nIn our case, the class name is KNeighborsClassifer. It doesn’t matter what we call the variable that holds the instance, but one popular convention is to call classifier instances clf, so that’s what you’ll see in the sklearn documentation.\nThe only parameter we want to configure is the n_neighbors parameter, which controls the value of k in the kNN algorithm.\n\n# Import the KNeighborsClassifier class from sklearn\n# Note that it's in the neighbors submodule. See the example code in the\n# documentation for details on how to import it\nfrom sklearn.neighbors import KNeighborsClassifier\n\n\n# Create an instance of the model, configuring it to use the 3 nearest neighbors\n# store the instance in a variable\nclf = KNeighborsClassifier(n_neighbors=3)\n\n\n\nStep 5: Train the model\nNext we’ll train the model. We do this by providing it with the training data we split off from the dataset in step 3.\nThe model “learns” how to associate the feature values (X) with the targets (y). The exact process it uses to learn how to do this depends on which algorithm we’re using.\nSometimes, this is called “fitting the data to the model”, so in sklearn, we perform this step using the fit() method.\n\n# Call the \"fit\" method of the classifier instance we created in step 4.\n# Pass it the X_train and y_train data so that it can learn to make predictions\n\nclf.fit(X,y)\n\n/usr/local/lib/python3.11/dist-packages/sklearn/neighbors/_classification.py:239: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().\n\n\nKNeighborsClassifier(n_neighbors=3)In a Jupyter environment, please rerun this cell to show the HTML representation or trust the notebook. On GitHub, the HTML representation is unable to render, please try loading this page with nbviewer.org.KNeighborsClassifier?Documentation for KNeighborsClassifieriFittedKNeighborsClassifier(n_neighbors=3)"
-  },
-  {
-    "objectID": "notebooks/Exploration_04.html#part-e-make-predictions-and-evaluate-the-model",
-    "href": "notebooks/Exploration_04.html#part-e-make-predictions-and-evaluate-the-model",
-    "title": "Data Exploration 04",
-    "section": "Part E: Make Predictions and Evaluate the Model",
-    "text": "Part E: Make Predictions and Evaluate the Model\nNow that the model has been created and trained, we can use it to make predictions. Since this is a classification model, when we give it a set of features, it tells us what the most likely target value is.\nIn this case, we tell the model “here are the values for petal width, petal length, sepal width, and sepal length for a particular flower” The model then tells us which species is the most likely for that flower.\nWhen testing how well our model works, we’ll use the test data we split off earlier. It contains the measurements for several flowers, along with their species.\n\nStep 6: Make Predictions on Test Data\nWe’ll give the measurements of each flower to the model and have it predict their species. We’ll then compare those predictions to the known values to determine how accurate our model is.\nSince this is a classification model, there are two different methods we can use to make predictions:\n\npredict(), which returns the most likely prediction for each sample.\npredict_proba() which returns a list of probabilities for each sample. The probabilities tell us how confident the model is that the corresponding sample belongs to a particular class.\n\n\n# Use the predict() method to get a list of predictions for the samples in our\n# test data. Then output those predictions\ny_pred = clf.predict(X_test)\n#y_pred\n\n\n#the porbabilities behind each prediction\nprob_pred = clf.predict_proba(X_test)\n#prob_pred\n\n\n# Just a quick comparison with y_test to see if they match up\n\nActual: species, Predicted: Iris-versicolor\n\n\n\n\nStep 7: Evaluate the Model\nThere are several metrics we can use to determine how well our model is performing.\nMost of them are in the sklearn.metrics library.\nMost of the sklearn metric function work using the same pattern. We import the function, then give it a list of the true values for our test data, and a list of the values the model predicted for our test data. The metric then outputs the value. How we interpret that value will depend on the exact problem we’re solving, the qualities of our data, and the particular metric we’re using.\n\nAccuracy\nSince this is a multiclass classification problem (“multiclass” means we have more than two options we’re choosing from), we can get a quick estimate from the accuracy_score() function, which tells us the percent of correct predictions made by the model.\n\n# Import the accuracy_score function and use it to determine\n# how accurate the models predictions were for our test data\nfrom sklearn.metrics import accuracy_score\n\naccuracy_score(y_test, y_pred)\n\n1.0\n\n\n\n\nConfusion Matrix\nWhile the accuracy score tells us a little about the model’s performance, it doesn’t tell us much.\nFor example, we know how often the model was correct, but we don’t know when it was wrong or why.\nWe can get this information from the confusion_matrix function.\n\n# Import the confusion_matrix function and use it to generate a confusion\n# matrix of our model results.\nfrom sklearn.metrics import confusion_matrix\ncm = confusion_matrix(y_test, y_pred)\nprint(cm)\n\n[[10  0  0]\n [ 0  9  0]\n [ 0  0 11]]\n\n\n\n\nConfusion Matrix Plot\nIt’s easier to see the results of the confusion matrix if we plot the results. One way to do this is with Seaborn’s heatmap function.\nThis function works a little bit differently than the others. It takes as parameters your model instance, and then options for making the chart display the way you want, and outputs a confusion matrix showing how well the model did in predicting the target values.\nYou’ll notice that in many cases (including this one), the numbers in the confusion matrix will be the same as the results you see from the confusion_matrix() function above, but the plot makes it easier to interpret the results.\nWhen using the confusion matrix, you may find that the default color mapping is difficult to read. The “Blues” mapping is a popular choice.\n\n# Create a Seaborn heatmap\nimport seaborn as sns\nimport matplotlib.pyplot as plt\n\n\nplt.figure(figsize=(6, 4))\nsns.heatmap(cm, annot=True, fmt='d', cmap='Blues')\nplt.title('Confusion Matrix Heatmap')\nplt.xlabel('Predicted Label')\nplt.ylabel('Actual Label')\nplt.show()"
-  },
-  {
-    "objectID": "notebooks/Exploration_04.html#above-and-beyond",
-    "href": "notebooks/Exploration_04.html#above-and-beyond",
-    "title": "Data Exploration 04",
-    "section": "🌟 Above and Beyond 🌟",
-    "text": "🌟 Above and Beyond 🌟\nOnce you’ve complted the basics, try to complete one or more of the following tasks:\n\nSee if you can get better results from your model through some data preprocessing, such as normalization.\nOften, using too many features can give poor results. Can you get better performance using a subset of the features instead of all four?\nAre there other ways you could visualize your model results?"
   },
   {
     "objectID": "notebooks/Exploration_03.html",
@@ -483,6 +132,66 @@
     "text": "🌟 Above and Beyond 🌟\n\nThere appears to be a lot of different variations of similar titles. (such as abbreviations for Miss and Mademoiselle).\nScan through the different titles to see which titles can be consolidated, then use what you know about data manipulation to simplify the distribution.\nOnce you’ve finished, check the visualizations again to see if that made any difference.\nThe museum curator has room for a couple of nice visualizations for the exhibit. Create additional visualizations that are suitable for public display."
   },
   {
+    "objectID": "notebooks/Exploration_04.html",
+    "href": "notebooks/Exploration_04.html",
+    "title": "Data Exploration 04",
+    "section": "",
+    "text": "You’re working with a team of botanists to develop a flower classification system.\nYour assignment is to build a k-Nearest Neighbors model to classify flowers based on their petal and sepal sizes.\nimport pandas as pd\ndf = pd.read_csv(\"https://raw.githubusercontent.com/byui-cse/cse450-course/master/data/iris.csv\")"
+  },
+  {
+    "objectID": "notebooks/Exploration_04.html#part-a-import-and-explore-the-data",
+    "href": "notebooks/Exploration_04.html#part-a-import-and-explore-the-data",
+    "title": "Data Exploration 04",
+    "section": "Part A: Import and Explore the data",
+    "text": "Part A: Import and Explore the data\nThe dataset for this exploration is stored at the following url:\nhttps://raw.githubusercontent.com/byui-cse/cse450-course/master/data/iris.csv\n\nInitial Data Analysis\nOnce you’ve loaded the data, it’s a good idea to poke around a little bit to find out what you’re dealing with.\nSome questions you might ask include:\n\nWhat does the data look like?\nWhat kind of data is in each column?\nDo any of the columns have missing values?\n\n\n#What does the data look like?\n\ndf.head(5)\n\n\n    \n\n\n\n\n\n\nsepal_length\nsepal_width\npetal_length\npetal_width\nspecies\n\n\n\n\n0\n5.1\n3.5\n1.4\n0.2\nIris-setosa\n\n\n1\n4.9\n3.0\n1.4\n0.2\nIris-setosa\n\n\n2\n4.7\n3.2\n1.3\n0.2\nIris-setosa\n\n\n3\n4.6\n3.1\n1.5\n0.2\nIris-setosa\n\n\n4\n5.0\n3.6\n1.4\n0.2\nIris-setosa\n\n\n\n\n\n    \n\n  \n    \n\n  \n    \n  \n    \n\n  \n\n    \n  \n\n\n    \n      \n\n\n    \n        \n    \n\n      \n\n\n\n      \n    \n\n    \n  \n\n\n\n#What kind of data is in each column?\ndf.info()\n\n&lt;class 'pandas.core.frame.DataFrame'&gt;\nRangeIndex: 150 entries, 0 to 149\nData columns (total 5 columns):\n #   Column        Non-Null Count  Dtype  \n---  ------        --------------  -----  \n 0   sepal_length  150 non-null    float64\n 1   sepal_width   150 non-null    float64\n 2   petal_length  150 non-null    float64\n 3   petal_width   150 non-null    float64\n 4   species       150 non-null    object \ndtypes: float64(4), object(1)\nmemory usage: 6.0+ KB\n\n\n\n#Do any of the columns have missing values?\ndf.isna().sum()\n\n\n\n\n\n\n\n\n0\n\n\n\n\nsepal_length\n0\n\n\nsepal_width\n0\n\n\npetal_length\n0\n\n\npetal_width\n0\n\n\nspecies\n0\n\n\n\n\ndtype: int64"
+  },
+  {
+    "objectID": "notebooks/Exploration_04.html#part-b-visualize-the-data",
+    "href": "notebooks/Exploration_04.html#part-b-visualize-the-data",
+    "title": "Data Exploration 04",
+    "section": "Part B: Visualize the Data",
+    "text": "Part B: Visualize the Data\nUse your preferred visualization library to create a scatterplot showing petal length vs petal width. You should plot each flower species as a different color on the scatter plot.\n\nfrom plotnine import ggplot, aes, geom_point, facet_wrap, xlab, ylab\n\nggplot(df, aes(x=\"petal_length\", y=\"petal_width\", color = \"species\")) + \\\n    geom_point() + \\\n    xlab(\"Petal Length\") + \\\n    ylab(\"Petal width\")"
+  },
+  {
+    "objectID": "notebooks/Exploration_04.html#part-c-prepare-the-data-for-machine-learning",
+    "href": "notebooks/Exploration_04.html#part-c-prepare-the-data-for-machine-learning",
+    "title": "Data Exploration 04",
+    "section": "Part C: Prepare the Data for Machine Learning",
+    "text": "Part C: Prepare the Data for Machine Learning\nData preparation (sometimes called “data wrangling” or “data munging”) is where you’ll usually spend the bulk of your time when working on machine learning problems. Only rarely is data already in the optimal form for a given algorithm.\nOften we have to deal with missing values, normalize the data, and perform both simple and complex feature engineering to get the data into the form we need.\nOnce the data is in the correct form, we can then randomize the data and split it into training and test datasets (and sometimes an additional validation dataset).\n\nMachine Learning Steps\nAlmost universally, regardless of which algorithm or type of task we’re performing, building and evaluating a machine learning model with sklearn follows these steps:\n\nPerform any data preprocessing needed.\nPartition the data into features and targets.\nSplit the data into training and test sets (and sometimes a third validation set).\nCreate a configure whichever sklearn model object we’re using.\nTrain the model using its “fit” method.\nTest the model using its “predict” method.\nUse a model evaluation metric to see how well the model performs.\n\nIf the model isn’t performing well, we will repeat one or more of the above steps (sometimes all of them).\nOnce the model is performing adequately, we’ll deploy it for use as part of some larger system.\nFor now, let’s assume that this dataset is in the form we need, and we’ll skip to step 2, partitioning the data.\n\n\nStep 2. Partition the Data into Features and Targets\nFirst, we’ll create a dataframe called “X” containing the features of the data we want to use to make our predictions. In this case, that will be the sepal_length, sepal_width, petal_length, and petal_width features.\n(The name “X” isn’t special, but uppercase X is the conventional name for our feature dataset, because that’s what statisticians use to refer to a matrix of independent variables)\n\n# Create a new dataframe called X that contians the features we're going\n# to use to make predictions\n\nX = pd.DataFrame(df, columns=[\"sepal_length\", \"sepal_width\", \"petal_length\", \"petal_width\"])\n\nNext we’ll create a dataframe called “y” containing the target variable, or the set of values we want to predict. In this case, that will be species.\n(Once again, the name “y” isn’t special, but lowercase y is the conventional name for a list of targets, because that’s what statisticians use to refer to a vector of dependent variables)\n\n# Create a new dataframe called y that contians the target we're\n# trying to predict\n\ny = pd.DataFrame(df, columns=[\"species\"])\n\n\n\nStep 3. Split the data into training and test sets.\nNow that we have our data divided into features (X) and target values (y), we’ll split each of these into a training set and a test set.\nWe’ll use the training sets to “train” our model how to make predictions.\nWe’ll then use our test sets to test how well our model has learned from the training data.\nWhile we could use a bunch of python code to do this step, the sklearn library has lots of built-in functions to handle common data manipulations related to machine learning.\nFor this step, we’ll use the train_test_split() function.\n\n# Import and use the train_test_split() function to split the X and y\n# dataframes into training and test sets.\n# The training data should contain 80% of the samples and\n# the test data should contain 20% of the samples.\n\nfrom sklearn.model_selection import train_test_split\n\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)\n\n\n#random_state is just like a seed\n\nAfter creating the training and test splits, output the head() of each one and notice how they row numbers have been randomized.\nAlso notice that X_train and y_train’s row numbers match up, as do X_test and y_test’s row numbers.\n\nX_train.head(3)\n\n\n    \n\n\n\n\n\n\nsepal_length\nsepal_width\npetal_length\npetal_width\n\n\n\n\n22\n4.6\n3.6\n1.0\n0.2\n\n\n15\n5.7\n4.4\n1.5\n0.4\n\n\n65\n6.7\n3.1\n4.4\n1.4\n\n\n\n\n\n    \n\n  \n    \n\n  \n    \n  \n    \n\n  \n\n    \n  \n\n\n    \n      \n\n\n    \n        \n    \n\n      \n\n\n\n      \n    \n\n    \n  \n\n\n\ny_train.head(3)\n\n\n    \n\n\n\n\n\n\nspecies\n\n\n\n\n22\nIris-setosa\n\n\n15\nIris-setosa\n\n\n65\nIris-versicolor"
+  },
+  {
+    "objectID": "notebooks/Exploration_04.html#part-d-create-and-train-a-model",
+    "href": "notebooks/Exploration_04.html#part-d-create-and-train-a-model",
+    "title": "Data Exploration 04",
+    "section": "Part D: Create and Train a Model",
+    "text": "Part D: Create and Train a Model\nWe’re going to create a model based on the k-Nearest Neighbors algorithm.\nSince this is a classification task, (we’re trying to classify which species a given flower belongs to), we’ll use sklearn’s KNeighborsClassifer.\n\nStep 4. Create and configure the model\nWe start by importing the information about the model we want to create. In python, this information is called a class.\nThe KNeighborsClassifier class contains all of the information python needs to create a kNN Classifier.\nOnce we’ve imported the class, we’ll create an instance of the class using this syntax:\nwhatever = ClassName( parameter_one = value, parameter_two = something_else, etc...)\nIn our case, the class name is KNeighborsClassifer. It doesn’t matter what we call the variable that holds the instance, but one popular convention is to call classifier instances clf, so that’s what you’ll see in the sklearn documentation.\nThe only parameter we want to configure is the n_neighbors parameter, which controls the value of k in the kNN algorithm.\n\n# Import the KNeighborsClassifier class from sklearn\n# Note that it's in the neighbors submodule. See the example code in the\n# documentation for details on how to import it\nfrom sklearn.neighbors import KNeighborsClassifier\n\n\n# Create an instance of the model, configuring it to use the 3 nearest neighbors\n# store the instance in a variable\nclf = KNeighborsClassifier(n_neighbors=3)\n\n\n\nStep 5: Train the model\nNext we’ll train the model. We do this by providing it with the training data we split off from the dataset in step 3.\nThe model “learns” how to associate the feature values (X) with the targets (y). The exact process it uses to learn how to do this depends on which algorithm we’re using.\nSometimes, this is called “fitting the data to the model”, so in sklearn, we perform this step using the fit() method.\n\n# Call the \"fit\" method of the classifier instance we created in step 4.\n# Pass it the X_train and y_train data so that it can learn to make predictions\n\nclf.fit(X,y)\n\n/usr/local/lib/python3.11/dist-packages/sklearn/neighbors/_classification.py:239: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().\n\n\nKNeighborsClassifier(n_neighbors=3)In a Jupyter environment, please rerun this cell to show the HTML representation or trust the notebook. On GitHub, the HTML representation is unable to render, please try loading this page with nbviewer.org.KNeighborsClassifier?Documentation for KNeighborsClassifieriFittedKNeighborsClassifier(n_neighbors=3)"
+  },
+  {
+    "objectID": "notebooks/Exploration_04.html#part-e-make-predictions-and-evaluate-the-model",
+    "href": "notebooks/Exploration_04.html#part-e-make-predictions-and-evaluate-the-model",
+    "title": "Data Exploration 04",
+    "section": "Part E: Make Predictions and Evaluate the Model",
+    "text": "Part E: Make Predictions and Evaluate the Model\nNow that the model has been created and trained, we can use it to make predictions. Since this is a classification model, when we give it a set of features, it tells us what the most likely target value is.\nIn this case, we tell the model “here are the values for petal width, petal length, sepal width, and sepal length for a particular flower” The model then tells us which species is the most likely for that flower.\nWhen testing how well our model works, we’ll use the test data we split off earlier. It contains the measurements for several flowers, along with their species.\n\nStep 6: Make Predictions on Test Data\nWe’ll give the measurements of each flower to the model and have it predict their species. We’ll then compare those predictions to the known values to determine how accurate our model is.\nSince this is a classification model, there are two different methods we can use to make predictions:\n\npredict(), which returns the most likely prediction for each sample.\npredict_proba() which returns a list of probabilities for each sample. The probabilities tell us how confident the model is that the corresponding sample belongs to a particular class.\n\n\n# Use the predict() method to get a list of predictions for the samples in our\n# test data. Then output those predictions\ny_pred = clf.predict(X_test)\n#y_pred\n\n\n#the porbabilities behind each prediction\nprob_pred = clf.predict_proba(X_test)\n#prob_pred\n\n\n# Just a quick comparison with y_test to see if they match up\n\nActual: species, Predicted: Iris-versicolor\n\n\n\n\nStep 7: Evaluate the Model\nThere are several metrics we can use to determine how well our model is performing.\nMost of them are in the sklearn.metrics library.\nMost of the sklearn metric function work using the same pattern. We import the function, then give it a list of the true values for our test data, and a list of the values the model predicted for our test data. The metric then outputs the value. How we interpret that value will depend on the exact problem we’re solving, the qualities of our data, and the particular metric we’re using.\n\nAccuracy\nSince this is a multiclass classification problem (“multiclass” means we have more than two options we’re choosing from), we can get a quick estimate from the accuracy_score() function, which tells us the percent of correct predictions made by the model.\n\n# Import the accuracy_score function and use it to determine\n# how accurate the models predictions were for our test data\nfrom sklearn.metrics import accuracy_score\n\naccuracy_score(y_test, y_pred)\n\n1.0\n\n\n\n\nConfusion Matrix\nWhile the accuracy score tells us a little about the model’s performance, it doesn’t tell us much.\nFor example, we know how often the model was correct, but we don’t know when it was wrong or why.\nWe can get this information from the confusion_matrix function.\n\n# Import the confusion_matrix function and use it to generate a confusion\n# matrix of our model results.\nfrom sklearn.metrics import confusion_matrix\ncm = confusion_matrix(y_test, y_pred)\nprint(cm)\n\n[[10  0  0]\n [ 0  9  0]\n [ 0  0 11]]\n\n\n\n\nConfusion Matrix Plot\nIt’s easier to see the results of the confusion matrix if we plot the results. One way to do this is with Seaborn’s heatmap function.\nThis function works a little bit differently than the others. It takes as parameters your model instance, and then options for making the chart display the way you want, and outputs a confusion matrix showing how well the model did in predicting the target values.\nYou’ll notice that in many cases (including this one), the numbers in the confusion matrix will be the same as the results you see from the confusion_matrix() function above, but the plot makes it easier to interpret the results.\nWhen using the confusion matrix, you may find that the default color mapping is difficult to read. The “Blues” mapping is a popular choice.\n\n# Create a Seaborn heatmap\nimport seaborn as sns\nimport matplotlib.pyplot as plt\n\n\nplt.figure(figsize=(6, 4))\nsns.heatmap(cm, annot=True, fmt='d', cmap='Blues')\nplt.title('Confusion Matrix Heatmap')\nplt.xlabel('Predicted Label')\nplt.ylabel('Actual Label')\nplt.show()"
+  },
+  {
+    "objectID": "notebooks/Exploration_04.html#above-and-beyond",
+    "href": "notebooks/Exploration_04.html#above-and-beyond",
+    "title": "Data Exploration 04",
+    "section": "🌟 Above and Beyond 🌟",
+    "text": "🌟 Above and Beyond 🌟\nOnce you’ve complted the basics, try to complete one or more of the following tasks:\n\nSee if you can get better results from your model through some data preprocessing, such as normalization.\nOften, using too many features can give poor results. Can you get better performance using a subset of the features instead of all four?\nAre there other ways you could visualize your model results?"
+  },
+  {
+    "objectID": "Competition/project1.html",
+    "href": "Competition/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 1"
+    ]
+  },
+  {
     "objectID": "Competition/project5.html",
     "href": "Competition/project5.html",
     "title": "Client Report - [Insert Project Title]",
@@ -501,6 +210,61 @@
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Competition",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project4.html",
+    "href": "Full_Stack/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project2.html",
+    "href": "Full_Stack/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project1.html",
+    "href": "Machine_Learning/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project5.html",
+    "href": "Machine_Learning/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project3.html",
+    "href": "Machine_Learning/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
       "Project 3"
     ]
   },
@@ -527,6 +291,150 @@
     ]
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Caption"
+  },
+  {
+    "objectID": "index.html#title-2-header",
+    "href": "index.html#title-2-header",
+    "title": "About Me",
+    "section": "Title 2 Header",
+    "text": "Title 2 Header\nMarkDown Basics"
+  },
+  {
+    "objectID": "story_telling.html",
+    "href": "story_telling.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#title-2-header",
+    "href": "story_telling.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "cleansing.html",
+    "href": "cleansing.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Cleansing"
+    ]
+  },
+  {
+    "objectID": "cleansing.html#title-2-header",
+    "href": "cleansing.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Cleansing"
+    ]
+  },
+  {
+    "objectID": "competition.html",
+    "href": "competition.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Competition"
+    ]
+  },
+  {
+    "objectID": "competition.html#title-2-header",
+    "href": "competition.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Competition"
+    ]
+  },
+  {
+    "objectID": "ml.html",
+    "href": "ml.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "ml.html#title-2-header",
+    "href": "ml.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Jared Bean Resume",
+    "section": "",
+    "text": "Email: jbean42@byui.edu | 986.231.8940 | LinkedIn\n\n\nBachelor of Science in Economics\nBrigham Young University–Idaho, Rexburg, ID\n2021 - 2025\n- Societies: Economics Society, Data Science Society\n- Scholarships: Moral & Ethical Leadership - Ira & Mary Lou Fulton, BYU Idaho Grant\n- GPA: 3.6\n- Emphasis: Data Science, Accounting\n\n\n\nResearch Assistant\nBrigham Young University–Idaho, Rexburg, ID\nJanuary 2023 – June 2024\n- Used R Studios to draw conclusions from data with regression models and graphs. - Created tables in LaTeX to inform teachers of important statistical teaching information.\nTutor\nBrigham Young University–Idaho, Rexburg, ID\nSeptember 2023 – June 2024\n- Increased 20+ students’ comprehension by teaching Micro and Macro Economic fundamentals. - Enhanced students’ ability to study by teaching study skills and habits.\nBookkeeper\nRichard L. Joliet CPA, Prescott, AZ\nJuly 2022 – September 2022\n- Accelerated speed by 15% for client financial statement completion. - Outlined easy-to-read summaries of expenses and revenue with QuickBooks and Excel. - Organized financial statements and tax returns for clients.\nPatient Manager\nStatewide Home Health Staffing, Prescott, AZ\nFebruary 2021 – April 2021\n- Streamlined communication between patients and the company. - Arranged and provided training for employee onboarding materials and equipment.\nFull Time Volunteer\nThe Church of Jesus Christ of Latter-Day Saints, San Jose, California & Chile Concepción\nMarch 2019 – February 2021\n- Taught classes of 25+ students English with a pass rate of over 90%. - Attained fluency in Spanish to communicate concepts and ideas with classes. - Learned to connect with people from various cultural backgrounds.\n\n\n\n\nData Analytical skills: OLS Regressions, Logit Regressions, Econometrics, Statistics, LaTeX.\nCoding languages: Python, R-Studio, VBA, Excel.\nOther: Google Workspace, Microsoft Office Suite, fluent in Spanish."
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Jared Bean Resume",
+    "section": "",
+    "text": "Bachelor of Science in Economics\nBrigham Young University–Idaho, Rexburg, ID\n2021 - 2025\n- Societies: Economics Society, Data Science Society\n- Scholarships: Moral & Ethical Leadership - Ira & Mary Lou Fulton, BYU Idaho Grant\n- GPA: 3.6\n- Emphasis: Data Science, Accounting"
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Jared Bean Resume",
+    "section": "",
+    "text": "Research Assistant\nBrigham Young University–Idaho, Rexburg, ID\nJanuary 2023 – June 2024\n- Used R Studios to draw conclusions from data with regression models and graphs. - Created tables in LaTeX to inform teachers of important statistical teaching information.\nTutor\nBrigham Young University–Idaho, Rexburg, ID\nSeptember 2023 – June 2024\n- Increased 20+ students’ comprehension by teaching Micro and Macro Economic fundamentals. - Enhanced students’ ability to study by teaching study skills and habits.\nBookkeeper\nRichard L. Joliet CPA, Prescott, AZ\nJuly 2022 – September 2022\n- Accelerated speed by 15% for client financial statement completion. - Outlined easy-to-read summaries of expenses and revenue with QuickBooks and Excel. - Organized financial statements and tax returns for clients.\nPatient Manager\nStatewide Home Health Staffing, Prescott, AZ\nFebruary 2021 – April 2021\n- Streamlined communication between patients and the company. - Arranged and provided training for employee onboarding materials and equipment.\nFull Time Volunteer\nThe Church of Jesus Christ of Latter-Day Saints, San Jose, California & Chile Concepción\nMarch 2019 – February 2021\n- Taught classes of 25+ students English with a pass rate of over 90%. - Attained fluency in Spanish to communicate concepts and ideas with classes. - Learned to connect with people from various cultural backgrounds."
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Jared Bean Resume",
+    "section": "",
+    "text": "Data Analytical skills: OLS Regressions, Logit Regressions, Econometrics, Statistics, LaTeX.\nCoding languages: Python, R-Studio, VBA, Excel.\nOther: Google Workspace, Microsoft Office Suite, fluent in Spanish."
+  },
+  {
+    "objectID": "Cleansing_Projects/project3.html",
+    "href": "Cleansing_Projects/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project5.html",
+    "href": "Cleansing_Projects/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 5"
+    ]
+  },
+  {
     "objectID": "Cleansing_Projects/project1.html",
     "href": "Cleansing_Projects/project1.html",
     "title": "Client Report - [Insert Project Title]",
@@ -535,50 +443,6 @@
     "crumbs": [
       "Data Cleansing",
       "Project 1"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project4.html",
-    "href": "Full_Stack/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project2.html",
-    "href": "Full_Stack/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project1.html",
-    "href": "Full_Stack/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project4.html",
-    "href": "Machine_Learning/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 4"
     ]
   },
   {
@@ -593,14 +457,136 @@
     ]
   },
   {
-    "objectID": "Machine_Learning/project1.html",
-    "href": "Machine_Learning/project1.html",
+    "objectID": "Machine_Learning/project4.html",
+    "href": "Machine_Learning/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Machine Learning",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project3.html",
+    "href": "Full_Stack/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project5.html",
+    "href": "Full_Stack/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project1.html",
+    "href": "Full_Stack/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
       "Project 1"
+    ]
+  },
+  {
+    "objectID": "Competition/project2.html",
+    "href": "Competition/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Competition/project4.html",
+    "href": "Competition/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "notebooks/module03_housing_grading_mini.html",
+    "href": "notebooks/module03_housing_grading_mini.html",
+    "title": "Jared Bean - Data Science Portfolio",
+    "section": "",
+    "text": "Prep work:\n\nDownload team csv predictions file\nRename files to team8-module3-predictions.csv where team8 is the name of your team\nMake sure file is one column and remove any extra columns\nMake sure the heading is set to “price” (without quotes)\nUpload csv predictions to session storage area.\nClick the folder icon, then click the upload icon (paper with an upward arrow)\nRun the notebook (Runtime -&gt; Run all)\n\n\n# MODULE 03 - HOUSING HOLDOUT GRADING\n\nfrom google.colab import files\nfrom pathlib import Path\nimport pandas as pd\nimport seaborn as sns\nimport matplotlib.pyplot as plt\nimport numpy as np\nfrom sklearn.metrics import confusion_matrix\nfrom sklearn.metrics import root_mean_squared_error, mean_squared_error, r2_score, mean_absolute_error, median_absolute_error\n\n# Upload the file manually\nuploaded = files.upload()  # This opens a file picker dialog\n\n# Read the uploaded file\nfor filename in uploaded.keys():\n    file_path = Path(\"/content\") / filename\n    df = pd.read_csv(file_path)\n    print(f\"Loaded file: {filename}\")\n    print(df.head())\n\n# If you need to identify team files (e.g., group4-predictions.csv)\nteam_dir = Path(\"/content\")\nteams = team_dir.glob(\"*-predictions.csv\")\nteam_list = []\nfor team in teams:\n    team_name = str(team.name).split(\"-\", 1)[0]\n    team_list.append((team_name, team))\n\n\n# print(team_list)\n\n\n     \n     \n      Upload widget is only available when the cell has been executed in the\n      current browser session. Please rerun this cell to enable.\n      \n       \n\n\nSaving -predictions.csv to -predictions (1).csv\nLoaded file: -predictions (1).csv\n   prediction\n0   795333.50\n1   558851.30\n2   595187.56\n3   262194.94\n4   721947.30\n\n\n\n# READ IN THE HOLDOUT ANSWERS\ntargets_file = \"https://raw.githubusercontent.com/byui-cse/cse450-course/master/data/housing_holdout_test_mini_answers.csv\"\ntargets = pd.read_csv(targets_file)\n# targets\n\n\n# ARE THE STUDENT DATASETS THE CORRECT LENGTH\nstudent_datasets = {}\nfor (group, file) in team_list:\n  ds = pd.read_csv(file)\n\n  if ds.shape != targets.shape:\n    print(f\"Error group {group} ds had {ds.shape} rows and columns instead of the expected {targets.shape}. It will be excluded.\")\n  else:\n    student_datasets[group] = ds\n    print(f\"Group {group} added successfully\")\n\nError group  ds had (4000, 1) rows and columns instead of the expected (81, 1). It will be excluded.\nError group group4 ds had (4000, 1) rows and columns instead of the expected (81, 1). It will be excluded.\n\n\n\n# student_datasets\n\n\nresults_dict = {}\n\n\nfor group, student_ds in student_datasets.items():\n  student_dict = {}\n  # print(group,cm)\n  student_ds.columns=['price']\n  mse = root_mean_squared_error(targets, student_ds)\n  # print(\"{} - RMSE: {}\".format(group, mse))\n\n  student_dict[\"RMSE\"] = root_mean_squared_error(targets, student_ds)\n  student_dict[\"Mean Abs Error\"] = mean_absolute_error(targets, student_ds)\n  student_dict[\"Median Abs Error\"] = median_absolute_error(targets, student_ds)\n  student_dict[\"R2\"] = r2_score(targets, student_ds)\n\n  combined = pd.concat([targets, student_ds], axis=1)\n  combined.columns = [\"target\", \"pred\"]\n  combined[\"absdiff\"] = (combined[\"target\"] - combined[\"pred\"]).abs()\n  combined[\"absdiff_pct\"] = combined[\"absdiff\"] / combined[\"target\"]\n\n  shower = pd.DataFrame(student_ds, columns = ['price'])\n  shower.columns = ['predictions']\n  testfinal = pd.concat([shower,targets['price']],axis=1)\n  testfinal['difference'] = testfinal['price']-testfinal['predictions']\n  testfinal['percent_difference'] = abs(testfinal['difference']/testfinal['price'])\n  testfinal['percent_bucket'] = [ \"above 20%\" if i &gt;= 0.2 else \"below 20%\" for i in testfinal.percent_difference ]\n\n  # testfinal\n\n  student_dict['dataset'] = testfinal\n  percents = [5, 10, 20]\n  for percent in percents:\n    student_dict[f\"Percent of houses within {percent} percent\"] = len(combined[combined[\"absdiff_pct\"] &lt;= (percent /100)]) / len(combined) * 100\n\n  results_dict[group] = student_dict\n\n\n# df['predictions']\n\n\n# results_dict\n\n\nresults_df = pd.DataFrame(results_dict)\nresults_ds_trans = results_df.transpose()\nresults_ds_trans = results_ds_trans.drop(columns=[\"dataset\"])\n\nresults_ds_trans = results_ds_trans.round(2)\nresults_ds_trans = results_ds_trans.sort_values(by=\"R2\",ascending=False)\n\n\n---------------------------------------------------------------------------\nKeyError                                  Traceback (most recent call last)\n&lt;ipython-input-27-7ebdfc467e1d&gt; in &lt;cell line: 0&gt;()\n      1 results_df = pd.DataFrame(results_dict)\n      2 results_ds_trans = results_df.transpose()\n----&gt; 3 results_ds_trans = results_ds_trans.drop(columns=[\"dataset\"])\n      4 \n      5 results_ds_trans = results_ds_trans.round(2)\n\n/usr/local/lib/python3.11/dist-packages/pandas/core/frame.py in drop(self, labels, axis, index, columns, level, inplace, errors)\n   5579                 weight  1.0     0.8\n   5580         \"\"\"\n-&gt; 5581         return super().drop(\n   5582             labels=labels,\n   5583             axis=axis,\n\n/usr/local/lib/python3.11/dist-packages/pandas/core/generic.py in drop(self, labels, axis, index, columns, level, inplace, errors)\n   4786         for axis, labels in axes.items():\n   4787             if labels is not None:\n-&gt; 4788                 obj = obj._drop_axis(labels, axis, level=level, errors=errors)\n   4789 \n   4790         if inplace:\n\n/usr/local/lib/python3.11/dist-packages/pandas/core/generic.py in _drop_axis(self, labels, axis, level, errors, only_slice)\n   4828                 new_axis = axis.drop(labels, level=level, errors=errors)\n   4829             else:\n-&gt; 4830                 new_axis = axis.drop(labels, errors=errors)\n   4831             indexer = axis.get_indexer(new_axis)\n   4832 \n\n/usr/local/lib/python3.11/dist-packages/pandas/core/indexes/base.py in drop(self, labels, errors)\n   7068         if mask.any():\n   7069             if errors != \"ignore\":\n-&gt; 7070                 raise KeyError(f\"{labels[mask].tolist()} not found in axis\")\n   7071             indexer = indexer[~mask]\n   7072         return self.delete(indexer)\n\nKeyError: \"['dataset'] not found in axis\"\n\n\n\n\n# results_df\n\n\nsns.set(rc={'figure.figsize':(11.7,8.27)})\nfor team_results in results_dict.items():\n  testfinal = team_results[1]['dataset']\n  # print(team_results['dataset'])\n  # print(f\"R-Squared Value: {r2}\")\n  print(f\"-------------------------------- {team_results[0].upper()} RESULTS ---------------------------------\\n\")\n  print(f\" Within 5%: {team_results[1]['Percent of houses within 5 percent']}%\\n\",\n  f\"Within 10%: {team_results[1]['Percent of houses within 10 percent']}%\\n\",\n  f\"Within 20%: {team_results[1]['Percent of houses within 20 percent']}%\\n\",\n  f\"R^2: {team_results[1]['R2']}%\\n\",\n  f\"RMSE: {team_results[1]['RMSE']}\\n\",\n  f\"Mean Absolute Error: {team_results[1]['Mean Abs Error']}\\n\",\n  f\"Median Aboslute Error: {team_results[1]['Median Abs Error']}\")\n\n\n  color_dict = dict({'below 20%':'tab:blue',\n                    'above 20%': 'tab:orange'})\n  # print(testfinal['abspercentmiss'].describe(percentiles=[.1,.2,.3,.4,.5,.6,.7,.8,.9,.95]))\n  xlims=(0,4e6)\n  ylims=(0,4e6)\n  ax = sns.scatterplot(data=testfinal,x='price',y='predictions',hue=\"percent_bucket\",palette=color_dict)\n  # ax.set(xscale=\"log\", yscale=\"log\", xlim=xlims, ylim=ylims)\n  ax.plot(xlims,xlims, color='r')\n  # plt.legend(labels=['perfect',\"below 5\",'above 5','10-20%','above 20'])\n  plt.show()\n  print(f\"-\"*77)\n  print(\"\\n\"*3)\n\n-------------------------------- TEAM5 RESULTS ---------------------------------\n\n Within 5%: 24.691358024691358%\n Within 10%: 44.44444444444444%\n Within 20%: 67.90123456790124%\n R^2: 0.7810899731548091%\n RMSE: 133739.93827526006\n Mean Absolute Error: 79855.46888888889\n Median Aboslute Error: 53366.840000000026\n\n\n\n\n\n\n\n\n\n-----------------------------------------------------------------------------\n\n\n\n\n\n\n\nresults_ds_trans = results_df.transpose()\n\nresults_ds_trans = results_ds_trans.drop(columns=[\"dataset\"])\nresults_ds_trans.to_csv(\"class_results.csv\")\nresults_ds_trans\n\n\n    \n      \n\n\n\n\n\n\nGrade\nMean Abs Error\nMedian Abs Error\nPercent of houses within 10 percent\nPercent of houses within 20 percent\nPercent of houses within 5 percent\nR2\nRMSE\n\n\n\n\nteam5\n54.620822\n79855.468889\n53366.84\n44.444444\n67.901235\n24.691358\n0.78109\n133739.938275\n\n\n\n\n\n      \n        \n  \n    \n    \n  \n      \n      \n  \n\n      \n    \n  \n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "notebooks/Exploration_01.html",
+    "href": "notebooks/Exploration_01.html",
+    "title": "Data Exploration 01",
+    "section": "",
+    "text": "A consumer watchdog group wants to see if Netflix has more movies for adults or children.\nUsing a dataset containing metadata for all of the movies Netflix had available on their platform in 2019, we’ll use the MPAA movie rating system to determine if they are correct."
+  },
+  {
+    "objectID": "notebooks/Exploration_01.html#mpaa-movie-ratings",
+    "href": "notebooks/Exploration_01.html#mpaa-movie-ratings",
+    "title": "Data Exploration 01",
+    "section": "MPAA Movie Ratings:",
+    "text": "MPAA Movie Ratings:\n\nG: All ages admitted.\nPG: Some material may not be suitable for children.\nPG-13: Some material may be inappropriate for children under 13.\nR: Under 17 requires accompanying parent or adult guardian\nNC-17: No One 17 and Under Admitted\n\nMost people would consider G and PG as ratings suitable for children. However, not everyone would agree that a PG-13 movie is necssarily a children’s movie. It is up to you to decide how to handle this."
+  },
+  {
+    "objectID": "notebooks/Exploration_01.html#part-1-import-pandas",
+    "href": "notebooks/Exploration_01.html#part-1-import-pandas",
+    "title": "Data Exploration 01",
+    "section": "Part 1: Import Pandas",
+    "text": "Part 1: Import Pandas\nThe pandas library is a python library used for data analysis and manipulation. It will provide the core functionality for most of what you do in the data exploration and preprocessing stages of most machine learning projects.\nPlease see this Getting Started Guide for information on the conventional way to import Pandas into your project, as well as other helpful tips for common Pandas tasks.\n\n# Part 1: Enter the code below to import Pandas according to the\n# conventional method.\n\nimport pandas as pd"
+  },
+  {
+    "objectID": "notebooks/Exploration_01.html#part-2-load-the-data",
+    "href": "notebooks/Exploration_01.html#part-2-load-the-data",
+    "title": "Data Exploration 01",
+    "section": "Part 2: Load the data",
+    "text": "Part 2: Load the data\nThe dataset for this exploration is stored at the following url:\nhttps://raw.githubusercontent.com/byui-cse/cse450-course/master/data/netflix_titles.csv\nThere are lots of ways to load data into your workspace. The easiest way in this case is to ask Pandas to do it for you.\n\nInitial Data Analysis\nOnce you’ve loaded the data, it’s a good idea to poke around a little bit to find out what you’re dealing with.\nSome questions you might ask include:\n\nWhat does the data look like?\nWhat kind of data is in each column?\nDo any of the columns have missing values?\n\n\n# Part 2: Load the dataset into a Pandas dataframe.\n# example: titanic = pd.read_csv(\"data/titanic.csv\")\n\nmovie_db = pd.read_csv(\"https://raw.githubusercontent.com/byui-cse/cse450-course/master/data/netflix_titles.csv\")\n\n\n# Then, explore the data by seeing what the first few rows look like.\n# ecample: titanic.head(8)\n\nmovie_db.head(5)\n\n\n    \n\n\n\n\n\n\nshow_id\ntype\ntitle\ndirector\ncast\ncountry\ndate_added\nrelease_year\nrating\nduration\nlisted_in\ndescription\n\n\n\n\n0\n81145628\nMovie\nNorm of the North: King Sized Adventure\nRichard Finn, Tim Maltby\nAlan Marriott, Andrew Toth, Brian Dobson, Cole...\nUnited States, India, South Korea, China\nSeptember 9, 2019\n2019\nTV-PG\n90 min\nChildren & Family Movies, Comedies\nBefore planning an awesome wedding for his gra...\n\n\n1\n80117401\nMovie\nJandino: Whatever it Takes\nNaN\nJandino Asporaat\nUnited Kingdom\nSeptember 9, 2016\n2016\nTV-MA\n94 min\nStand-Up Comedy\nJandino Asporaat riffs on the challenges of ra...\n\n\n2\n70234439\nTV Show\nTransformers Prime\nNaN\nPeter Cullen, Sumalee Montano, Frank Welker, J...\nUnited States\nSeptember 8, 2018\n2013\nTV-Y7-FV\n1 Season\nKids' TV\nWith the help of three human allies, the Autob...\n\n\n3\n80058654\nTV Show\nTransformers: Robots in Disguise\nNaN\nWill Friedle, Darren Criss, Constance Zimmer, ...\nUnited States\nSeptember 8, 2018\n2016\nTV-Y7\n1 Season\nKids' TV\nWhen a prison ship crash unleashes hundreds of...\n\n\n4\n80125979\nMovie\n#realityhigh\nFernando Lebrija\nNesta Cooper, Kate Walsh, John Michael Higgins...\nUnited States\nSeptember 8, 2017\n2017\nTV-14\n99 min\nComedies\nWhen nerdy high schooler Dani finally attracts...\n\n\n\n\n\n    \n\n  \n    \n\n  \n    \n  \n    \n\n  \n\n    \n  \n\n\n\n  \n\n\n    \n        \n    \n\n  \n\n\n\n  \n\n\n    \n  \n\n\n\n# Next, display a technical summary of the data to determine the data types of each column, and which columns have missing data.\n# example: titanic.dtypes, titanic.info()\n\n#movie_db.dtypes\nmovie_db.info\n\n\n    pandas.core.frame.DataFrame.infodef info(verbose: bool | None=None, buf: WriteBuffer[str] | None=None, max_cols: int | None=None, memory_usage: bool | str | None=None, show_counts: bool | None=None) -&gt; None/usr/local/lib/python3.11/dist-packages/pandas/core/frame.pyPrint a concise summary of a DataFrame.\n\nThis method prints information about a DataFrame including\nthe index dtype and columns, non-null values and memory usage.\n\nParameters\n----------\nverbose : bool, optional\n    Whether to print the full summary. By default, the setting in\n    ``pandas.options.display.max_info_columns`` is followed.\nbuf : writable buffer, defaults to sys.stdout\n    Where to send the output. By default, the output is printed to\n    sys.stdout. Pass a writable buffer if you need to further process\n    the output.\nmax_cols : int, optional\n    When to switch from the verbose to the truncated output. If the\n    DataFrame has more than `max_cols` columns, the truncated output\n    is used. By default, the setting in\n    ``pandas.options.display.max_info_columns`` is used.\nmemory_usage : bool, str, optional\n    Specifies whether total memory usage of the DataFrame\n    elements (including the index) should be displayed. By default,\n    this follows the ``pandas.options.display.memory_usage`` setting.\n\n    True always show memory usage. False never shows memory usage.\n    A value of 'deep' is equivalent to \"True with deep introspection\".\n    Memory usage is shown in human-readable units (base-2\n    representation). Without deep introspection a memory estimation is\n    made based in column dtype and number of rows assuming values\n    consume the same memory amount for corresponding dtypes. With deep\n    memory introspection, a real memory usage calculation is performed\n    at the cost of computational resources. See the\n    :ref:`Frequently Asked Questions &lt;df-memory-usage&gt;` for more\n    details.\nshow_counts : bool, optional\n    Whether to show the non-null counts. By default, this is shown\n    only if the DataFrame is smaller than\n    ``pandas.options.display.max_info_rows`` and\n    ``pandas.options.display.max_info_columns``. A value of True always\n    shows the counts, and False never shows the counts.\n\nReturns\n-------\nNone\n    This method prints a summary of a DataFrame and returns None.\n\nSee Also\n--------\nDataFrame.describe: Generate descriptive statistics of DataFrame\n    columns.\nDataFrame.memory_usage: Memory usage of DataFrame columns.\n\nExamples\n--------\n&gt;&gt;&gt; int_values = [1, 2, 3, 4, 5]\n&gt;&gt;&gt; text_values = ['alpha', 'beta', 'gamma', 'delta', 'epsilon']\n&gt;&gt;&gt; float_values = [0.0, 0.25, 0.5, 0.75, 1.0]\n&gt;&gt;&gt; df = pd.DataFrame({\"int_col\": int_values, \"text_col\": text_values,\n...                   \"float_col\": float_values})\n&gt;&gt;&gt; df\n    int_col text_col  float_col\n0        1    alpha       0.00\n1        2     beta       0.25\n2        3    gamma       0.50\n3        4    delta       0.75\n4        5  epsilon       1.00\n\nPrints information of all columns:\n\n&gt;&gt;&gt; df.info(verbose=True)\n&lt;class 'pandas.core.frame.DataFrame'&gt;\nRangeIndex: 5 entries, 0 to 4\nData columns (total 3 columns):\n #   Column     Non-Null Count  Dtype\n---  ------     --------------  -----\n 0   int_col    5 non-null      int64\n 1   text_col   5 non-null      object\n 2   float_col  5 non-null      float64\ndtypes: float64(1), int64(1), object(1)\nmemory usage: 248.0+ bytes\n\nPrints a summary of columns count and its dtypes but not per column\ninformation:\n\n&gt;&gt;&gt; df.info(verbose=False)\n&lt;class 'pandas.core.frame.DataFrame'&gt;\nRangeIndex: 5 entries, 0 to 4\nColumns: 3 entries, int_col to float_col\ndtypes: float64(1), int64(1), object(1)\nmemory usage: 248.0+ bytes\n\nPipe output of DataFrame.info to buffer instead of sys.stdout, get\nbuffer content and writes to a text file:\n\n&gt;&gt;&gt; import io\n&gt;&gt;&gt; buffer = io.StringIO()\n&gt;&gt;&gt; df.info(buf=buffer)\n&gt;&gt;&gt; s = buffer.getvalue()\n&gt;&gt;&gt; with open(\"df_info.txt\", \"w\",\n...           encoding=\"utf-8\") as f:  # doctest: +SKIP\n...     f.write(s)\n260\n\nThe `memory_usage` parameter allows deep introspection mode, specially\nuseful for big DataFrames and fine-tune memory optimization:\n\n&gt;&gt;&gt; random_strings_array = np.random.choice(['a', 'b', 'c'], 10 ** 6)\n&gt;&gt;&gt; df = pd.DataFrame({\n...     'column_1': np.random.choice(['a', 'b', 'c'], 10 ** 6),\n...     'column_2': np.random.choice(['a', 'b', 'c'], 10 ** 6),\n...     'column_3': np.random.choice(['a', 'b', 'c'], 10 ** 6)\n... })\n&gt;&gt;&gt; df.info()\n&lt;class 'pandas.core.frame.DataFrame'&gt;\nRangeIndex: 1000000 entries, 0 to 999999\nData columns (total 3 columns):\n #   Column    Non-Null Count    Dtype\n---  ------    --------------    -----\n 0   column_1  1000000 non-null  object\n 1   column_2  1000000 non-null  object\n 2   column_3  1000000 non-null  object\ndtypes: object(3)\nmemory usage: 22.9+ MB\n\n&gt;&gt;&gt; df.info(memory_usage='deep')\n&lt;class 'pandas.core.frame.DataFrame'&gt;\nRangeIndex: 1000000 entries, 0 to 999999\nData columns (total 3 columns):\n #   Column    Non-Null Count    Dtype\n---  ------    --------------    -----\n 0   column_1  1000000 non-null  object\n 1   column_2  1000000 non-null  object\n 2   column_3  1000000 non-null  object\ndtypes: object(3)\nmemory usage: 165.9 MB"
+  },
+  {
+    "objectID": "notebooks/Exploration_01.html#part-3-filter-the-data",
+    "href": "notebooks/Exploration_01.html#part-3-filter-the-data",
+    "title": "Data Exploration 01",
+    "section": "Part 3: Filter the Data",
+    "text": "Part 3: Filter the Data\nSince we’re just interested in movies, we’ll need to filter out anything that isn’t a movie for our analysis. The type feature contains this information.\nOnce we have the subset, we should see how many rows it contains. There are a variety of ways to get the length of a data frame.\n\n# Use pandas's filtering abilitites to select the subset of data\n# that represents movies, then calculate how many rows are in the filtered data.\n\n\nMPAA Ratings\nNow that we have only movies, let’s get a quick count of the values being used in the rating feature.\n\n# Determine the number of records for each value of the \"rating\" feature.\n# Remember to count the values in your subset only, not in the original dataframe.\n\n\n\nMore Filtering\nThere are apparently some “made for TV” movies in the list that don’t fit the MPAA rating scheme.\nLet’s filter some more to just see movies rated with the standard MPAA ratings of G, PG, PG-13, R, and NC-17.\n\n# Filter the list of movies to select a new subset containing only movies with\n# a standard MPAA rating. Calculate how many rows are in this new set, and\n# then see which ratings appear most often."
+  },
+  {
+    "objectID": "notebooks/Exploration_01.html#part-4-visualization",
+    "href": "notebooks/Exploration_01.html#part-4-visualization",
+    "title": "Data Exploration 01",
+    "section": "Part 4: Visualization",
+    "text": "Part 4: Visualization\nNow that we have explored and preprocessed our data, let’s create a visualization to summarize our findings.\n\nExploration vs Presentation\nBroadly speaking, there are two types of visualizations: * Barebones visualizations you might use to get a quick, visual understanding of the data while you’re trying to decide how it all fits together. * Presentation-quality visualizations that you would include in a report or presentation for management or other stakeholders.\n\n\nVisualization Tools\nThere are many different visualization tools availble. In the sections below, we’ll explore the three most common. Each of these libraries has strengths and weaknesses.\nIt is probably a good idea for you to become familiar with each one, and then become proficient at whichever one you like the best.\n\n\nAltair\nThe Altair visualization library provides a large variety of very easy to use statistical charting tools.\nAltair uses a declarative language to build up charts piece by piece.\nAssume we have a pandas dataframe called employees, with three columns: name, job, salary.\n# Make a box plot style categorical plot showing the distribution of salaries for each job:\nalt.Chart(employees).mark_boxplot().encode(\n    x='job',\n    y='salary'\n)\n\n# Make a box plot style categorical plot, and customize the results\nalt.Chart(employees).mark_boxplot().encode(\n    alt.X('job', title='Job title'),\n    alt.Y('salary', title='Annual salary in thousands of $USD')\n).properties(\n  title='Salaries by Job Title'\n)\nLike with Pandas, there is a conventional way to import Altair into your projects.\n\n# Import the Altair library the conventional way.\n\nLet’s create a barchart showing the count of each movie rating by using Altair’s aggregation capabilities.\nIn this example, we see the x axis being set to a feature called a, and the y axis set to the average() of a feature called b.\nIn our case, we want the x axis to be set to rating and the y axis to be the count() of rating.\n\n# Use Altair to create a bar chart comparing the count of each movie rating\n\n\n\nSeaborn\nWhile Altair uses a “declarative” syntax for building charts piece by piece, the Seaborn library provides a large variety of pre-made charts for common statistical needs.\nThese charts are divided into different categories. Each category has a high-level interface you can use for simplicity, and then a specific function for each chart that you can use if you need more control over how the chart looks.\nSeaborn uses matplotlib for its drawing, and the chart-specific functions each return a matplitlib axes object if you need additional customization.\nFor example, there are several different types of categorical plots in seaborn: bar plots, box plots, point plots, count plots, swarm plots, etc…\nEach of these plots can be accessed using the catplot function.\nAssume we have a pandas dataframe called employees, with three columns: name, job, salary.\n# Make a box plot style categorical plot showing the distribution of salaries for each job:\nsns.catplot(data=employees, x='job', y='salary', kind='box')\n\n# Make a swarm plot style categorical plot\nsns.catplot(data=employees, x='job', y='salary', kind='swarm')\nAlternatively, you can use the plot specific functions to give yourself more control over the output by using matplotlib functions:\n# Make a box plot style categorical plot, and customize the results\nimport matplotlib.pyplot as plt\n\nplt.figure(figsize=(12, 9))\nax = sns.boxplot(data=employees, x='job', y='salary')\nax.set_title(\"Salaries by Job Title\")\nax.set_ylabel(\"Annual salary in thousands of $USD\")\nax.set_xlabel(\"Job title\")\nLike with Pandas, there is a conventional way to import Seaborn into your projects.\nOptionally, you may wish to set some default chart aesthetics by setting the chart style.\n\n# Import the seaborn library the conventional way. Then optionally configure\n# the default chart style.\n\nSince the rating column uses categorical data, we need to use Seaborn’s categorical visualizations.\nIn particular, we want a “count plot” that will display a count of movie ratings.\n\n# Use seaborn to create a count plot comparing the count of each movie rating\n\n\n\nPandas built-in plotting\nIn addition to libraries like Altair and Seaborn, Pandas has some built in charting functionality.\nWhile not as sophisticated as some of the other options, it is often good enough for quick visualizations.\nJust like with seaborn’s plotting functions, the pandas plotting functions return matplotlib axes objects, which can be further customized.\nAssume we have a pandas dataframe called employees, with three columns: name, job, salary.\n# Make a box plot style categorical plot showing the distribution of salaries for each job:\nemployees[ ['job','salary'] ].plot.box()\n\n# Make a box plot style categorical plot, and customize the results\nimport matplotlib.pyplot as plt\n\nplt.figure(figsize=(12, 9))\nax = employees[ ['job','salary'] ].plot().box()\nax.set_title(\"Salaries by Job Title\")\nax.set_ylabel(\"Annual salary in thousands of $USD\")\nax.set_xlabel(\"Job title\")\n\n# Use pandas' built in plotting functions to create a count plot comparing the count of each movie rating\n# This will be a little trickier than the other libraries, but one hint is that the pandas value_counts() function\n# actually returns a dataframe."
+  },
+  {
+    "objectID": "notebooks/Exploration_01.html#above-and-beyond",
+    "href": "notebooks/Exploration_01.html#above-and-beyond",
+    "title": "Data Exploration 01",
+    "section": "🌟 Above and Beyond 🌟",
+    "text": "🌟 Above and Beyond 🌟\nAfter reviewing your findings, the watchdog group would like some additional questions answered:\n\nHow are things affected if you include the “made for TV movies” that have been assigned TV ratings in your analysis, but still exclude unrated movies?\nThey would also like to see a separate report that includes only TV shows.\nFor an upcoming community meeting, the group would like to present a simple chart showing “For Kids” and “For Adults” categories. The easiest way to accomplish this would be to create a new column in your data frame that maps each rating to the appropriate “For Kids” or “For Adults” label, then create a new visualization based on that column."
+  },
+  {
+    "objectID": "Story_Telling/project3.html",
+    "href": "Story_Telling/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 3"
     ]
   },
   {
@@ -615,14 +601,35 @@
     ]
   },
   {
-    "objectID": "Story_Telling/project3.html",
-    "href": "Story_Telling/project3.html",
+    "objectID": "Story_Telling/project1.html",
+    "href": "Story_Telling/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Story Telling",
-      "Project 3"
+      "Project 1"
     ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project3.html",
+    "href": "Cleansing_Exploration/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project5.html",
+    "href": "Cleansing_Exploration/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html",
+    "href": "Cleansing_Exploration/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
   }
 ]
