@@ -3783,3 +3783,18 @@ input, select, textarea {
 			}
 
 		}
+
+/* Shrink header size but keep structure  ADded on if breaks delet past here*/
+.minimal-header {
+    padding: 1rem 0;
+    min-height: 30px;
+    background: none; /* or keep the background if needed */
+    text-align: center;
+    border-bottom: 1px solid rgba(255,255,255,0.1); /* optional subtle divider */
+}
+
+.minimal-header .logo,
+.minimal-header h1,
+.minimal-header p {
+    display: none;
+}
