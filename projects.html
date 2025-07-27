@@ -6,6 +6,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <link rel="stylesheet" href="assets/css/main.css" />
     <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+
+    <style>
+      .back-button {
+        position: absolute;
+        top: 20px;
+        left: 20px;
+        text-decoration: none;
+        font-weight: bold;
+        z-index: 999;
+      }
+    </style>
   </head>
   <body class="is-preload">
     <!-- Wrapper -->
@@ -14,14 +25,15 @@
       <!-- Main -->
       <div id="main">
 
-        <!-- projects Section -->
+        <!-- Back Arrow Link -->
+        <div class="back-button">
+          <a href="index.html" class="icon solid fa-arrow-left"> Back to Main</a>
+        </div>
+
+        <!-- Projects Section -->
         <section class="main special">
           <header class="major">
-            <!-- Back Arrow Link -->
-            <p><a href="index.html" class="icon solid fa-arrow-left"> Back to Main</a></p>
-
-            <!-- Title -->
-            <h2>projects</h2>
+            <h2>Projects</h2>
           </header>
 
           <p>
@@ -32,13 +44,14 @@
             I focus on combining economic theory with practical data science tools to better understand real-world problems and contribute to meaningful solutions.
           </p>
         </section>
-
       </div>
 
-      <!-- Footer -->
+      <!-- Footer (Optional) -->
+      <!--
       <footer id="footer">
-        <!-- <p class="copyright">&copy; Jared Bean. Design: <a href="https://html5up.net">HTML5 UP</a>.</p> -->
+        <p class="copyright">&copy; Jared Bean. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
       </footer>
+      -->
 
     </div>
 
