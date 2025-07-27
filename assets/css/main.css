@@ -97,7 +97,7 @@ input, select, textarea {
 	*, *:before, *:after {
 		box-sizing: inherit;
 	}
-
+/* 
 	body {
 		background-color: #f9f9f9;
 		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #76e38f 15%, #4d4d93 85%);
@@ -115,7 +115,7 @@ input, select, textarea {
 			-webkit-transition: none !important;
 			-ms-transition: none !important;
 			transition: none !important;
-		}
+		} */
 
 /* Type */
 
@@ -3772,7 +3772,7 @@ input, select, textarea {
 
 /* Wrapper */
 
-	/* #wrapper {
+	#wrapper {
 		width: 64em;
 		max-width: calc(100% - 4em);
 		margin: 0 auto;
@@ -3793,7 +3793,7 @@ input, select, textarea {
 			}
 
 		}
-		 */
+		
 /* back button */
 .back-button {
   text-align: left;
