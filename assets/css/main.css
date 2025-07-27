@@ -120,7 +120,7 @@ input, select, textarea {
 /* Type */
 
 	body {
-		background-color: #935d8c;
+		background-color: #4d4d93;
 		color: rgba(255, 255, 255, 0.65);
 	}
 
@@ -3544,13 +3544,23 @@ input, select, textarea {
 			color: #636363;
 		}
 
+		/* this was original code for gradient underlineing the header next paragraph is mine...
 		#main header.major h2:after {
 			background-color: #dddddd;
 			background-image: -moz-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
 			background-image: -webkit-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
 			background-image: -ms-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
 			background-image: linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
+		} */
+
+		#main header.major h2:after {
+			background-color: #76e38f; /* fallback color */
+			background-image: -moz-linear-gradient(90deg, #76e38f, #4d4d93);
+			background-image: -webkit-linear-gradient(90deg, #76e38f, #4d4d93);
+			background-image: -ms-linear-gradient(90deg, #76e38f, #4d4d93);
+			background-image: linear-gradient(90deg, #76e38f, #4d4d93);
 		}
+
 
 		#main table tbody tr {
 			border-color: #dddddd;
