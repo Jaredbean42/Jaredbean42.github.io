@@ -3793,9 +3793,22 @@ input, select, textarea {
 			}
 
 		}
+		
 /* back button */
-	.back-button {
-	margin-bottom: 1em;
-	display: inline-block;
-	font-weight: bold;
-	}
+.back-button {
+  text-align: left;
+  margin: 0 0 1em 0;
+  padding-left: 2em; /* aligns with typical content padding */
+}
+
+.back-button a {
+  display: inline-block;
+  font-weight: bold;
+  color: #444; /* match your text color */
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+.back-button a:hover {
+  text-decoration: underline;
+}
