@@ -1,5 +1,291 @@
-canvas {
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400&display=swap');
+
+html {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+/* Wrapper uses grid */
+#wrapper {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  gap: 2rem;
+  width: 100%;
+  margin: 0 auto;
+  padding: 100px 2rem 2rem;
+  position: relative;
+  z-index: 1; /* above canvas */
+}
+
+/* NAVIGATION */
+.nav {
+  background-color: rgba(61, 61, 61, 0.9);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  height: 70px;
+  display: flex;
+  align-items: center;
+  padding: 0 1em;
   position: fixed;
   top: 0;
   left: 0;
+  right: 0;
+  z-index: 1000;
+}
+
+.nav_list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.brand_name {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #00faff;
+}
+
+.nav_center_links,
+.nav_right_links {
+  display: flex;
+  gap: 1.5em;
+}
+
+.nav_center_links a,
+.nav_right_links a {
+  color: #00faff;
+  text-decoration: none;
+  padding: 8px 12px;
+  transition: background-color 0.3s ease;
+}
+
+.nav_center_links a:hover,
+.nav_right_links a:hover {
+  background-color: #e0e0e0;
+  border-radius: 5px;
+}
+
+/* INTRO*/
+.intro_section {
+  grid-column: 2 / 12;
+  display: flex;
+  align-items: center;
+  gap: 2em;
+  max-width: 1000px;
+  padding: 2em;
+  margin: 0 auto 3rem auto;
+  background-color: rgba(175, 176, 175, 0.8);
+  border-radius: 0.5em;
+}
+
+.intro_left {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.profile_pic {
+  width: 270px;
+  height: 275px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 5px solid #ffffff;
+}
+
+.button_group {
+  display: flex;
+  gap: 1em;
+  margin-top: 1em;
+  flex-wrap: wrap;
+}
+
+.contact_button,
+.resume_button {
+  padding: 10px 20px;
+  font-size: 1em;
+  background-color: rgba(61, 61, 61, 0.9);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.contact_button:hover,
+.resume_button:hover {
+  background-color: #00faff;
+}
+
+.intro_text {
+  flex: 1;
+  padding-left: 2em;
+}
+
+.intro_text h1 {
+  font-size: 2em;
+  margin-top: 0;
+  color: black;
+}
+
+.intro_text p {
+  font-size: 1.1em;
+  line-height: 1.6;
+}
+
+/* SECTION CARDS */
+section {
+  background: rgba(175, 176, 175, 0.8);
+  border-radius: 0.5em;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  margin-bottom: 5rem;
+  position: relative; /* needed for bar + heading positioning */
+  overflow: hidden;
+  padding: 70px 2rem 2rem 2rem; /* top padding leaves room for bar + heading */
+}
+
+/* Stagger positions */
+.section-left {
+  grid-column: 1 / 7;
+}
+.section-right {
+  grid-column: 6 / 12;
+}
+
+/* Top bar accent */
+section::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 50px; /* thickness of the bar */
+  background: linear-gradient(90deg, rgba(61, 61, 61, 0.9), rgba(150, 150, 150, 0.9));
+  border-top-left-radius: 0.5em;
+  border-top-right-radius: 0.5em;
+  z-index: 0;
+}
+
+/* Headings inside section */
+section h2 {
+  position: absolute;
+  top: 10px;  /* centers heading vertically inside the bar */
+  left: 20px; /* indent from the left */
+  z-index: 1; /* above the bar */
+  color: #00faff;
+  font-size: 1.8rem;
+  font-weight: 700;
+  margin: 0;
+}
+
+/* EXPERIENCE SECTION */
+.experience-item {
+  margin-bottom: 2rem;
+  padding: 1rem 1.5rem;
+  background: rgba(61, 61, 61, 0.9);
+  border-radius: 0.5em;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.25);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  opacity: 0;
+  transform: translateX(-100px);
+}
+
+.experience-item:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.35);
+}
+
+/* Slide-in animation */
+.experience-item.visible {
+  opacity: 1;
+  transform: translateX(0);
+  transition: transform 0.8s ease-out, opacity 0.8s ease-out;
+}
+
+/* Job Title */
+section h3 {
+  margin: 0 0 0.5rem 0;
+  padding-left: 10px;
+  color: #00faff;
+  font-size: 1.3rem;
+  font-weight: 600;
+  border-left: 4px solid #00faff;
+}
+
+/* Employer + Location */
+.experience-item p strong {
+  color: #ffffff;
+  font-weight: 600;
+}
+
+.experience-item p {
+  margin: 0.25rem 0 0.75rem 0;
+  color: #e6e6e6;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+/* Dates */
+.experience-item p em {
+  color: #cccccc;
+  font-style: italic;
+  font-size: 0.9rem;
+}
+
+/* Bullet Points */
+.experience-item ul {
+  margin: 0.25rem 0 0 1.25rem;
+  padding: 0;
+  list-style-type: disc;
+}
+
+.experience-item li {
+  margin-bottom: 0.4rem;
+  line-height: 1.5;
+  color: #f5f5f5;
+  font-size: 0.95rem;
+}
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+  #wrapper {
+    grid-template-columns: 1fr;
+    padding: 100px 1rem 2rem;
+  }
+  .intro_section,
+  .section-left,
+  .section-right {
+    grid-column: 1 / -1;
+    flex-direction: column;
+    text-align: center;
+  }
+  .profile_pic {
+    width: 140px;
+    height: 140px;
+  }
+  .intro_text {
+    padding-left: 0;
+  }
+  .button_group {
+    justify-content: center;
+  }
+}
+
+/* Canvas background */
+canvas#background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  display: block;
 }
