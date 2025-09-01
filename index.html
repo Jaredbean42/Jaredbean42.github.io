@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Jared Bean | Portfolio</title>
+
+  <!-- Font Awesome -->
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+  />
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="styles.css" />
+  <script type="module" crossorigin src="/assets/index-C_LLSjM1.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-RffRLuS-.css">
+</head>
+<body>
+  <!-- Navigation Bar-->
+  <nav class="nav">
+    <ul class="nav_list">
+      <li class="brand_name">Jared Bean</li>
+      <div class="nav_center_links">
+        <li><a href="#">About</a></li>
+        <li><a href="#">Projects</a></li>
+      </div>
+      <div class="nav_right_links">
+        <li><a href="#"><i class="fab fa-github"></i></a></li>
+        <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+      </div>
+    </ul>
+  </nav>
+
+  <!-- Grid Wrapper -->
+  <div id="wrapper">
+
+    <!-- Intro spans wide -->
+    <div class="intro_section">
+      <div class="intro_left">
+        <img src="/assets/profile_pic-BbT_X0ui.jpg" alt="Profile Picture" class="profile_pic" />
+        <div class="button_group">
+          <button class="contact_button">Contact Me</button>
+          <button class="resume_button">Resume (pdf)</button>
+        </div>
+      </div>
+      <div class="intro_text">
+        <h1>Economics Student & Data Research</h1>
+        <p>Hi, I'm Jared. Welcome to my site! I am an economics student and data researcher who enjoys statistcs and programing. I like helping people understand the world better through data analytics. I also like to code a bit...</p>
+      </div>
+    </div>
+
+    <!-- EXPERIENCE -->
+    <section class="experience_section section-left">
+      <h2>Experience</h2>
+
+      <div class="experience-item">
+        <h3>Tutor</h3>
+        <p><strong>Brigham Young University-Idaho</strong> • Rexburg, ID<br>
+        <em>September 2023 – February 2025</em></p>
+        <ul>
+          <li>Led Economics Lab tutoring team, making complex economic theories accessible for 100+ students.</li>
+          <li>Applied statistical analysis to identify student success factors, improving tutor efficiency by 10%.</li>
+        </ul>
+      </div>
+
+      <div class="experience-item">
+        <h3>Research Assistant</h3>
+        <p><strong>Brigham Young University-Idaho</strong> • Rexburg, ID<br>
+        <em>January 2024 – July 2024</em></p>
+        <ul>
+          <li>Developed data visualizations in LaTeX and R (ggplot) to strengthen educational materials.</li>
+          <li>Cleaned and analyzed 1M+ rows of test data to evaluate question clarity and quality.</li>
+        </ul>
+      </div>
+
+      <div class="experience-item">
+        <h3>Bookkeeper</h3>
+        <p><strong>Richard L. Joliet, CPA</strong> • Prescott, AZ<br>
+        <em>July 2022 – September 2022</em></p>
+        <ul>
+          <li>Accelerated client financial statement and tax return completion by ~15%.</li>
+          <li>Created clear financial summaries using QuickBooks and VBA Excel, enhancing workflow for tax and payroll processes.</li>
+        </ul>
+      </div>
+
+      <div class="experience-item">
+        <h3>Patient Manager</h3>
+        <p><strong>Statewide Home Health Staffing</strong> • Prescott, AZ<br>
+        <em>February 2021 – April 2021</em></p>
+        <ul>
+          <li>Streamlined patient communication, reducing response times significantly.</li>
+          <li>Improved employee onboarding by organizing training materials, cutting training times by ~50%.</li>
+        </ul>
+      </div>
+
+      <div class="experience-item">
+        <h3>Full Time Volunteer</h3>
+        <p><strong>The Church of Jesus Christ of Latter-day Saints</strong> • San Jose, CA & Concepción, Chile<br>
+        <em>March 2019 – February 2021</em></p>
+        <ul>
+          <li>Taught English to 25+ students with a 90%+ passing rate.</li>
+          <li>Achieved fluency in Spanish, enabling effective communication with native speakers.</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- PROJECTS -->
+    <section class="projects_section section-right">
+      <h2>Projects</h2>
+      <p>Example right-side card with grid-column 6 / 12.</p>
+    </section>
+
+    <section class="contact_section section-left">
+      <h2>Contact</h2>
+      <p>This one is back on the left. On mobile, all stack full-width.</p>
+    </section>
+  </div>
+
+  <!-- Three.js background -->
+  <canvas id="background"></canvas>
+
+  <!-- Slide-in JS -->
+  <script>
+    const observer = new IntersectionObserver(entries => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add("visible");
+          observer.unobserve(entry.target); // animate once
+        }
+      });
+    }, { threshold: 0.2 });
+
+    document.querySelectorAll('.experience-item').forEach(item => {
+      observer.observe(item);
+    });
+  </script>
+</body>
+</html>
