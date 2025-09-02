@@ -86,7 +86,7 @@ loader.load('/images/space_4.jpg', function (texture) {
 // -------------------------
 // Main Planet
 // -------------------------
-const planetTexture = new THREE.TextureLoader().load("images/2k_neptune.jpg");
+const planetTexture = new THREE.TextureLoader().load("/images/2k_neptune.jpg");
 // trying out textures
 // const normalTexture = new THREE.TextureLoader().load('planet_tex1.jpg');
 
