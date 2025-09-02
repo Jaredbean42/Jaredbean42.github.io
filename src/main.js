@@ -105,7 +105,7 @@ scene.add(planetMain);
 
 
 // -------------------------
-// Particles
+// Particles?
 // -------------------------
 
 
