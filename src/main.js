@@ -73,7 +73,7 @@ window.addEventListener("resize", () => {
 // -------------------------
 let backgroundMesh;
 const loader = new THREE.TextureLoader();
-loader.load('images/space_4.jpg', function (texture) {
+loader.load('/images/space_4.jpg', function (texture) {
   const geometry = new THREE.SphereGeometry(300, 60, 40);
   const material = new THREE.MeshBasicMaterial({
     map: texture,
