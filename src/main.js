@@ -2,11 +2,6 @@ import './style.css';
 import * as THREE from 'three';
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
 
-// vite.config.js
-export default {
-  base: '/Jaredbean42.github.io/',
-}
-
 
 // -------------------------
 // Scene, Camera, Renderer
