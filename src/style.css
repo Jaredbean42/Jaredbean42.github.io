@@ -15,7 +15,7 @@
 :root {
   /* Colors */
   --color-primary: rgba(61, 61, 61, 0.9);
-  --color-secondary: rgb(120, 8, 8);   /* accent */
+  --color-secondary: white;   /* accent */
   --color-bg-light: rgba(175, 176, 175, 0.8);
   --color-bg-card: rgba(175, 176, 175, 0.8);
   --color-white: #ffffff;
