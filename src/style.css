@@ -23,7 +23,9 @@
   --color-lighter: #f5f5f5;
   --color-muted: #cccccc;
   --color-shadow: rgba(0, 0, 0, 0.15);
-  --color-shadow-strong: rgba(0, 0, 0, 0.35);
+  --color-shadow-strong: rgba(0, 0, 0, 0.35); 
+
+
 
   /* Typography */
   --font-body: 'Source Sans Pro', sans-serif;
