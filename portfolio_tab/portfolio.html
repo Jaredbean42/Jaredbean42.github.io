@@ -1,27 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jared Bean | Portfolio</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Projects - Jared Bean</title>
 
-    <!-- CSS -->
-    <link rel="stylesheet" href="portfolio_tab/style.css" />
+  <!-- Font Awesome -->
+  <link 
+    rel="stylesheet" 
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+  />
+
+  <!-- Local CSS -->
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  
-  
-    <h1>Hello World!</h1>
-
-
-
-      <!-- Navigation Bar-->
+  <!-- Navigation Bar -->
   <nav class="nav">
     <ul class="nav_list">
       <li class="brand_name">Jared Bean</li>
       <div class="nav_center_links">
-        <li><a href="#putlinkhere">About</a></li>
-        <li><a href="portfolio_tab/portfolio.html">Projects</a></li>
+        <li><a href="../index.html"><i class="fas fa-home"></i></a></li>
+        <li><a href="../index.html#about">About</a></li>
+        <li><a href="portfolio.html">Projects</a></li>
       </div>
       <div class="nav_right_links">
         <li><a href="#"><i class="fab fa-github"></i></a></li>
@@ -30,5 +31,114 @@
     </ul>
   </nav>
 
+  <!-- Projects Wrapper -->
+  <div id="wrapper">
+    <section class="projects_section">
+      <h2>My Portfolio</h2>
+      <div class="projects_grid">
+
+        <!-- Project 1 -->
+        <div class="project-card">
+          <img src="images/solow.png" alt="Solow Model Report Screenshot" class="project-img">
+          <div class="project-content">
+            <h3>Solow Model Simulations</h3>
+            <p>
+              A macroeconomic analysis using the Solow Growth Model to study the effects 
+              of savings, technology transfers, and foreign aid on long-term economic growth. 
+              Includes simulations, phase diagrams, and policy implications.
+            </p>
+            <div class="tags">
+              <span>Macroeconomics</span><span>Policy Analysis</span><span>Simulation</span>
+            </div>
+            <div class="project-links">
+              <a href="Solow%20Model%20Simulations.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+              <a href="Solow_Model_Simulations.pdf" download><i class="fas fa-download"></i></a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Project 2 -->
+        <div class="project-card">
+          <img src="images/project2.png" alt="Project 2 Screenshot" class="project-img">
+          <div class="project-content">
+            <h3>Machine Learning Model</h3>
+            <p>Trained a regression model to predict income levels using survey datasets.</p>
+            <div class="tags">
+              <span>Python</span><span>scikit-learn</span><span>Pandas</span>
+            </div>
+            <div class="project-links">
+              <a href="#"><i class="fab fa-github"></i></a>
+              <a href="#"><i class="fas fa-external-link-alt"></i></a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Project 3 -->
+        <div class="project-card">
+          <img src="images/project3.png" alt="Project 3 Screenshot" class="project-img">
+          <div class="project-content">
+            <h3>Personal Portfolio Website</h3>
+            <p>A responsive personal website built with HTML, CSS, and JavaScript to showcase projects.</p>
+            <div class="tags">
+              <span>HTML</span><span>CSS</span><span>JavaScript</span>
+            </div>
+            <div class="project-links">
+              <a href="#"><i class="fab fa-github"></i></a>
+              <a href="#"><i class="fas fa-external-link-alt"></i></a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Project 4 -->
+        <div class="project-card">
+          <img src="images/project4.png" alt="Project 4 Screenshot" class="project-img">
+          <div class="project-content">
+            <h3>Pygame Platformer Game</h3>
+            <p>A 2D platformer game built in Pygame with custom physics and pytest unit tests.</p>
+            <div class="tags">
+              <span>Python</span><span>Pygame</span><span>Pytest</span>
+            </div>
+            <div class="project-links">
+              <a href="#"><i class="fab fa-github"></i></a>
+              <a href="#"><i class="fas fa-external-link-alt"></i></a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Project 5 -->
+        <div class="project-card">
+          <img src="images/project5.png" alt="Project 5 Screenshot" class="project-img">
+          <div class="project-content">
+            <h3>Stock Price Prediction</h3>
+            <p>Built an LSTM deep learning model to forecast stock price movements using TensorFlow.</p>
+            <div class="tags">
+              <span>Python</span><span>TensorFlow</span><span>Keras</span>
+            </div>
+            <div class="project-links">
+              <a href="#"><i class="fab fa-github"></i></a>
+              <a href="#"><i class="fas fa-external-link-alt"></i></a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Project 6 -->
+        <div class="project-card">
+          <img src="images/project6.png" alt="Project 6 Screenshot" class="project-img">
+          <div class="project-content">
+            <h3>IoT Distance Sensor</h3>
+            <p>An IoT project that measures distance with a sensor and displays results on an LCD screen.</p>
+            <div class="tags">
+              <span>Arduino</span><span>C++</span><span>Electronics</span>
+            </div>
+            <div class="project-links">
+              <a href="#"><i class="fab fa-github"></i></a>
+              <a href="#"><i class="fas fa-external-link-alt"></i></a>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+  </div>
 </body>
 </html>
