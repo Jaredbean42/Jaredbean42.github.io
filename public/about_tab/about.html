@@ -1,0 +1,77 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Jared Bean — About</title>
+
+  <!-- Font -->
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600&display=swap" rel="stylesheet">
+
+  <!-- Font Awesome (icons) -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Top navigation -->
+  <nav class="nav" role="navigation" aria-label="Main navigation">
+    <div class="nav-inner">
+      <div class="brand"><a href="index.html">Jared Bean</a></div>
+
+      <ul class="nav-center">
+        <li><a href="index.html" aria-current="page"><i class="fas fa-home" aria-hidden="true"></i><span class="sr-only">Home</span></a></li>
+        <li><a href="about.html" class="active">About</a></li>
+        <li><a href="portfolio_tab/portfolio.html">Projects</a></li>
+      </ul>
+
+      <ul class="nav-right">
+        <li><a href="#" title="GitHub"><i class="fab fa-github"></i></a></li>
+        <li><a href="#" title="LinkedIn"><i class="fab fa-linkedin"></i></a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- Main content -->
+  <main id="main" class="container" role="main">
+    <section class="hero">
+      <div class="hero-left">
+        <img src="images/profile_pic.jpg" alt="Jared Bean profile" class="profile-pic">
+        <div class="buttons">
+          <a class="btn" href="mailto:you@example.com">Contact</a>
+          <a class="btn ghost" href="resume.pdf" target="_blank" rel="noopener">Resume (pdf)</a>
+        </div>
+      </div>
+
+      <div class="hero-right">
+        <h1>About — Under Construction</h1>
+        <p class="lead">Thanks for stopping by! I'm currently working on this page. Check back soon — meanwhile you can view my projects or contact me.</p>
+
+        <div class="under-construction">
+          <span class="warning-emoji" aria-hidden="true">🚧</span>
+          <strong>Under Construction</strong>
+          <p>Work in progress — content coming soon. If you need something right now, email me or view my projects.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="experience teaser">
+      <h2>Quick Experience</h2>
+      <p>Economics student & data researcher. Tutor, research assistant, and occasional Excel VBA noodler.</p>
+    </section>
+  </main>
+
+  <!-- Optional: small accessibility helper -->
+  <a href="#main" class="skip-link">Skip to content</a>
+
+  <!-- Minimal JS to add nav shadow on scroll -->
+  <script>
+    const nav = document.querySelector('.nav');
+    window.addEventListener('scroll', () => {
+      if (window.scrollY > 10) nav.classList.add('scrolled'); else nav.classList.remove('scrolled');
+    });
+  </script>
+</body>
+</html>
