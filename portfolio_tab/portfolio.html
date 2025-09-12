@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Projects - Jared Bean</title>
+
   <!-- Font Awesome -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+  <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+
   <!-- Local CSS -->
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <!-- Navigation Bar -->
@@ -20,121 +23,174 @@
         <li><a href="portfolio.html">Projects</a></li>
       </div>
       <div class="nav_right_links">
-        <li><a href="#"><i class="fab fa-github"></i></a></li>
-        <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+        <li><a href="https://github.com/Jaredbean42" target="_blank"><i class="fab fa-github"></i></a></li>
+        <li><a href="https://www.linkedin.com/in/jaredbean42" target="_blank"><i class="fab fa-linkedin"></i></a></li>
       </div>
     </ul>
   </nav>
+
   <!-- Projects Wrapper -->
   <div id="wrapper">
     <section class="projects_section">
       <h2>Portfolio</h2>
       <div class="projects_grid">
-        <!-- Project 1 -->
+
+        <!-- ====== Each project card has a screenshot + description + link ====== -->
+
         <div class="project-card">
-          <img src="/images/solow_pic.png" alt="Solow Model Report Screenshot" class="project-img">
+          <img src="cvr_img/grades.jpg" alt="Predicting Grades Screenshot" class="project-img">
           <div class="project-content">
-            <h3>Solow Model Simulations</h3>
-            <p>
-              A macroeconomic analysis using the Solow Growth Model to study the effects of savings, technology transfers, and foreign aid on long-term economic growth. Includes simulations, phase diagrams, and policy implications.
-            </p>
-            <div class="tags">
-              <span>Macroeconomics</span>
-              <span>Policy Analysis</span>
-              <span>Simulation</span>
-            </div>
+            <h3>Analysis: Predicting Grades</h3>
+            <p>Uses statistical modeling to predict student grades based on survey and performance data.</p>
+            <div class="tags"><span>Statistics</span><span>Predictive Modeling</span></div>
             <div class="project-links">
-              <a href="public/portfolio_tab/port_mat/Solow_model.pdf" target="_blank">
+              <a href="public/portfolio_tab/port_mat/Analysis%20Predicting%20Grades.html" target="_blank">
+                <i class="fas fa-file-code"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="project-card">
+          <img src="cvr_img/weather.jpg" alt="Predicting Weather Screenshot" class="project-img">
+          <div class="project-content">
+            <h3>Analysis: Predicting the Weather</h3>
+            <p>A simple machine learning approach to short-term weather prediction.</p>
+            <div class="tags"><span>Machine Learning</span><span>Meteorology</span></div>
+            <div class="project-links">
+              <a href="public/portfolio_tab/port_mat/Analysis%20Predicting%20the%20Weather.html" target="_blank">
+                <i class="fas fa-file-code"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="project-card">
+          <img src="cvr_img/gymtimes.jpg" alt="Gym Times Screenshot" class="project-img">
+          <div class="project-content">
+            <h3>Analysis: Spring 2022 Gym Times</h3>
+            <p>Data analysis of campus gym usage patterns to identify peak times and trends.</p>
+            <div class="tags"><span>Data Analysis</span><span>Visualization</span></div>
+            <div class="project-links">
+              <a href="public/portfolio_tab/port_mat/Analysis%20Spring%20of%2022%20Gym%20Times.html" target="_blank">
+                <i class="fas fa-file-code"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="project-card">
+          <img src="cvr_img/is_curve.jpg" alt="IS Curve Screenshot" class="project-img">
+          <div class="project-content">
+            <h3>Empirical Estimation of the IS Curve</h3>
+            <p>Econometric estimation of the IS curve, analyzing investment-savings relationships.</p>
+            <div class="tags"><span>Macroeconomics</span><span>Econometrics</span></div>
+            <div class="project-links">
+              <a href="public/portfolio_tab/port_mat/Empirical%20Estimation%20of%20the%20IS%20Curve.pdf" target="_blank">
                 <i class="fas fa-file-pdf"></i>
               </a>
             </div>
           </div>
         </div>
-        <!-- Project 2 -->
+
         <div class="project-card">
-          <img src="images/project2.png" alt="Project 2 Screenshot" class="project-img">
+          <img src="cvr_img/growth.jpg" alt="Growth Accounting Screenshot" class="project-img">
           <div class="project-content">
-            <h3>Machine Learning Model</h3>
-            <p>Trained a regression model to predict income levels using survey datasets.</p>
-            <div class="tags">
-              <span>Python</span>
-              <span>scikit-learn</span>
-              <span>Pandas</span>
-            </div>
+            <h3>Growth Accounting</h3>
+            <p>Breakdown of economic growth into factor contributions like capital, labor, and technology.</p>
+            <div class="tags"><span>Growth Theory</span><span>Economics</span></div>
             <div class="project-links">
-              <a href="#"><i class="fab fa-github"></i></a>
-              <a href="#"><i class="fas fa-external-link-alt"></i></a>
+              <a href="public/portfolio_tab/port_mat/Growth%20Accounting.pdf" target="_blank">
+                <i class="fas fa-file-pdf"></i>
+              </a>
             </div>
           </div>
         </div>
-        <!-- Project 3 -->
+
         <div class="project-card">
-          <img src="images/project3.png" alt="Project 3 Screenshot" class="project-img">
+          <img src="cvr_img/is_mp.jpg" alt="IS and MP Curve Screenshot" class="project-img">
           <div class="project-content">
-            <h3>Personal Portfolio Website</h3>
-            <p>A responsive personal website built with HTML, CSS, and JavaScript to showcase projects.</p>
-            <div class="tags">
-              <span>HTML</span>
-              <span>CSS</span>
-              <span>JavaScript</span>
-            </div>
+            <h3>IS and MP Curve Simulations</h3>
+            <p>Simulated effects of monetary policy and IS shifts on output and interest rates.</p>
+            <div class="tags"><span>Monetary Policy</span><span>Simulation</span></div>
             <div class="project-links">
-              <a href="#"><i class="fab fa-github"></i></a>
-              <a href="#"><i class="fas fa-external-link-alt"></i></a>
+              <a href="public/portfolio_tab/port_mat/IS%20and%20MP%20Curve%20Simulations.pdf" target="_blank">
+                <i class="fas fa-file-pdf"></i>
+              </a>
             </div>
           </div>
         </div>
-        <!-- Project 4 -->
+
         <div class="project-card">
-          <img src="images/project4.png" alt="Project 4 Screenshot" class="project-img">
+          <img src="cvr_img/national_accounting.jpg" alt="National Accounting Screenshot" class="project-img">
           <div class="project-content">
-            <h3>Pygame Platformer Game</h3>
-            <p>A 2D platformer game built in Pygame with custom physics and pytest unit tests.</p>
-            <div class="tags">
-              <span>Python</span>
-              <span>Pygame</span>
-              <span>Pytest</span>
-            </div>
+            <h3>National Accounting</h3>
+            <p>Summary of national income accounting principles and key macroeconomic measures.</p>
+            <div class="tags"><span>Macroeconomics</span><span>Policy</span></div>
             <div class="project-links">
-              <a href="#"><i class="fab fa-github"></i></a>
-              <a href="#"><i class="fas fa-external-link-alt"></i></a>
+              <a href="public/portfolio_tab/port_mat/National%20Accounting.docx" target="_blank">
+                <i class="fas fa-file-word"></i>
+              </a>
             </div>
           </div>
         </div>
-        <!-- Project 5 -->
+
         <div class="project-card">
-          <img src="images/project5.png" alt="Project 5 Screenshot" class="project-img">
+          <img src="cvr_img/okun.jpg" alt="Okun's Law Screenshot" class="project-img">
           <div class="project-content">
-            <h3>Stock Price Prediction</h3>
-            <p>Built an LSTM deep learning model to forecast stock price movements using TensorFlow.</p>
-            <div class="tags">
-              <span>Python</span>
-              <span>TensorFlow</span>
-              <span>Keras</span>
-            </div>
+            <h3>Okun's Law</h3>
+            <p>Empirical analysis of the relationship between unemployment and GDP growth.</p>
+            <div class="tags"><span>Econometrics</span><span>Macroeconomics</span></div>
             <div class="project-links">
-              <a href="#"><i class="fab fa-github"></i></a>
-              <a href="#"><i class="fas fa-external-link-alt"></i></a>
+              <a href="public/portfolio_tab/port_mat/Okun's%20Law.pdf" target="_blank">
+                <i class="fas fa-file-pdf"></i>
+              </a>
             </div>
           </div>
         </div>
-        <!-- Project 6 -->
+
         <div class="project-card">
-          <img src="images/project6.png" alt="Project 6 Screenshot" class="project-img">
+          <img src="cvr_img/theoretical_policy.jpg" alt="Policy Analysis Screenshot" class="project-img">
           <div class="project-content">
-            <h3>IoT Distance Sensor</h3>
-            <p>An IoT project that measures distance with a sensor and displays results on an LCD screen.</p>
-            <div class="tags">
-              <span>Arduino</span>
-              <span>C++</span>
-              <span>Electronics</span>
-            </div>
+            <h3>Theoretical Policy Analysis</h3>
+            <p>A conceptual study of macroeconomic policy tools and their theoretical implications.</p>
+            <div class="tags"><span>Policy</span><span>Economic Theory</span></div>
             <div class="project-links">
-              <a href="#"><i class="fab fa-github"></i></a>
-              <a href="#"><i class="fas fa-external-link-alt"></i></a>
+              <a href="public/portfolio_tab/port_mat/Theroretical%20Policy%20Analysis.pdf" target="_blank">
+                <i class="fas fa-file-pdf"></i>
+              </a>
             </div>
           </div>
         </div>
+
+        <div class="project-card">
+          <img src="cvr_img/whooping_cough.jpg" alt="Whooping Cough Screenshot" class="project-img">
+          <div class="project-content">
+            <h3>Whooping Cough Study (Quarto)</h3>
+            <p>Quarto analysis exploring epidemiological trends in whooping cough incidence.</p>
+            <div class="tags"><span>Epidemiology</span><span>Quarto</span></div>
+            <div class="project-links">
+              <a href="public/portfolio_tab/port_mat/Whooping%20Cough.qmd" target="_blank">
+                <i class="fas fa-file-code"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="project-card">
+          <img src="cvr_img/solow_model.jpg" alt="Solow Model Screenshot" class="project-img">
+          <div class="project-content">
+            <h3>Solow Model Simulations</h3>
+            <p>Analysis using the Solow Growth Model to study long-run economic growth drivers.</p>
+            <div class="tags"><span>Macroeconomics</span><span>Policy Analysis</span><span>Simulation</span></div>
+            <div class="project-links">
+              <a href="public/portfolio_tab/port_mat/Solow_model/Solow_model.pdf" target="_blank">
+                <i class="fas fa-file-pdf"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+
       </div>
     </section>
   </div>
