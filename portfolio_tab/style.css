@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400&display=swap');
 
-
 :root {
   --color-primary: #3d3d3d;
   --color-accent: #ffffff;
@@ -20,7 +19,6 @@ body {
 /* ===============================
    NAVIGATION
 ================================ */
-
 .nav {
   background-color: var(--color-primary);
   box-shadow: 0 2px 5px rgba(0,0,0,0.25);
@@ -71,13 +69,11 @@ body {
   border-radius: 5px;
 }
 
-
 /* ===============================
-   PROJECTS SECTION (scoped)
+   PROJECTS SECTION
 ================================ */
-
 #wrapper {
-  padding-top: 90px; /* spacing so content doesn't hide under navbar */
+  padding-top: 90px; /* prevent content under nav */
 }
 
 .projects_section {
@@ -94,7 +90,7 @@ body {
   font-weight: 400;
 }
 
-/* Grid layout (only inside projects section) */
+/* Grid layout */
 .projects_section .projects_grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -110,6 +106,7 @@ body {
   transition: transform 0.2s ease, box-shadow 0.2s ease;
   display: flex;
   flex-direction: column;
+  position: relative;
 }
 
 .projects_section .project-card:hover {
@@ -122,6 +119,12 @@ body {
   width: 100%;
   height: 180px;
   object-fit: cover;
+  transition: transform 0.25s ease, filter 0.25s ease;
+}
+
+.projects_section .project-card:hover .project-img {
+  transform: scale(1.02);
+  filter: brightness(0.95);
 }
 
 /* Project content */
@@ -159,23 +162,7 @@ body {
   display: inline-block;
 }
 
-/* Links */
-.projects_section .project-links a {
-  margin-right: 12px;
-  color: var(--color-primary);
-  font-size: 1.2rem;
-  transition: color 0.3s ease;
-}
-
-.projects_section .project-links a:hover {
-  color: #0077b6; /* accent hover */
-}
-
-
-
-
-
-/* small enhancements for project icons and hover overlay */
+/* Project links / icons */
 .projects_section .project-links a {
   display: inline-block;
   margin-right: 8px;
@@ -184,54 +171,30 @@ body {
   text-decoration: none;
   padding: 6px;
   border-radius: 6px;
+  transition: background 0.3s ease, color 0.3s ease;
 }
+
 .projects_section .project-links a:hover {
   background: rgba(0,0,0,0.05);
+  color: #0077b6; /* accent hover */
 }
 
-/* make pdf/word icons a bit more visible */
-.projects_section .project-links i.fas.fa-file-pdf { color: #c62828; }   /* red for pdf */
-.projects_section .project-links i.fas.fa-file-word { color: #1565c0; }  /* blue for word */
-
-/* image overlay to reveal links on hover */
-.project-card { position: relative; }
-.project-card .project-img { transition: transform 0.25s ease, filter 0.25s ease; }
-.project-card:hover .project-img { transform: scale(1.02); filter: brightness(0.95); }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* Icon colors */
+.projects_section .project-links i.fas.fa-file-pdf { color: #c62828; }
+.projects_section .project-links i.fas.fa-file-word { color: #1565c0; }
 
 /* ===============================
    RESPONSIVE DESIGN
 ================================ */
 
-/* For tablets and smaller laptops */
+/* Tablets / small laptops */
 @media (max-width: 1024px) {
-  .projects_section {
-    padding: 1.5rem;
-  }
-
-  .projects_section h2 {
-    font-size: 1.75rem;
-  }
+  .projects_section { padding: 1.5rem; }
+  .projects_section h2 { font-size: 1.75rem; }
 }
 
-/* For phones */
+/* Phones */
 @media (max-width: 768px) {
-  /* Navbar becomes vertical stacked */
   .nav_list {
     flex-direction: column;
     align-items: flex-start;
@@ -241,44 +204,31 @@ body {
   }
 
   .nav_center_links,
-  .nav_right_links {
-    gap: 1rem;
-  }
+  .nav_right_links { gap: 1rem; }
 
-  .brand_name {
-    margin-bottom: 0.5rem;
-  }
+  .brand_name { margin-bottom: 0.5rem; }
 
-  /* Projects grid becomes 1 column */
   .projects_section .projects_grid {
     grid-template-columns: 1fr;
+    gap: 1.25rem;
   }
 
-  .projects_section h2 {
-    font-size: 1.5rem;
-  }
-
-  .projects_section .project-content h3 {
-    font-size: 1.1rem;
-  }
+  .projects_section { padding: 1rem; }
+  .projects_section h2 { font-size: 1.5rem; margin-bottom: 2rem; }
+  .projects_section .project-content h3 { font-size: 1.1rem; }
+  .projects_section .project-card { min-width: 0; }
 }
 
-/* For very small phones */
+/* Very small phones */
 @media (max-width: 480px) {
   .nav {
     padding: 0.5rem;
+    height: auto;
   }
 
-  .projects_section {
-    padding: 1rem;
-  }
+  .projects_section { padding: 0.5rem; }
 
   .projects_section .project-content p {
     font-size: 0.85rem;
-  }
-
-  .projects_section .tags span {
-    font-size: 0.7rem;
-    padding: 3px 8px;
   }
 }
