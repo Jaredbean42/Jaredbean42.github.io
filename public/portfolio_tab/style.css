@@ -175,6 +175,29 @@ body {
 
 
 
+/* small enhancements for project icons and hover overlay */
+.projects_section .project-links a {
+  display: inline-block;
+  margin-right: 8px;
+  font-size: 1.15rem;
+  color: var(--color-primary);
+  text-decoration: none;
+  padding: 6px;
+  border-radius: 6px;
+}
+.projects_section .project-links a:hover {
+  background: rgba(0,0,0,0.05);
+}
+
+/* make pdf/word icons a bit more visible */
+.projects_section .project-links i.fas.fa-file-pdf { color: #c62828; }   /* red for pdf */
+.projects_section .project-links i.fas.fa-file-word { color: #1565c0; }  /* blue for word */
+
+/* image overlay to reveal links on hover */
+.project-card { position: relative; }
+.project-card .project-img { transition: transform 0.25s ease, filter 0.25s ease; }
+.project-card:hover .project-img { transform: scale(1.02); filter: brightness(0.95); }
+
 
 
 
