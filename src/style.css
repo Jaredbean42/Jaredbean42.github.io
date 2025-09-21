@@ -128,7 +128,7 @@ body {
 
 .nav_center_links a:hover,
 .nav_right_links a:hover {
-  background-color: #e0e0e0;
+  background-color: var(--color-muted);
   border-radius: var(--radius-sm);
 }
 
@@ -173,8 +173,7 @@ body {
 .resume_button {
   padding: 10px 20px;
   font-size: var(--font-size-base);
-  /* background-color: var(--color-primary); */
-  background-color: var(--color-shadow);
+  background-color: var(--color-primary);
   color: var(--color-white);
   border: none;
   border-radius: var(--radius-sm);
@@ -184,7 +183,7 @@ body {
 
 .contact_button:hover,
 .resume_button:hover {
-  background-color: var(--color-secondary);
+  background-color: var(--color-muted);
 }
 
 .intro_text {
