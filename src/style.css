@@ -1,103 +1,128 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400&display=swap');
 
 /* ===============================
-   temporary helpers
-================================ */
-
-#wrapper.ui-off {
-  display: none;
-}
-
-
-/* ===============================
-   GLOBAL VARIABLES
+   CSS CUSTOM PROPERTIES (Variables)
+   ================================
+   These are reusable values that make it easy to maintain
+   consistent design throughout the site. Change once, update everywhere.
 ================================ */
 :root {
-  /* Colors */
+  /* Color Palette */
   --color-primary: #3b495a;
-  --color-primarygradiant: 
-  linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),
-  linear-gradient(135deg, #3d8890, #586f8a, #787e97);
-
-  --color-secondary: rgb(255, 255, 255);   /* accent */
+  --color-primary-dark: #2a3746;
+  --color-primary-gradient: 
+    linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),
+    linear-gradient(135deg, #3d8890, #586f8a, #787e97);
+  
+  --color-secondary: #ffffff;
   --color-bg-light: rgba(175, 176, 175, 0.8);
   --color-bg-card: rgba(175, 176, 175, 0.8);
   --color-white: #ffffff;
   --color-light: #e6e6e6;
   --color-lighter: #f5f5f5;
   --color-muted: #cccccc;
-  --color-shadow: rgba(0, 0, 0, 0.15);
-  --color-shadow-strong: rgba(0, 0, 0, 0.35); 
+  
+  /* Shadow values for depth */
+  --shadow-sm: 0 2px 5px rgba(0, 0, 0, 0.15);
+  --shadow-md: 0 4px 20px rgba(0, 0, 0, 0.15);
+  --shadow-lg: 0 4px 15px rgba(0, 0, 0, 0.35);
 
-
-
-  /* Typography */
+  /* Typography - Using rem for scalability */
   --font-body: 'Source Sans Pro', sans-serif;
-  --font-size-base: 1em;
-  --font-size-sm: 0.9rem;
-  --font-size-md: 1.1em;
-  --font-size-lg: 1.3rem;
-  --font-size-xl: 1.8rem;
-  --font-size-xxl: 2em;
+  --font-size-sm: 0.875rem;    /* 14px if base is 16px */
+  --font-size-base: 1rem;      /* 16px */
+  --font-size-md: 1.1rem;      /* 17.6px */
+  --font-size-lg: 1.3rem;      /* 20.8px */
+  --font-size-xl: 1.8rem;      /* 28.8px */
+  --font-size-xxl: 2rem;       /* 32px */
+  --line-height-base: 1.6;
 
-  /* Layout */
-  --spacing-sm: 0.5rem;
-  --spacing-md: 1rem;
-  --spacing-lg: 2rem;
-  --spacing-xl: 5rem;
+  /* Spacing System - Consistent spacing scale */
+  --spacing-xs: 0.25rem;       /* 4px */
+  --spacing-sm: 0.5rem;        /* 8px */
+  --spacing-md: 1rem;          /* 16px */
+  --spacing-lg: 2rem;          /* 32px */
+  --spacing-xl: 3rem;          /* 48px */
+  --spacing-xxl: 5rem;         /* 80px */
 
-  /* Borders / Radius */
-  --radius-sm: 5px;
-  --radius-md: 0.5em;
+  /* Border Radius */
+  --radius-sm: 0.3125rem;      /* 5px */
+  --radius-md: 0.5rem;         /* 8px */
+  --radius-round: 50%;
 
-  /* Transitions */
+  /* Transitions - Smooth animations */
   --transition-fast: 0.2s ease;
   --transition-normal: 0.3s ease;
   --transition-slow: 0.8s ease-out;
+
+  /* Z-index Scale - Layering management */
+  --z-canvas: -1;
+  --z-content: 1;
+  --z-nav: 1000;
 }
 
 /* ===============================
-   BASE STYLES
+   RESET & BASE STYLES
+   ================================
+   Sets consistent baseline across browsers
 ================================ */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 html {
-  font-family: var(--font-body);
+  font-size: 16px; /* Base font size for rem calculations */
+  scroll-behavior: smooth; /* Smooth scrolling for anchor links */
 }
 
 body {
   margin: 0;
   padding: 0;
+  font-family: var(--font-body);
+  font-size: var(--font-size-base);
+  line-height: var(--line-height-base);
   overflow-x: hidden;
+  color: #333;
 }
 
 /* ===============================
-   WRAPPER
+   MAIN WRAPPER - Grid Layout
+   ================================
+   12-column grid system for flexible layouts
+   Content starts at 100px from top (nav height + spacing)
 ================================ */
 #wrapper {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
   gap: var(--spacing-lg);
   width: 100%;
+  max-width: 1400px;
   margin: 0 auto;
   padding: 100px var(--spacing-lg) var(--spacing-lg);
   position: relative;
-  z-index: 1; /* above canvas */
+  z-index: var(--z-content);
 }
 
 /* ===============================
-   NAVIGATION
+   NAVIGATION BAR
+   ================================
+   Fixed header that stays at top while scrolling
 ================================ */
 .nav {
-  background: var(--color-primarygradiant);
-  box-shadow: 0 2px 5px var(--color-shadow);
+  background: var(--color-primary-gradient);
+  box-shadow: var(--shadow-sm);
   height: 70px;
   display: flex;
   align-items: center;
-  padding: 0 1em;
+  justify-content: center;
+  padding: 0 var(--spacing-md);
   position: fixed;
   top: 0;
   left: 0;
   right: 0;
-  z-index: 1000;
+  z-index: var(--z-nav);
 }
 
 .nav_list {
@@ -105,13 +130,14 @@ body {
   align-items: center;
   justify-content: space-between;
   width: 100%;
+  max-width: 1400px;
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
 .brand_name {
-  font-size: 1.5em;
+  font-size: 1.5rem;
   font-weight: bold;
   color: var(--color-secondary);
 }
@@ -119,25 +145,36 @@ body {
 .nav_center_links,
 .nav_right_links {
   display: flex;
-  gap: 1.5em;
+  gap: 1.5rem;
 }
 
+/* Navigation link styles with hover and focus states */
 .nav_center_links a,
 .nav_right_links a {
   color: var(--color-secondary);
   text-decoration: none;
-  padding: 8px 12px;
+  padding: 0.5rem 0.75rem;
+  border-radius: var(--radius-sm);
   transition: background-color var(--transition-normal);
 }
 
 .nav_center_links a:hover,
 .nav_right_links a:hover {
-  background-color: var(--color-muted);
-  border-radius: var(--radius-sm);
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+/* Accessibility: Visible focus indicator for keyboard navigation */
+.nav_center_links a:focus,
+.nav_right_links a:focus {
+  outline: 2px solid var(--color-secondary);
+  outline-offset: 2px;
 }
 
 /* ===============================
-   INTRO
+   INTRO SECTION
+   ================================
+   Hero section with profile pic and bio
+   Flexbox for side-by-side layout
 ================================ */
 .intro_section {
   grid-column: 2 / 12;
@@ -146,24 +183,26 @@ body {
   gap: var(--spacing-lg);
   max-width: 1000px;
   padding: var(--spacing-lg);
-  margin: 0 auto 3rem auto;
+  margin: 0 auto var(--spacing-xl) auto;
   background-color: var(--color-bg-light);
   border-radius: var(--radius-md);
+  box-shadow: var(--shadow-md);
 }
 
 .intro_left {
   display: flex;
   flex-direction: column;
   align-items: center;
-  flex-shrink: 0;
+  flex-shrink: 0; /* Prevent squishing on small screens */
 }
 
 .profile_pic {
   width: 270px;
   height: 275px;
   object-fit: cover;
-  border-radius: 50%;
+  border-radius: var(--radius-round);
   border: 5px solid var(--color-white);
+  box-shadow: var(--shadow-sm);
 }
 
 .button_group {
@@ -171,23 +210,40 @@ body {
   gap: var(--spacing-md);
   margin-top: var(--spacing-md);
   flex-wrap: wrap;
+  justify-content: center;
 }
 
+/* Button styles with improved hover effects */
 .contact_button,
 .resume_button {
-  padding: 10px 20px;
+  padding: 0.625rem 1.25rem;
   font-size: var(--font-size-base);
+  font-weight: 600;
   background: var(--color-primary);
   color: var(--color-white);
   border: none;
   border-radius: var(--radius-sm);
   cursor: pointer;
-  transition: background-color var(--transition-normal);
+  transition: all var(--transition-normal);
+  box-shadow: var(--shadow-sm);
 }
 
 .contact_button:hover,
 .resume_button:hover {
-  background-color: var(--color-muted);
+  background-color: var(--color-primary-dark);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.contact_button:focus,
+.resume_button:focus {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 2px;
+}
+
+.contact_button:active,
+.resume_button:active {
+  transform: translateY(0);
 }
 
 .intro_text {
@@ -197,55 +253,51 @@ body {
 
 .intro_text h1 {
   font-size: var(--font-size-xxl);
-  margin-top: 0;
-  color: black;
+  margin: 0 0 var(--spacing-md) 0;
+  color: var(--color-primary);
 }
 
 .intro_text p {
   font-size: var(--font-size-md);
-  line-height: 1.6;
+  line-height: var(--line-height-base);
+  color: #444;
+  margin: 0;
 }
 
 /* ===============================
    SECTION CARDS
+   ================================
+   Reusable card layout for content sections
+   Uses pseudo-element for colored header bar
 ================================ */
 section {
   background: var(--color-bg-card);
   border-radius: var(--radius-md);
-  box-shadow: 0 4px 20px var(--color-shadow);
-  margin-bottom: var(--spacing-xl);
-  position: relative; /* needed for bar + heading positioning */
+  box-shadow: var(--shadow-md);
+  margin-bottom: var(--spacing-xxl);
+  padding: 4rem var(--spacing-lg) var(--spacing-lg);
+  position: relative;
   overflow: hidden;
-  padding: 70px var(--spacing-lg) var(--spacing-lg);
 }
 
-/* Stagger positions */
-.section-left {
-  grid-column: 1 / 8;
-}
-.section-right {
-  grid-column: 6 / 12;
-}
-
-/* Top bar accent */
+/* Decorative top bar with gradient */
 section::before {
   content: "";
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
-  height: 50px;
-  background: var(--color-primarygradiant);
+  height: 3.125rem; /* 50px */
+  background: var(--color-primary-gradient);
   border-top-left-radius: var(--radius-md);
   border-top-right-radius: var(--radius-md);
-  z-index: 0;
 }
 
-/* Headings inside section */
+/* Section heading positioned over the gradient bar */
 section h2 {
   position: absolute;
-  top: 10px;
-  left: 20px;
+  top: 0.625rem; /* 10px */
+  left: 1.25rem; /* 20px */
   z-index: 1;
   color: var(--color-secondary);
   font-size: var(--font-size-xl);
@@ -253,46 +305,58 @@ section h2 {
   margin: 0;
 }
 
+/* Staggered layout - creates visual interest */
+.section-left {
+  grid-column: 1 / 7; /* Left side - spans 6 columns */
+}
+
+.section-right {
+  grid-column: 7 / 13; /* Right side - spans 6 columns */
+}
+
 /* ===============================
-   EXPERIENCE SECTION
+   EXPERIENCE ITEMS
+   ================================
+   Individual job/experience cards with animations
 ================================ */
 .experience-item {
   margin-bottom: var(--spacing-lg);
   padding: var(--spacing-md) 1.5rem;
-  background: var(--color-primarygradiant);
+  background: var(--color-primary-gradient);
   border-radius: var(--radius-md);
-  box-shadow: 0 2px 10px var(--color-shadow);
+  box-shadow: var(--shadow-sm);
+  
+  /* Initial state for scroll animation */
   opacity: 0;
   transform: translateX(-50px);
-  transition: transform var(--transition-slow), opacity var(--transition-slow);
+  transition: 
+    transform var(--transition-slow), 
+    opacity var(--transition-slow),
+    box-shadow var(--transition-normal);
 }
 
-.experience-item:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 4px 15px var(--color-shadow-strong);
-}
-
+/* Triggered when item scrolls into view */
 .experience-item.visible {
   opacity: 1;
   transform: translateX(0);
 }
 
-/* Job Title */
-section h3 {
+.experience-item:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-lg);
+}
+
+/* Job title styling */
+.experience-item h3 {
   margin: 0 0 0.5rem 0;
-  padding-left: 10px;
+  padding-left: 0.625rem;
   color: var(--color-secondary);
   font-size: var(--font-size-lg);
   font-weight: 600;
   border-left: 4px solid var(--color-secondary);
 }
 
-/* Employer + Location */
-.experience-item p strong {
-  color: var(--color-white);
-  font-weight: 600;
-}
-
+/* Company name and location */
 .experience-item p {
   margin: 0.25rem 0 0.75rem 0;
   color: var(--color-light);
@@ -300,16 +364,21 @@ section h3 {
   line-height: 1.5;
 }
 
-/* Dates */
+.experience-item p strong {
+  color: var(--color-white);
+  font-weight: 600;
+}
+
+/* Date range styling */
 .experience-item p em {
   color: var(--color-muted);
   font-style: italic;
   font-size: var(--font-size-sm);
 }
 
-/* Bullet Points */
+/* Bullet point lists */
 .experience-item ul {
-  margin: 0.25rem 0 0 1.25rem;
+  margin: 0.5rem 0 0 1.25rem;
   padding: 0;
   list-style-type: disc;
 }
@@ -321,19 +390,56 @@ section h3 {
   font-size: 0.95rem;
 }
 
-
+/* ===============================
+   CANVAS BACKGROUND
+   ================================
+   Animated background layer behind all content
+================================ */
+canvas#background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: var(--z-canvas);
+  display: block;
+}
 
 /* ===============================
-   RESPONSIVE
+   RESPONSIVE DESIGN
+   ================================
+   Mobile-first approach with breakpoints
 ================================ */
 
-/* Tablets and smaller laptops */
+/* Tablets & Small Laptops (1024px and below) */
 @media (max-width: 1024px) {
   #wrapper {
     grid-template-columns: repeat(8, 1fr);
     padding: 80px var(--spacing-md) var(--spacing-md);
   }
 
+  /* Stack sections vertically */
+  .section-left,
+  .section-right {
+    grid-column: 1 / -1; /* Full width */
+  }
+
+  /* Center section headings on smaller screens */
+  section {
+    padding-top: 5rem;
+  }
+
+  section h2 {
+    position: static;
+    text-align: center;
+    margin-bottom: var(--spacing-md);
+  }
+
+  section::before {
+    height: 4rem;
+  }
+
+  /* Stack intro section vertically */
   .intro_section {
     flex-direction: column;
     text-align: center;
@@ -344,48 +450,37 @@ section h3 {
     padding-left: 0;
     margin-top: var(--spacing-md);
   }
-
-  .section-left,
-  .section-right {
-    grid-column: 1 / -1; /* stack sections full width */
-  }
-
-  section h2 {
-    font-size: 1.5rem;
-  }
 }
 
-/* Phones */
+/* Tablets (768px and below) */
 @media (max-width: 768px) {
-  /* Navbar collapses */
+  #wrapper {
+    gap: var(--spacing-md);
+  }
+
+  .intro_section,
+  .section-left,
+  .section-right {
+    grid-column: 1 / -1;
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .nav {
+    height: auto;
+    padding: var(--spacing-sm);
+  }
+
   .nav_list {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 0.75rem;
-    padding: 0.5rem 0;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: var(--spacing-sm);
   }
 
   .nav_center_links,
   .nav_right_links {
-    flex-direction: column;
-    gap: 0.5rem;
-    width: 100%;
-  }
-
-  .brand_name {
-    margin-bottom: 0.5rem;
-  }
-
-  /* Intro section stacks cleanly */
-  .intro_section {
-    flex-direction: column;
-    text-align: center;
-    padding: var(--spacing-md);
-  }
-
-  .profile_pic {
-    width: 200px;
-    height: 200px;
+    gap: var(--spacing-sm);
   }
 
   .intro_text h1 {
@@ -396,32 +491,37 @@ section h3 {
     font-size: 1rem;
   }
 
-  /* Projects grid becomes single column */
-  .projects_section .projects_grid {
-    grid-template-columns: 1fr;
+  .profile_pic {
+    width: 200px;
+    height: 200px;
   }
 }
 
-/* Very small phones */
+/* Mobile Phones (480px and below) */
 @media (max-width: 480px) {
   #wrapper {
     grid-template-columns: 1fr;
-    padding: 70px var(--spacing-sm);
+    padding: 70px var(--spacing-sm) var(--spacing-sm);
   }
 
   .nav {
     flex-direction: column;
-    height: auto;
-    padding: 0.5rem;
     text-align: center;
+    padding: var(--spacing-sm);
   }
 
   .nav_list {
-    align-items: center;
+    flex-direction: column;
+    gap: var(--spacing-xs);
+  }
+
+  .brand_name {
+    font-size: 1.25rem;
+    margin-bottom: var(--spacing-xs);
   }
 
   .intro_section {
-    padding: var(--spacing-sm);
+    padding: var(--spacing-md);
   }
 
   .profile_pic {
@@ -438,21 +538,24 @@ section h3 {
   }
 
   section {
-    padding: 50px var(--spacing-sm) var(--spacing-sm);
+    padding: 4rem var(--spacing-sm) var(--spacing-sm);
   }
-}
 
+  section h2 {
+    font-size: 1.4rem;
+  }
 
+  .experience-item {
+    padding: var(--spacing-sm) var(--spacing-md);
+  }
 
-/* ===============================
-   CANVAS BACKGROUND
-================================ */
-canvas#background {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  z-index: -1;
-  display: block;
+  .button_group {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .contact_button,
+  .resume_button {
+    width: 100%;
+  }
 }
