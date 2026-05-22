@@ -600,12 +600,22 @@ canvas#background {
 
 /*Adjusting colors for mobile devices to improve readability and performance*/
 @media (max-width: 768px) {
-  :root {
-    --color-primary-gradient: 
+  .nav,
+  section::before,
+  .experience-item {
+    background: 
       linear-gradient(rgba(0,0,0,0.15), rgba(0,0,0,0.15)),
       linear-gradient(135deg, #3d8890, #586f8a, #787e97);
-    
-    --color-bg-light: rgba(210, 211, 210, 0.9);
-    --color-bg-card: rgba(210, 211, 210, 0.9);
+  }
+
+  .intro_section,
+  section {
+    background-color: rgba(210, 211, 210, 0.9);
+  }
+}
+
+@media (max-width: 768px) {
+  body {
+    border: 5px solid red;
   }
 }
