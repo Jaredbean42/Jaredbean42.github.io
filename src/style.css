@@ -614,8 +614,3 @@ canvas#background {
   }
 }
 
-@media (max-width: 768px) {
-  body {
-    border: 5px solid red;
-  }
-}
