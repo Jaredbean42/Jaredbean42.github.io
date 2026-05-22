@@ -14,16 +14,12 @@ const renderer = new THREE.WebGLRenderer({ canvas: document.getElementById('back
 renderer.setPixelRatio(window.devicePixelRatio);
 renderer.setSize(window.innerWidth, window.innerHeight);
 
-// Trouble shooting phone rendering (might remove later)
-const renderer = new THREE.WebGLRenderer({ canvas: document.getElementById('background') });
-renderer.setPixelRatio(window.devicePixelRatio);
-renderer.setSize(window.innerWidth, window.innerHeight);
+//trying to fix mobile performance issues
 
 renderer.outputColorSpace = THREE.SRGBColorSpace;
 renderer.toneMapping = THREE.ACESFilmicToneMapping;
 renderer.toneMappingExposure = 1.2;
 
-//End of trouble shooting lines. 
 
 
 // UI wrapper (for show/hide)
