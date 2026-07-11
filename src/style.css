@@ -21,6 +21,7 @@
   --color-light: #e6e6e6;
   --color-lighter: #f5f5f5;
   --color-muted: #cccccc;
+  --color-accent: #3d8890;
   
   /* Shadow values for depth */
   --shadow-sm: 0 2px 5px rgba(0, 0, 0, 0.15);
@@ -309,13 +310,25 @@ section h2 {
   margin: 0;
 }
 
-/* Staggered layout - creates visual interest */
-.section-left {
+/* ===============================
+   COLUMN CONTAINERS
+   ================================
+   Each column stacks its own sections independently,
+   so the right column's height never depends on the
+   left column (and vice versa).
+================================ */
+.col-left {
   grid-column: 1 / 7; /* Left side - spans 6 columns */
+  display: flex;
+  flex-direction: column;
+  align-self: start;
 }
 
-.section-right {
+.col-right {
   grid-column: 7 / 13; /* Right side - spans 6 columns */
+  display: flex;
+  flex-direction: column;
+  align-self: start;
 }
 
 /* ===============================
@@ -401,7 +414,7 @@ section h2 {
 ================================ */
 .goal_section {
   align-self: start;
-  margin-bottom: 0;
+  margin-bottom: var(--spacing-lg);
 }
 
 /*for progress bar*/
@@ -432,7 +445,65 @@ section h2 {
   margin-top: 0.75rem;
 }
 
+/* ===============================
+   Books Read Section
+   ================================
+   Lighter, list-style cards — visually distinct
+   from the solid experience/job cards above.
+================================ */
+.books_section {
+  align-self: start;
+  margin-bottom: 0;
+}
 
+.book-item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.75rem 0.25rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.35);
+  background: transparent;
+  box-shadow: none;
+  transition: transform var(--transition-normal), padding-left var(--transition-normal);
+}
+
+.book-item:last-child {
+  border-bottom: none;
+}
+
+.book-item:hover {
+  transform: none;
+  padding-left: 0.5rem;
+}
+
+.book-icon {
+  flex-shrink: 0;
+  width: 2.25rem;
+  height: 2.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--radius-round);
+  background: var(--color-primary);
+  color: var(--color-accent);
+  font-size: 1rem;
+}
+
+.book-info h3 {
+  margin: 0;
+  padding: 0;
+  border-left: none;
+  color: var(--color-primary-dark);
+  font-size: var(--font-size-md);
+  font-weight: 600;
+}
+
+.book-info p {
+  margin: 0.15rem 0 0 0;
+  color: #555;
+  font-size: var(--font-size-sm);
+  font-style: italic;
+}
 
 /* ===============================
    CANVAS BACKGROUND
@@ -463,8 +534,8 @@ canvas#background {
   }
 
   /* Stack sections vertically */
-  .section-left,
-  .section-right {
+  .col-left,
+  .col-right {
     grid-column: 1 / -1; /* Full width */
   }
 
@@ -503,8 +574,8 @@ canvas#background {
   }
 
   .intro_section,
-  .section-left,
-  .section-right {
+  .col-left,
+  .col-right {
     grid-column: 1 / -1;
     max-width: 90%;
     margin-left: auto;
