@@ -43,11 +43,11 @@ body {
   padding: 0;
 }
 
-.brand_name {
+/* .brand_name {
   font-size: 1.5em;
   font-weight: bold;
   color: var(--color-accent);
-}
+} */
 
 .nav_center_links,
 .nav_right_links {
@@ -205,18 +205,27 @@ body {
 }
 
 @media (max-width: 768px) {
-  .nav_list {
-    flex-direction: column;
-    align-items: flex-start;
+  .nav {
+    box-sizing: border-box;
+    width: 100%;
     height: auto;
     padding: 0.5rem 1rem;
+  }
+
+  .nav_list {
+    box-sizing: border-box;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    padding: 0;
     gap: 0.5rem;
   }
 
   .nav_center_links,
   .nav_right_links { gap: 1rem; }
-
-  .brand_name { margin-bottom: 0.5rem; }
 
   .projects_section .projects_grid {
     grid-template-columns: 1fr;
