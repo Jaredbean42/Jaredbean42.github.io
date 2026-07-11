@@ -128,7 +128,7 @@ body {
 .nav_list {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-start;
   width: 100%;
   max-width: 1400px;
   list-style: none;
@@ -146,6 +146,10 @@ body {
 .nav_right_links {
   display: flex;
   gap: 1.5rem;
+}
+
+.nav_right_links {
+  margin-left: auto;
 }
 
 /* Navigation link styles with hover and focus states */
@@ -513,14 +517,18 @@ canvas#background {
   }
 
   .nav_list {
-    flex-wrap: wrap;
-    justify-content: center;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
     gap: var(--spacing-sm);
   }
 
   .nav_center_links,
   .nav_right_links {
     gap: var(--spacing-sm);
+  }
+
+  .nav_right_links {
+    margin-left: auto;
   }
 
   .intro_text h1 {
@@ -545,14 +553,17 @@ canvas#background {
   }
 
   .nav {
-    flex-direction: column;
-    text-align: center;
     padding: var(--spacing-sm);
   }
 
   .nav_list {
-    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
     gap: var(--spacing-xs);
+  }
+
+  .nav_right_links {
+    margin-left: auto;
   }
 
   .brand_name {
@@ -599,6 +610,3 @@ canvas#background {
     width: 100%;
   }
 }
-
-
-
