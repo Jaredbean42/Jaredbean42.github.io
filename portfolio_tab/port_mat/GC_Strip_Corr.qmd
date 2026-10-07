@@ -1,0 +1,141 @@
+---
+title: "Green Chain Strip Corillation"
+author: "Jared Bean"
+editor: visual
+execute:
+  keep-md: true
+format:
+  html:
+    toc: true
+    toc-location: left
+    self-contained: true
+    code-tools: true
+    code-fold: true
+    code-summary: "Show code"
+    code-overflow: wrap
+    math: mathjax
+editor_options:
+  chunk_output_type: console
+---
+
+## Introduction
+
+To improve recovery, we examined whether the number of employees pulling veneer off the green chain affects the amount salvaged. The hypothesis is that increasing the number of pullers, or adjusting chain speed, may impact recovery rates.
+
+## Hypothesis Statments
+
+Null hypothesis ($H_0$): The number of pullers (2 vs. 3) does not affect the amount of veneer salvaged. $$H_0: \mu_2 = \mu_3 $$
+
+Alternative hypothesis ($H_A$): The number of pullers (2 vs. 3) does affect the amount of veneer salvaged. $$H_0: \mu_2 \neq \mu_3 $$
+
+Where: $$
+\begin{aligned}
+\mu_2 & = \text{mean amount of veneer salvaged with 2 pullers} \\
+\mu_3 & = \text{mean amount of veneer salvaged with 3 pullers}
+\end{aligned}
+$$
+
+## Regression Model
+
+The relationship can be modeled as:
+
+$$
+Y_i = \beta_0 + \beta_1 X_i + \varepsilon_i
+$$
+
+Where:
+
+$$
+\begin{aligned}
+Y_i        & = \text{amount of veneer salvaged for observation } i \\
+X_i        & = \text{number of pullers for observation } i \\
+\beta_0    & = \text{intercept (baseline amount)} \\
+\beta_1    & = \text{effect of each additional puller} \\
+\varepsilon_i & = \text{random error term}
+\end{aligned}
+$$
+
+## Regression Results
+
+```{r}
+#| message: false
+#| warning: false
+
+library(tidyverse)
+library(readxl)
+library(ggplot2)
+library(stargazer)
+
+df <- read_excel("C:/Users/E157398/OneDrive - Boise Cascade/Green End Action Team/Df/GC_Carts_Pulled.xlsx")
+
+GC_reg <- lm(`Strip Pulled In.` ~ `GC Pullers`, data = df)
+
+
+ggplot(df, aes(x = `GC Pullers`, y = `Strip Pulled In.`)) +
+  geom_point(size = 3, color = "steelblue") +                     # Plot data points
+  geom_smooth(method = "lm", se = TRUE, color = "darkred") +      # Add regression line with confidence interval
+  labs(
+    title = "Veneer Pulled vs. Number of Green Chain Pullers",
+    x = "Number of Green Chain Pullers",
+    y = "Veneer Pulled (inches)"
+  )
+```
+
+```{r}
+#| message: false
+#| warning: false
+#| results: asis
+
+#summary(GC_reg)
+stargazer(GC_reg, type = "html", title = "Regression Results", out = NULL)
+```
+
+The regression model shows that the number of Green Chain pullers does not significantly affect the amount of veneer salvaged. The flat line on the graph shows there is hardly any difference between 3-2 pullers. The coefficient for pullers is negative but close to zero, and its p-value (0.70) indicates a lack of statistical significance. The model explains very little variation in the data (R-squared ≈ 0.01), and the intercept is the only term with marginal significance. Overall, the results suggest that changing the number of pullers is not a key driver of how much veneer is pulled.
+
+## Diagnostic Plots
+
+### 1. Residuals vs Fitted
+
+This plot checks the assumptions of linearity and homoscedasticity (constant variance). Interpretation: If the residuals are randomly scattered with no clear pattern, the model fits well and assumptions are met.
+
+```{r}
+#| message: false
+#| warning: false
+plot(GC_reg, which = 1)      # Shows diagnostic plots (residuals, fitted values, etc.)
+```
+
+### 2. Normal Q-Q
+
+This plot checks the normality of residuals. Interpretation: If the points follow the straight line closely, the residuals are approximately normally distributed and statistical inference is reliable.
+
+```{r}
+#| message: false
+#| warning: false
+plot(GC_reg, which = 2)      # Shows diagnostic plots (residuals, fitted values, etc.)
+```
+
+### 3. Scale-Location
+
+This plot checks for homoscedasticity (constant variance). Interpretation: Points should form a horizontal band. A slight "\>" shape suggests a mild increase in variance, but this is usually acceptable unless the funnel is extreme.
+
+```{r}
+#| message: false
+#| warning: false
+plot(GC_reg, which = 3)      # Shows diagnostic plots (residuals, fitted values, etc.)
+```
+
+### 4. Residuals vs Leverage
+
+This plot identifies influential points. Interpretation: If all points are within the Cook’s distance lines, there are no data points unduly influencing the model.
+
+```{r}
+#| message: false
+#| warning: false
+plot(GC_reg, which = 5)      # Shows diagnostic plots (residuals, fitted values, etc.)
+```
+
+The diagnostic plots show that our regression model works well for this data. The errors look random, which means our model is a good fit. The points also follow a straight line in the normal Q-Q plot, so the model’s predictions are reliable. There aren’t any outliers or unusual data points that could mess up the results. Overall, we can trust what our analysis tells us about the effect of the number of pullers on veneer salvaged.
+
+## Conclusion
+
+Based on the analysis, changing between 2 and 3 Green Chain pullers does not have a significant impact on the amount of veneer salvaged. Interestingly, production increased once employees became aware that an experiment was underway. This suggests that factors related to employee engagement or management practices may have a stronger effect on performance than the number of pullers alone.
